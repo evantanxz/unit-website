@@ -1,0 +1,239 @@
+
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-5');
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+  font-family: 'Inter', sans-serif;
+
+}
+
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* --ifm-color-primary: #36454f;
+  --ifm-color-primary-dark: #313e47;
+  --ifm-color-primary-darker: #2e3b43;
+  --ifm-color-primary-darkest: #263037;
+  --ifm-color-primary-light: #3b4c57;
+  --ifm-color-primary-lighter: #3e4f5b;
+  --ifm-color-primary-lightest: #465a67; */
+  --ifm-color-primary: #008080;
+  --ifm-color-primary-dark: #007373;
+  --ifm-color-primary-darker: #006d6d;
+  --ifm-color-primary-darkest: #005a5a;
+  --ifm-color-primary-light: #008d8d;
+  --ifm-color-primary-lighter: #009393;
+  --ifm-color-primary-lightest: #00a6a6;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  /* --ifm-color-primary: #e5e4e2;
+  --ifm-color-primary-dark: #cfceca;
+  --ifm-color-primary-darker: #c5c2be;
+  --ifm-color-primary-darkest: #a4a19a;
+  --ifm-color-primary-light: #fbfafa;
+  --ifm-color-primary-lighter: #ffffff;
+  --ifm-color-primary-lightest: #ffffff; */
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+h1 {
+    font-weight: 500;
+    /* font-family: 'Helvetica Neue', sans-serif; */
+    font-family: "Poppins", sans-serif;
+    margin: 25px 0;
+    font-size: 3rem;
+}
+
+  h2{
+    font-weight: 500;
+    font-size: 1.6rem;
+    /* font-family: 'Helvetica Neue', sans-serif; */
+    font-family: "Poppins", sans-serif;
+  }
+
+  h3 {
+    font-weight: 500;
+    font-size: 1.4rem;
+    /* font-family: 'Helvetica Neue', sans-serif; */
+    font-family: "Poppins", sans-serif;
+  }
+
+/* navbar */
+.navbar__title {
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.navbar__logo {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.navbar__item {
+  font-size: 1rem;
+}
+
+.navbar {
+  height: 100px;  
+}
+
+/*index.js */
+.hero__subtitle {
+  font-size: 1.4rem;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.hero__title {
+  font-size: 2rem;
+}
+
+header {
+  margin: 0;
+  padding: 0;
+}
+
+.button {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .card-demo {
+    flex-direction: column;
+  }
+
+  .navbar {
+    height: 80px;  
+  }
+
+  .navbar__logo {
+    height: 35px;
+    margin-right: 10px;
+  }
+}
+
+/* Landing page (index.js)*/
+
+.header-style {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.unit-hero-logo {
+  margin-bottom: 30px;
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.button-container-style {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-style {
+  margin: 5px 0;
+  width: 350px;
+  font-family: 'Inter', sans-serif;
+}
+
+.container {
+  padding: 0 50px;
+}
+
+
+/*responsiveness */
+@media (max-width: 768px) {
+  .header {
+    padding: none;
+  }
+
+  .header-style {
+    height: 85vh;
+  }
+
+  .unit-hero-logo {
+    width: 120px;
+    margin-bottom: 10px;
+  }
+
+  .hero-subtitle{
+    font-size: 1rem;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .hero__title {
+    margin-bottom: 15px;
+  }
+
+  .button-style {
+    margin: 5px 0;
+    font-size: 1rem;
+    width: 270px;
+
+  }
+
+  .navbar__title {
+    display: none;
+  }
+
+  /*Footer */
+  .footer {
+    padding: 30px 0;
+  }
+
+  .container {
+    padding: 0 25px;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+}
+
+@media (max-width: 480px) {
+  .button-style {
+    width: 100%;
+  }
+}
+
+/* footer */
+.footer__title {
+  font-weight: 500;
+}
+
+.footer__item {
+  font-size: 0.8rem;
+}
+
+.footer__copyright {
+  display: none;
+}
