@@ -130,8 +130,9 @@ header {
 
   .navbar__logo {
     height: 35px;
-    margin-right: 10px;
+    margin-right: 0px;
   }
+  
 }
 
 /* Landing page (index.js)*/
