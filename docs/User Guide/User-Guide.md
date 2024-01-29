@@ -39,4 +39,8 @@ By following this user guide, individuals can seamlessly navigate the Unit Netwo
 
 Unit Network Membership is by invitation only. If you are interested in being considered for invitation to Unit Network, please reach out to an existing member or join our social media network for us to get to know you better.
 
+<div align="center">
+
 ![Alt text](img/invitation.png)
+
+</div>
