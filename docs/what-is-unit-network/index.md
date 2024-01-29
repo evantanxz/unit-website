@@ -1,12 +1,11 @@
 ---
-sidebar_position: 4
+title: What is Unit Network
+sidebar_position: 3
 ---
 
 # What is Unit Network?
 
 Unit Network: Pioneering a New Era of Token-Based Economy
-
-## The Vision
 
 Unit Network pioneers a new era of the token-based economy, serving as both a protocol and application. It connects communities, projects, businesses, real-world assets, and network states in an open financial network.
 
