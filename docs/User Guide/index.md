@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+title: User Guide
+sidebar_position: 6
 ---
 
 # User Guide
