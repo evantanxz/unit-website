@@ -14,15 +14,15 @@ const config = {
   favicon: "img/unit-logo.png",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://tolstoy.unitcode.org/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "Unit Network", // Usually your GitHub org/user name.
+  projectName: "unit-website", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -143,6 +143,22 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+
+      algolia: {
+        // New Algolia configuration...
+        appId: '3AFM8K1VB1',
+        apiKey: 'efca234af25c6fd0be1550cc69363746',
+        indexName: 'docsearch',
+        placeholder: 'Search', 
+        contextualSearch: true,
+        
+        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        replaceSearchResultPathname: {
+          from: '/docs/', // or as RegExp: /\/docs\//
+          to: '/',
+        },
+        //other search parameters
+      },    
     }),
 };
 
