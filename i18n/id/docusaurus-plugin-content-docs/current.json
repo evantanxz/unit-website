@@ -82,5 +82,9 @@
   "sidebar.tutorialSidebar.category.Media / Brand resources": {
     "message": "Sumber Daya Media / Brand",
     "description": "The label for category Media / Brand resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Apa itu Unit Network": {
+    "message": "Apa itu Unit Network",
+    "description": "The label for category Apa itu Unit Network in sidebar tutorialSidebar"
   }
 }
