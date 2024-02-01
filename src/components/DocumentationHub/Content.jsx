@@ -1,3 +1,4 @@
+import Link from "@docusaurus/Link";
 import Translate from "@docusaurus/Translate";
 import Heading from "@theme/Heading";
 import clsx from "clsx";
@@ -22,7 +23,7 @@ export default function DocumentationHubContent() {
     <section className=" bg-color-infima">
       <div className="container">
         <div className="docs-grid">
-          <a href="/docs/what-is-unit-network" className="docs-card-link">
+          <Link href="/docs/what-is-unit-network" className="docs-card-link">
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <Coins />
@@ -36,8 +37,8 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
-          <a href="/docs/ecosystem-dao" className="docs-card-link">
+          </Link>
+          <Link href="/docs/ecosystem-dao" className="docs-card-link">
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <Workflow />
@@ -51,8 +52,8 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
-          <a href="/docs/architecture" className="docs-card-link">
+          </Link>
+          <Link href="/docs/architecture" className="docs-card-link">
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <Boxes />
@@ -66,8 +67,8 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
-          <a href="/docs/community" className="docs-card-link">
+          </Link>
+          <Link href="/docs/community" className="docs-card-link">
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <UsersRound />
@@ -81,8 +82,8 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
-          <a href="/docs/user-guide" className="docs-card-link">
+          </Link>
+          <Link href="/docs/user-guide" className="docs-card-link">
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <BookUser />
@@ -96,8 +97,8 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
-          <a href="/docs/learning-hub" className="docs-card-link">
+          </Link>
+          <Link href="/docs/learning-hub" className="docs-card-link">
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <GraduationCap />
@@ -111,8 +112,8 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
-          <a href="/docs/case-studies" className="docs-card-link">
+          </Link>
+          <Link href="/docs/case-studies" className="docs-card-link">
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <ActivitySquare />
@@ -126,8 +127,8 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
-          <a href="/docs/key-trends" className="docs-card-link">
+          </Link>
+          <Link href="/docs/key-trends" className="docs-card-link">
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <TrendingUp />
@@ -141,8 +142,11 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
-          <a href="/docs/frequently-asked-questions" className="docs-card-link">
+          </Link>
+          <Link
+            href="/docs/frequently-asked-questions"
+            className="docs-card-link"
+          >
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <MessageCircleQuestion />
@@ -156,8 +160,8 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
-          <a href="/docs/glossary" className="docs-card-link">
+          </Link>
+          <Link href="/docs/glossary" className="docs-card-link">
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <LibraryBig />
@@ -171,8 +175,8 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
-          <a href="/docs/media" className="docs-card-link">
+          </Link>
+          <Link href="/docs/media" className="docs-card-link">
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <Image />
@@ -186,8 +190,8 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
-          <a href="/docs/terms-of-services" className="docs-card-link">
+          </Link>
+          <Link href="/docs/terms-of-services" className="docs-card-link">
             <div className={clsx("docs-card")}>
               <div className="text--left">
                 <Newspaper />
@@ -201,7 +205,7 @@ export default function DocumentationHubContent() {
                 </p>
               </div>
             </div>
-          </a>
+          </Link>
         </div>
       </div>
     </section>
