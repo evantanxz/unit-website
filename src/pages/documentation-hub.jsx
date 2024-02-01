@@ -12,20 +12,19 @@ import styles from "./index.module.css";
 function DocumentationHubHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero", styles.heroBanner, "header-style")}>
+    <header className={clsx("hero", styles.heroBanner, "documentation-header-style")}>
       <div className="container">
         <Heading as="h1" className="header-title">
-          <Translate>Explore and learn</Translate>
+          <Translate>Documentation Hub</Translate>
         </Heading>
-        <p className="header-subtitle">
+        <p className="hero__subtitle hero-subtitle">
           <Translate>
-            Unit Network redefines a new financial system, powered by AI,
-            blockchain, and the tokenisation of assets in the real world
+            Your comprehensive guide to navigating the Unit Network
           </Translate>
         </p>
-        <div className={clsx(styles.buttons, "button-container-style")}>
+        <div className={clsx(styles.buttons, "button-container-style-documentation")}>
           <Link
-            className="button button-style-radius button--primary"
+            className="button button--secondary button--lg button-style-1"
             to="/docs/intro"
           >
             <span>
