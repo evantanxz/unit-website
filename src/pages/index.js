@@ -3,6 +3,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import clsx from "clsx";
 
+import Translate from "@docusaurus/Translate";
 import Heading from "@theme/Heading";
 import styles from "./index.module.css";
 
@@ -21,19 +22,24 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle hero-subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle hero-subtitle">
+          <Translate>
+            Unit Network redefines a new financial system, powered by AI,
+            blockchain, and the tokenisation of assets in the real world
+          </Translate>
+        </p>
         <div className={clsx(styles.buttons, "button-container-style")}>
           <Link
             className="button button--secondary button--lg button-style"
             to="#"
           >
-            Log In
+            <Translate>Log In</Translate>
           </Link>
           <Link
             className="button button--secondary button--lg button--outline button-style"
             to="/documentation-hub"
           >
-            Documentation Hub
+            <Translate>Documentation Hub</Translate>
           </Link>
         </div>
       </div>

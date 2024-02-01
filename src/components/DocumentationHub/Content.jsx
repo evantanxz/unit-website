@@ -1,3 +1,4 @@
+import Translate from "@docusaurus/Translate";
 import Heading from "@theme/Heading";
 import clsx from "clsx";
 import {
@@ -16,103 +17,191 @@ import {
 } from "lucide-react";
 import * as React from "react";
 
-const DocsList = [
-  {
-    icon: <Coins />,
-    title: "What is Unit Network",
-    description: "Lorem ipsum",
-    link: "/docs/what-is-unit-network",
-  },
-  {
-    icon: <Workflow />,
-    title: "Ecosystem DAO",
-    description: "Lorem ipsum",
-    link: "/docs/ecosystem-dao",
-  },
-  {
-    icon: <Boxes />,
-    title: "Architecture",
-    description: "Lorem ipsum",
-    link: "/docs/architecture",
-  },
-  {
-    icon: <UsersRound />,
-    title: "Community",
-    description: "Lorem ipsum",
-    link: "/docs/community",
-  },
-  {
-    icon: <BookUser />,
-    title: "User Guide",
-    description: "Lorem ipsum",
-    link: "/docs/user-guide",
-  },
-  {
-    icon: <GraduationCap />,
-    title: "Learning Hub",
-    description: "Lorem ipsum",
-    link: "/docs/learning-hub",
-  },
-  {
-    icon: <ActivitySquare />,
-    title: "Case Studies",
-    description: "Lorem ipsum",
-    link: "/docs/case-studies",
-  },
-  {
-    icon: <TrendingUp />,
-    title: "Key Trends",
-    description: "Lorem ipsum",
-    link: "/docs/key-trends",
-  },
-  {
-    icon: <MessageCircleQuestion />,
-    title: "FAQ",
-    description: "Lorem ipsum",
-    link: "/docs/frequently-asked-questions",
-  },
-  {
-    icon: <LibraryBig />,
-    title: "Glossary",
-    description: "Lorem ipsum",
-    link: "/docs/glossary",
-  },
-  {
-    icon: <Image />,
-    title: "Media / Brand Resources",
-    description: "Lorem ipsum",
-    link: "/docs/media",
-  },
-  {
-    icon: <Newspaper />,
-    title: "Terms of Services",
-    description: "Lorem ipsum",
-    link: "/docs/terms-of-services",
-  },
-];
-
-function DocsCard({ icon, title, description, link }) {
-  return (
-    <a href={link} className="docs-card-link">
-      <div className={clsx("docs-card")}>
-        <div className="text--left">{icon}</div>
-        <div className="text--left">
-          <Heading as="h3">{title}</Heading>
-          <p>{description}</p>
-        </div>
-      </div>
-    </a>
-  );
-}
-
 export default function DocumentationHubContent() {
   return (
     <section className=" bg-color-infima">
       <div className="container">
         <div className="docs-grid">
-          {DocsList.map((docs) => (
-            <DocsCard key={docs.title} {...docs} />
-          ))}
+          <a href="/docs/what-is-unit-network" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <Coins />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>What is Unit Network</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
+          <a href="/docs/ecosystem-dao" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <Workflow />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>Ecosystem DAO</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
+          <a href="/docs/architecture" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <Boxes />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>Architecture</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
+          <a href="/docs/community" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <UsersRound />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>Community</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
+          <a href="/docs/user-guide" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <BookUser />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>User Guide</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
+          <a href="/docs/learning-hub" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <GraduationCap />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>Learning Hub</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
+          <a href="/docs/case-studies" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <ActivitySquare />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>Case Studies</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
+          <a href="/docs/key-trends" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <TrendingUp />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>Key Trends</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
+          <a href="/docs/frequently-asked-questions" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <MessageCircleQuestion />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>FAQ</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
+          <a href="/docs/glossary" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <LibraryBig />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>Glossary</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
+          <a href="/docs/media" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <Image />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>Media / Brand Resources</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
+          <a href="/docs/terms-of-services" className="docs-card-link">
+            <div className={clsx("docs-card")}>
+              <div className="text--left">
+                <Newspaper />
+              </div>
+              <div className="text--left">
+                <Heading as="h3">
+                  <Translate>Terms of Services</Translate>
+                </Heading>
+                <p>
+                  <Translate>Lorem ipsum</Translate>
+                </p>
+              </div>
+            </div>
+          </a>
         </div>
       </div>
     </section>
