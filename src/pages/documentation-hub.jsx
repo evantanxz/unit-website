@@ -4,6 +4,7 @@ import DocumentationHubContent from "@site/src/components/DocumentationHub/Conte
 import Layout from "@theme/Layout";
 import clsx from "clsx";
 
+import Translate from "@docusaurus/Translate";
 import Heading from "@theme/Heading";
 import { ArrowUpRight } from "lucide-react";
 import styles from "./index.module.css";
@@ -14,15 +15,22 @@ function DocumentationHubHeader() {
     <header className={clsx("hero", styles.heroBanner, "header-style")}>
       <div className="container">
         <Heading as="h1" className="header-title">
-          Explore and learn
+          <Translate>Explore and learn</Translate>
         </Heading>
-        <p className="header-subtitle">{siteConfig.tagline}</p>
+        <p className="header-subtitle">
+          <Translate>
+            Unit Network redefines a new financial system, powered by AI,
+            blockchain, and the tokenisation of assets in the real world
+          </Translate>
+        </p>
         <div className={clsx(styles.buttons, "button-container-style")}>
           <Link
             className="button button-style-radius button--primary"
             to="/docs/intro"
           >
-            <span>Get Started</span>
+            <span>
+              <Translate>Get Started</Translate>
+            </span>
             <ArrowUpRight />
           </Link>
         </div>
