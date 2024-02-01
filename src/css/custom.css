@@ -188,6 +188,7 @@ header {
 
 .container {
   padding: 0 50px;
+  background-color: var(--ifm-hero-background-color);
 }
 
 .docs-grid {
