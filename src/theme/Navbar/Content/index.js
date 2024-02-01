@@ -9,6 +9,7 @@ import NavbarMobileSidebarToggle from "@theme/Navbar/MobileSidebar/Toggle";
 import NavbarSearch from "@theme/Navbar/Search";
 import NavbarItem from "@theme/NavbarItem";
 import SearchBar from "@theme/SearchBar";
+import clsx from "clsx";
 import React from "react";
 import styles from "./styles.module.css";
 function useNavbarItems() {
@@ -40,7 +41,14 @@ function NavbarContentLayout({ left, right }) {
   return (
     <div className="navbar__inner">
       <div className="navbar__items">{left}</div>
-      <div className="navbar__items navbar__items--right">{right}</div>
+      <div
+        className={clsx(
+          "navbar__items navbar__items--right",
+          styles.navbarItemsCustom
+        )}
+      >
+        {right}
+      </div>
     </div>
   );
 }
@@ -65,7 +73,7 @@ export default function NavbarContent() {
           <NavbarItems items={rightItems} />
           <NavbarColorModeToggle className={styles.colorModeToggle} />
           {!searchBarItem && (
-            <NavbarSearch>
+            <NavbarSearch className="position-static">
               <SearchBar />
             </NavbarSearch>
           )}
