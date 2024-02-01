@@ -1,0 +1,117 @@
+---
+sidebar_position: 3
+---
+
+# FAQ - Stable Coins
+
+### What's the rationale behind backing 22 stable tokens instead of focusing on strengthening USDU alone?
+
+Diversified Stability: Supporting 22 stable tokens instead of focusing solely on strengthening USDU serves a crucial purpose. This approach provides a seamless on-ramp for 22 major economies, facilitating local businesses to easily accept stable tokens and mitigate the challenge of volatility. For instance, individuals looking to on-ramp value in their local currency can receive an equivalent amount in the local-pegged stable token from someone within the network.
+
+### What Mechanisms Keep Unit Network Stable Tokens in Balance?
+
+Stability Mechanism Unveiled: Unit Network's stable tokens utilize an off-chain oracle to import the respective fiat currency price, pegging the stable token to that value.
+
+The purchasing process involves level 1 tokens like BTCU, ETHU, DOTU, etc., while UNIT cannot be used to mint stable tokens such as USDU or EURU.
+
+With collateral that tends to appreciate in fiat currency value over time, the stable tokens remain overcollateralized. To prevent exceeding the pegged market value, users can mint more tokens, acting as a substantial sell wall.
+
+### What criteria guide the selection process for digital assets eligible to be wrapped into Unit Network as reserve assets, subsequently utilized for purchasing and backing stable tokens?
+
+The selection criteria include native tokens from permissionless, public blockchains that are widely recognized by the market as stores of value.
+
+While the core team exercises some judgment in choosing assets, certain blockchains are technically easier to integrate.
+
+Ultimately, the Unit core team places trust in the community's ability to decide and prefer which assets and blockchains to utilize.
+
+### What happens in the scenario where one of the reserve assets in the stable token bank reaches zero value?
+
+Unit Network employs a diverse set of 15 digital stores of value for backing, including BTCU, ETHU, DOTU, etc.
+
+In the event that one or more reserve assets experience a decline, the overall impact is mitigated by the robustness of the entire basket of digital assets.
+
+### What measures are in place if a stable token becomes under-collateralized, even with the diversification strategy in play?
+
+If the collateral backing a stable token falls below a 1:1 ratio with the token's oracle, it presents an arbitrage opportunity on exchanges.
+
+Individuals capitalizing on this situation can either purchase the undercollateralized stable token directly from the sale page with digital assets at the oracle value of the associated fiat currency, or they can acquire it from TOKEN-USDU exchange pools to obtain the currently circulating supply.
+
+Both options aim to elevate the stable token price to its oracle value by either infusing the bank with new reserves at the oracle price or bidding up the existing circulating supply of the stable token.
+
+### What actions are taken if a stable token becomes significantly over-collateralized?
+
+As the value of digital assets backing stable tokens increases, the collateral ratio also rises to provide full backing.
+
+When a stable token becomes 10 times overcollateralized, the holder can redeem one stable token for one fiat currency unit worth of reserve assets from the stable token bank.
+
+This action further collateralizes the stable token, as the remaining reserve assets now back a smaller circulating supply of it.
+
+For instance, if BTC is trading at 20,000 euros/BTC, and you purchase 20,000 EURU from the EURU bank with 1 BTCU, the value of BTC rises to 200,000 euros/BTC.
+
+Redeeming 20,000 EURU for 20,000 euros of BTCU from the EURU bank results in an infinitely collateralized EURU supply, given that there are 180k euros of BTCU backing zero EURU in circulation, assuming you were the only person adding or removing assets from the EURU bank.
+
+### What are the implications if the per-token treasury value of a stable token surpasses the fiat currency oracle?
+
+Unlike many other tokens on Unit Network, stable tokens do not have a treasury. All assets used to purchase stable tokens are directed to the stable token’s bank.
+
+### How can an individual redeem from the bank when the stable token is overcollateralized, ensuring that the funds are securely maintained within the bank?
+
+Stable token banks feature a mechanism where, if a user sends a stable token to the bank, the bank will reciprocate by sending the user an equivalent value of crypto assets.
+
+However, this action is contingent upon the bank being 10x overcollateralized. It's important to note that stable token banks operate as automated, non-human accounts, limited to specific predefined actions.
+
+This stands in contrast to other token banks where operators have the capability to transfer and manage digital assets within the bank associated with a specific token.
+
+Looking ahead, users will have the opportunity to build upon tokens/user accounts, enabling the programming of additional functions and behaviors beyond the initially programmed ones.
+
+### Why hasn't this approach been adopted by others before? It seems like a straightforward and logical solution.
+
+Choosing a purpose-built blockchain over a generic all-purpose chain allows for precise customization to meet specific needs.
+
+Unit Network's unique features, including a non-custodial bank and treasury, decentralized wrapping of various open blockchain tokens, and decentralized custody of underlying unwrapped assets managed by vaults, positions its technology far ahead in the crypto space.
+
+### Can stable tokens on Unit Network generate a yield?
+
+Stable tokens on Unit Network do not offer a direct yield. However, staking USDU in a liquidity pool with another token allows users to earn trading fees from that pool.
+
+Refer to the "Liquidity Pools" section for more details, including the risk of impermanent loss.
+
+### Why would individuals lock up digital assets to mint stable tokens, especially when there is no direct yield associated with holding these stable tokens?
+
+Participating in the Token Economy motivates individuals to lock up digital assets and mint stable tokens.
+
+### In what ways can USDU disassociate itself from reliance on token economy users and broaden its adoption across various user bases?
+
+USDU's path to de-correlation and expansion beyond token economy users lies in its adoption as a stable and reliable digital currency.
+
+As more individuals, businesses, and financial systems integrate USDU into their operations, its value proposition as a stable store of value and medium of exchange can extend beyond the confines of the token economy.
+
+Increased recognition, trust, and usage in traditional sectors contribute to USDU's broader acceptance, paving the way for a more extensive user base and applications in diverse economic activities.
+
+### Can USDU extend its utility beyond Unit Network, similar to USDC?
+
+Integrated into Polkadot, USDU will gain the capability to seamlessly transfer and function within the broader global blockchain ecosystem.
+
+### How does USDU differ significantly from MakerDAO's DAI or other asset-backed stable tokens?
+
+Two significant distinctions set USDU on Unit Network apart from MakerDAO's DAI and other asset-backed stable tokens:
+
+1. Collateral Acquisition: Stable tokens like USDU can be freely purchased with decentralized digital assets, maintaining them in their original form as collateral. In contrast, DAI and similar stable coins involve lending, borrowing, leverage ratios, and careful management of various metrics for success.
+2. Decentralized and Diversified Backing: USDU relies exclusively on decentralized and diversified digital assets for backing, while DAI is backed, to a significant extent, by custodied assets such as WBTC and USDC, introducing risks associated with centralization. As of our knowledge, Unit stable tokens stand out as the only stable tokens backed 100% by decentralized diversified digital assets.
+
+### In what ways does USDU differ from UST, and does USDU operate as an algorithmic stable coin?
+
+USDU differs from algorithmic stable tokens by not relying solely on code for its stability; instead, it is backed by tangible digital assets.
+
+This approach enhances sustainability and establishes a more robust and fundamentally sound model.
+
+### How does USDU achieve decentralization within the Unit Network ecosystem?
+
+USDU achieves decentralization through its infrastructure on the Unit Network, a purpose-built blockchain. The decentralization is facilitated by various components:
+
+1. Decentralized Governance: Unit Network operates with decentralized governance mechanisms, involving the community in decision-making processes. Token holders can participate in shaping the future of the network.
+2. Non-Custodial Framework: USDU is freely purchased with decentralized digital assets, eliminating the need for a centralized custodian. This non-custodial nature aligns with decentralization principles.
+3. Distributed Infrastructure: Unit Network's blockchain operates on a distributed network of nodes, ensuring redundancy and resilience. This decentralized architecture minimizes the risk of a single point of failure.
+4. Community Participation: The involvement of the community in activities like staking, liquidity provision, and governance contributes to the decentralization of USDU.
+
+By combining these elements, USDU aims to embody decentralization principles, providing users with a stable token backed by a decentralized and resilient infrastructure.
