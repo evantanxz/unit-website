@@ -33,7 +33,7 @@ export default function DocumentationHubContent() {
                   <Translate>What is Unit Network</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>An Introduction to the fundamentals of the platform</Translate>
                 </p>
               </div>
             </div>
@@ -48,7 +48,7 @@ export default function DocumentationHubContent() {
                   <Translate>Ecosystem DAO</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>Learn about our community crafted organizations</Translate>
                 </p>
               </div>
             </div>
@@ -63,7 +63,7 @@ export default function DocumentationHubContent() {
                   <Translate>Architecture</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>An overview of Unit Network's core features </Translate>
                 </p>
               </div>
             </div>
@@ -78,7 +78,7 @@ export default function DocumentationHubContent() {
                   <Translate>Community</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>Your gateway to becoming a core contributor</Translate>
                 </p>
               </div>
             </div>
@@ -93,7 +93,7 @@ export default function DocumentationHubContent() {
                   <Translate>User Guide</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>A comprehensive walkthrough of the platform</Translate>
                 </p>
               </div>
             </div>
@@ -108,7 +108,7 @@ export default function DocumentationHubContent() {
                   <Translate>Learning Hub</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>Elevate your knowledge about web3 concepts</Translate>
                 </p>
               </div>
             </div>
@@ -123,7 +123,7 @@ export default function DocumentationHubContent() {
                   <Translate>Case Studies</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>Unlocking Value with Community Tokens</Translate>
                 </p>
               </div>
             </div>
@@ -138,7 +138,7 @@ export default function DocumentationHubContent() {
                   <Translate>Key Trends</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>Learn about the key trends in the blockchain space</Translate>
                 </p>
               </div>
             </div>
@@ -156,7 +156,7 @@ export default function DocumentationHubContent() {
                   <Translate>FAQ</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>Unveiling clarity on the most asked questions</Translate>
                 </p>
               </div>
             </div>
@@ -171,7 +171,7 @@ export default function DocumentationHubContent() {
                   <Translate>Glossary</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>Definition on terms used throughout the documentations</Translate>
                 </p>
               </div>
             </div>
@@ -186,7 +186,7 @@ export default function DocumentationHubContent() {
                   <Translate>Media / Brand Resources</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>A collection of Unit Network's media resources</Translate>
                 </p>
               </div>
             </div>
@@ -201,7 +201,7 @@ export default function DocumentationHubContent() {
                   <Translate>Terms of Services</Translate>
                 </Heading>
                 <p>
-                  <Translate>Lorem ipsum</Translate>
+                  <Translate>Terms of services </Translate>
                 </p>
               </div>
             </div>
