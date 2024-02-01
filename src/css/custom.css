@@ -86,6 +86,18 @@ figure figcaption {
   font-size: 0.8rem;
 }
 
+.margin-bottom--2xl {
+  margin-bottom: 12rem;
+}
+
+.padding-bottom--2xl {
+  padding-bottom: 12rem;
+}
+
+.bg-color-infima {
+  background-color: var(--ifm-hero-background-color);
+}
+
 /* navbar */
 .navbar__title {
   font-weight: 600;
@@ -123,9 +135,6 @@ header {
 }
 
 .button {
-  display: flex;
-  align-items: center;
-  column-gap: 8px;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
 }
@@ -152,6 +161,7 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-bottom: 12rem !important;
   height: 90vh;
 }
 
@@ -180,14 +190,27 @@ header {
   flex-direction: column;
 }
 
-.button-style {
+.button-style-radius {
+  display: flex;
+  align-items: center;
+  column-gap: 8px;
   padding: 14px 24px;
   font-size: 1.125rem;
   border-radius: 10px;
 }
 
+.button-style {
+  margin: 5px 0;
+  width: 350px;
+  font-family: "Inter", sans-serif;
+}
+
 .container {
   padding: 0 50px;
+  max-width: 1200px;
+}
+
+.homepage-content {
   background-color: var(--ifm-hero-background-color);
 }
 
@@ -283,7 +306,23 @@ header {
 }
 
 @media (max-width: 480px) {
+  .button-style {
+    width: 100%;
+  }
   .docs-grid {
     grid-template-columns: repeat(1, 1fr);
   }
+}
+
+/* footer */
+.footer__title {
+  font-weight: 500;
+}
+
+.footer__item {
+  font-size: 0.8rem;
+}
+
+.footer__copyright {
+  display: none;
 }

@@ -105,9 +105,9 @@ function DocsCard({ icon, title, description, link }) {
   );
 }
 
-export default function HomepageContent() {
+export default function DocumentationHubContent() {
   return (
-    <section>
+    <section className=" bg-color-infima">
       <div className="container">
         <div className="docs-grid">
           {DocsList.map((docs) => (
