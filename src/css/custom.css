@@ -171,7 +171,7 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding-bottom: 12rem !important;
+  padding-bottom: 12rem;
   height: 90vh;
 }
 
@@ -355,11 +355,6 @@ header {
   font-size: 3.5rem;
 
 }
-
-.button-container-style {
-  
-}
-
 
 @media (max-width: 768px) {
   .header-title {
