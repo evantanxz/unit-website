@@ -94,15 +94,76 @@ const config = {
           },
         ],
       },
+
       footer: {
         style: "light",
+        logo: {
+          alt: 'Unit Network Logo',
+          src: 'img/unit-logo.png',
+          href: 'https://tolstoy.unitcode.org/',
+          width: 50,
+          height: 50,
+        }, 
+
         links: [
           {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Documentation Hub",
                 to: "/docs/intro",
+              },
+              {
+                label: "Official Links",
+                to: "/docs/official-links",
+              },
+              {
+                label: "What is Unit Network",
+                to: "/docs/what-is-unit-network/",
+              },
+              {
+                label: "Ecosystem DAO",
+                to: "/docs/Ecosystem-DAO/",
+              },
+              {
+                label: "Architecture",
+                to: "/docs/Architecture/",
+              },
+              {
+                label: "Community",
+                to: "/docs/Community/",
+              },
+              {
+                label: "User Guide",
+                to: "/docs/user-guide/",
+              },
+              {
+                label: "Learning Hub",
+                to: "/docs/learning-hub/",
+              },
+              {
+                label: "Case Studies",
+                to: "/docs/case-studies/",
+              },
+              {
+                label: "Key Trends",
+                to: "/docs/key-trends/",
+              },
+              {
+                label: "Frequently Asked Questions",
+                to: "/docs/frequently-asked-questions/",
+              },
+              {
+                label: "Glossary",
+                to: "/docs/glossary/",
+              },
+              {
+                label: "Media / Brand Resources",
+                to: "/docs/media/",
+              },
+              {
+                label: "Terms of Services",
+                to: "/docs/terms-of-services/",
               },
             ],
           },
@@ -110,35 +171,66 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Telegram",
+                to: "https://t.me/unitfoundation",
+              },
+              {
+                label: "X",
+                to: "https://twitter.com/theunitnetwork",
+              },
+              {
+                label: "LinkedIn",
+                to: "https://www.linkedin.com/company/theunitnetwork",
+              },
+              {
+                label: "Instagram",
+                to: "https://www.instagram.com/unit.network",
               },
               {
                 label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                to: "https://discord.com/invite/unitnetwork",
               },
               {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "Youtube",
+                to: "https://www.youtube.com/c/UnitGlobal",
               },
             ],
           },
           {
-            title: "More",
+            title: "Official Links",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Application",
+                to: "https://app.unit.network/",
               },
               {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                label: "Documentation Hub",
+                to: "https://docs.unit.network/",
+              },
+              {
+                label: "Articles",
+                to: "https://unitnetwork.medium.com/",
               },
             ],
           },
+          {
+            title: "Policies",
+            items: [
+              {
+                label: "Terms of Services",
+                to: "/docs/terms-of-services/",
+              },
+              {
+                label: "Privacy Policy",
+                href: "/docs/terms-of-services/",
+              },
+            ],
+          }, 
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+
+        copyright: `Copyright © ${new Date().getFullYear()} Powered by Unit Network.`,
       },
+
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,

@@ -56,7 +56,6 @@ body {
 
 h1 {
   font-weight: 500;
-  /* font-family: 'Helvetica Neue', sans-serif; */
   font-family: "Poppins", sans-serif;
   margin: 25px 0;
   font-size: 3rem;
@@ -65,14 +64,12 @@ h1 {
 h2 {
   font-weight: 500;
   font-size: 1.6rem;
-  /* font-family: 'Helvetica Neue', sans-serif; */
   font-family: "Poppins", sans-serif;
 }
 
 h3 {
   font-weight: 500;
   font-size: 1.4rem;
-  /* font-family: 'Helvetica Neue', sans-serif; */
   font-family: "Poppins", sans-serif;
 }
 
@@ -256,16 +253,16 @@ header {
 }
 
 /* footer */
+.footer {
+  padding: 80px 0;
+}
+
 .footer__title {
   font-weight: 500;
 }
 
 .footer__item {
   font-size: 0.8rem;
-}
-
-.footer__copyright {
-  display: none;
 }
 
 /*responsiveness */
@@ -301,11 +298,6 @@ header {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  /*Footer */
-  .footer {
-    padding: 30px 0;
-  }
-
   .container {
     padding: 0 25px;
   }
@@ -332,11 +324,6 @@ header {
 .footer__item {
   font-size: 0.8rem;
 }
-
-.footer__copyright {
-  display: none;
-}
-
 
 /**documentation landing page **/
 
