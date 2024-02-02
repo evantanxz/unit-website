@@ -1,14 +1,14 @@
 {
   "title": {
     "message": "Unit Network",
-    "description": "O título na barra de navegação"
+    "description": "The title in the navbar"
   },
   "logo.alt": {
     "message": "Logo do Meu Site",
-    "description": "O texto alternativo do logo da barra de navegação"
+    "description": "The alt text of navbar logo"
   },
   "item.label.Docs": {
     "message": "Documentos",
-    "description": "Item da barra de navegação com o rótulo Documentos"
+    "description": "Navbar item with label Docs"
   }
 }

@@ -1,6 +1,6 @@
 {
   "Documentation Hub": {
-    "message": "Centro de Documentação"
+    "message": "Hub de Documentação"
   },
   "Your comprehensive guide to navigating the Unit Network": {
     "message": "Seu guia abrangente para navegar na Unit Network"
@@ -16,7 +16,7 @@
   },
   "theme.docs.DocCard.categoryDescription": {
     "message": "{count} itens",
-    "description": "A descrição padrão para um cartão de categoria no índice gerado sobre quantos itens esta categoria inclui"
+    "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "What is Unit Network": {
     "message": "O que é a Unit Network"
@@ -49,7 +49,7 @@
     "message": "Um walkthrough abrangente da plataforma"
   },
   "Learning Hub": {
-    "message": "Centro de Aprendizagem"
+    "message": "Hub de Aprendizagem"
   },
   "Elevate your knowledge about web3 concepts": {
     "message": "Eleve seu conhecimento sobre conceitos web3"
@@ -371,6 +371,6 @@
   },
   "theme.unlistedContent.message": {
     "message": "Esta página não está listada. Os motores de busca não a indexarão e apenas os usuários com um link direto podem acessá-la.",
-    "description": "A mensagem da faixa de conteúdo não listado"
+    "description": "The unlisted content banner message"
   }
 }

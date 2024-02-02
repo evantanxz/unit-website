@@ -1,118 +1,118 @@
 {
   "link.title.Docs": {
     "message": "Documentos",
-    "description": "O título da coluna de links do rodapé com título=Documentos no rodapé"
+    "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.title.Community": {
     "message": "Comunidade",
-    "description": "O título da coluna de links do rodapé com título=Comunidade no rodapé"
+    "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.Official Links": {
     "message": "Links Oficiais",
-    "description": "O título da coluna de links do rodapé com título=Links Oficiais no rodapé"
+    "description": "The title of the footer links column with title=Official Links in the footer"
   },
   "link.title.Policies": {
     "message": "Políticas",
-    "description": "O título da coluna de links do rodapé com título=Políticas no rodapé"
+    "description": "The title of the footer links column with title=Policies in the footer"
   },
   "link.item.label.Documentation Hub": {
-    "message": "Centro de Documentação",
-    "description": "O rótulo do link do rodapé com rótulo=Centro de Documentação vinculando a https://docs.unit.network/"
+    "message": "Hub de Documentação",
+    "description": "The label of footer link with label=Documentation Hub linking to https://docs.unit.network/"
   },
   "link.item.label.Official Links": {
     "message": "Links Oficiais",
-    "description": "O rótulo do link do rodapé com rótulo=Links Oficiais vinculando a /docs/official-links"
+    "description": "The label of footer link with label=Official Links linking to /docs/official-links"
   },
   "link.item.label.What is Unit Network": {
     "message": "O que é a Unit Network",
-    "description": "O rótulo do link do rodapé com rótulo=O que é a Unit Network vinculando a /docs/what-is-unit-network/"
+    "description": "The label of footer link with label=What is Unit Network linking to /docs/what-is-unit-network/"
   },
   "link.item.label.Ecosystem DAO": {
     "message": "DAO do Ecossistema",
-    "description": "O rótulo do link do rodapé com rótulo=DAO do Ecossistema vinculando a /docs/Ecosystem-DAO/"
+    "description": "The label of footer link with label=Ecosystem DAO linking to /docs/Ecosystem-DAO/"
   },
   "link.item.label.Architecture": {
     "message": "Arquitetura",
-    "description": "O rótulo do link do rodapé com rótulo=Arquitetura vinculando a /docs/Architecture/"
+    "description": "The label of footer link with label=Architecture linking to /docs/Architecture/"
   },
   "link.item.label.Community": {
     "message": "Comunidade",
-    "description": "O rótulo do link do rodapé com rótulo=Comunidade vinculando a /docs/Community/"
+    "description": "The label of footer link with label=Community linking to /docs/Community/"
   },
   "link.item.label.User Guide": {
     "message": "Guia do Usuário",
-    "description": "O rótulo do link do rodapé com rótulo=Guia do Usuário vinculando a /docs/user-guide/"
+    "description": "The label of footer link with label=User Guide linking to /docs/user-guide/"
   },
   "link.item.label.Learning Hub": {
-    "message": "Centro de Aprendizagem",
-    "description": "O rótulo do link do rodapé com rótulo=Centro de Aprendizagem vinculando a /docs/learning-hub/"
+    "message": "Hub de Aprendizagem",
+    "description": "The label of footer link with label=Learning Hub linking to /docs/learning-hub/"
   },
   "link.item.label.Case Studies": {
     "message": "Estudos de Caso",
-    "description": "O rótulo do link do rodapé com rótulo=Estudos de Caso vinculando a /docs/case-studies/"
+    "description": "The label of footer link with label=Case Studies linking to /docs/case-studies/"
   },
   "link.item.label.Key Trends": {
     "message": "Tendências Chave",
-    "description": "O rótulo do link do rodapé com rótulo=Tendências Chave vinculando a /docs/key-trends/"
+    "description": "The label of footer link with label=Key Trends linking to /docs/key-trends/"
   },
   "link.item.label.Frequently Asked Questions": {
     "message": "Perguntas Frequentes",
-    "description": "O rótulo do link do rodapé com rótulo=Perguntas Frequentes vinculando a /docs/frequently-asked-questions/"
+    "description": "The label of footer link with label=Frequently Asked Questions linking to /docs/frequently-asked-questions/"
   },
   "link.item.label.Glossary": {
     "message": "Glossário",
-    "description": "O rótulo do link do rodapé com rótulo=Glossário vinculando a /docs/glossary/"
+    "description": "The label of footer link with label=Glossary linking to /docs/glossary/"
   },
   "link.item.label.Media / Brand Resources": {
     "message": "Mídia / Recursos da Marca",
-    "description": "O rótulo do link do rodapé com rótulo=Mídia / Recursos da Marca vinculando a /docs/media/"
+    "description": "The label of footer link with label=Media / Brand Resources linking to /docs/media/"
   },
   "link.item.label.Terms of Services": {
     "message": "Termos de Serviço",
-    "description": "O rótulo do link do rodapé com rótulo=Termos de Serviço vinculando a /docs/terms-of-services/"
+    "description": "The label of footer link with label=Terms of Services linking to /docs/terms-of-services/"
   },
   "link.item.label.Telegram": {
     "message": "Telegram",
-    "description": "O rótulo do link do rodapé com rótulo=Telegram vinculando a https://t.me/unitfoundation"
+    "description": "The label of footer link with label=Telegram linking to https://t.me/unitfoundation"
   },
   "link.item.label.X": {
     "message": "X",
-    "description": "O rótulo do link do rodapé com rótulo=X vinculando a https://twitter.com/theunitnetwork"
+    "description": "The label of footer link with label=X linking to https://twitter.com/theunitnetwork"
   },
   "link.item.label.LinkedIn": {
     "message": "LinkedIn",
-    "description": "O rótulo do link do rodapé com rótulo=LinkedIn vinculando a https://www.linkedin.com/company/theunitnetwork"
+    "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/company/theunitnetwork"
   },
   "link.item.label.Instagram": {
     "message": "Instagram",
-    "description": "O rótulo do link do rodapé com rótulo=Instagram vinculando a https://www.instagram.com/unit.network"
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/unit.network"
   },
   "link.item.label.Discord": {
     "message": "Discord",
-    "description": "O rótulo do link do rodapé com rótulo=Discord vinculando a https://discord.com/invite/unitnetwork"
+    "description": "The label of footer link with label=Discord linking to https://discord.com/invite/unitnetwork"
   },
   "link.item.label.Youtube": {
     "message": "Youtube",
-    "description": "O rótulo do link do rodapé com rótulo=Youtube vinculando a https://www.youtube.com/c/UnitGlobal"
+    "description": "The label of footer link with label=Youtube linking to https://www.youtube.com/c/UnitGlobal"
   },
   "link.item.label.Application": {
     "message": "Aplicação",
-    "description": "O rótulo do link do rodapé com rótulo=Aplicação vinculando a https://app.unit.network/"
+    "description": "The label of footer link with label=Application linking to https://app.unit.network/"
   },
   "link.item.label.Articles": {
     "message": "Artigos",
-    "description": "O rótulo do link do rodapé com rótulo=Artigos vinculando a https://unitnetwork.medium.com/"
+    "description": "The label of footer link with label=Articles linking to https://unitnetwork.medium.com/"
   },
   "link.item.label.Privacy Policy": {
     "message": "Política de Privacidade",
-    "description": "O rótulo do link do rodapé com rótulo=Política de Privacidade vinculando a /docs/terms-of-services/"
+    "description": "The label of footer link with label=Privacy Policy linking to /docs/terms-of-services/"
   },
   "copyright": {
     "message": "Direitos autorais © 2024 Alimentado por Unit Network.",
-    "description": "O copyright do rodapé"
+    "description": "The footer copyright"
   },
   "logo.alt": {
     "message": "Logo da Unit Network",
-    "description": "O texto alternativo do logo do rodapé"
+    "description": "The alt text of footer logo"
   }
 }
