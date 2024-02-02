@@ -1,164 +1,248 @@
 {
+  "Documentation Hub": {
+    "message": "Hub de documentation"
+  },
+  "Your comprehensive guide to navigating the Unit Network": {
+    "message": "Votre guide complet pour naviguer dans le réseau Unit"
+  },
+  "Get Started": {
+    "message": "Commencer"
+  },
   "Unit Network redefines a new financial system, powered by AI, blockchain, and the tokenisation of assets in the real world": {
-    "message": "Unit Network mendefinisikan ulang sistem keuangan baru, didukung oleh AI, blockchain, dan tokenisasi aset di dunia nyata"
+    "message": "Unit Network redéfinit un nouveau système financier, alimenté par l'IA, la blockchain et la tokenisation des actifs du monde réel"
+  },
+  "Log In": {
+    "message": "Se connecter"
+  },
+  "What is Unit Network": {
+    "message": "Qu'est-ce que Unit Network"
+  },
+  "An Introduction to the fundamentals of the platform": {
+    "message": "Une introduction aux fondamentaux de la plateforme"
+  },
+  "Ecosystem DAO": {
+    "message": "Écosystème DAO"
+  },
+  "Learn about our community crafted organizations": {
+    "message": "Découvrez nos organisations façonnées par la communauté"
+  },
+  "Architecture": {
+    "message": "Architecture"
+  },
+  "An overview of Unit Network's core features": {
+    "message": "Une vue d'ensemble des fonctionnalités principales de Unit Network"
+  },
+  "Community": {
+    "message": "Communauté"
+  },
+  "Your gateway to becoming a core contributor": {
+    "message": "Votre porte d'entrée pour devenir un contributeur essentiel"
+  },
+  "User Guide": {
+    "message": "Guide de l'utilisateur"
+  },
+  "A comprehensive walkthrough of the platform": {
+    "message": "Un guide complet de la plateforme"
+  },
+  "Learning Hub": {
+    "message": "Centre d'apprentissage"
+  },
+  "Elevate your knowledge about web3 concepts": {
+    "message": "Élevez votre connaissance des concepts Web3"
+  },
+  "Case Studies": {
+    "message": "Études de cas"
+  },
+  "Unlocking Value with Community Tokens": {
+    "message": "Débloquer de la valeur avec les jetons communautaires"
+  },
+  "Key Trends": {
+    "message": "Tendances clés"
+  },
+  "Learn about the key trends in the blockchain space": {
+    "message": "Découvrez les tendances clés dans l'espace de la blockchain"
+  },
+  "FAQ": {
+    "message": "FAQ"
+  },
+  "Unveiling clarity on the most asked questions": {
+    "message": "Révélation de la clarté sur les questions les plus fréquemment posées"
+  },
+  "Glossary": {
+    "message": "Glossaire"
+  },
+  "Definition on terms used throughout the documentations": {
+    "message": "Définition des termes utilisés dans toute la documentation"
+  },
+  "Media / Brand Resources": {
+    "message": "Ressources média / marque"
+  },
+  "A collection of Unit Network's media resources": {
+    "message": "Une collection des ressources média de Unit Network"
+  },
+  "Terms of Services": {
+    "message": "Conditions d'utilisation"
+  },
+  "Terms of services": {
+    "message": "Conditions d'utilisation"
   },
   "theme.docs.DocCard.categoryDescription": {
-    "message": "{count} item",
+    "message": "{count} éléments",
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Alihkan bilah navigasi",
+    "message": "Ouvrir/fermer la barre de navigation",
     "description": "The ARIA label for hamburger menu button of mobile navigation"
   },
   "theme.ErrorPageContent.title": {
-    "message": "Halaman ini rusak.",
+    "message": "Cette page a planté.",
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.blog.archive.title": {
-    "message": "Arsip",
+    "message": "Archive",
     "description": "The page & hero title of the blog archive page"
   },
   "theme.blog.archive.description": {
-    "message": "Arsip",
+    "message": "Archive",
     "description": "The page & hero description of the blog archive page"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Gulir kembali ke atas",
+    "message": "Retour au début de la page",
     "description": "The ARIA label for the back to top button"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Navigasi daftar halaman blog",
+    "message": "Pagination de la liste des articles du blog",
     "description": "The ARIA label for the blog pagination"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Entri Terbaru",
+    "message": "Nouvelles entrées",
     "description": "The label used to navigate to the newer blog posts page (previous page)"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Entri Terdahulu",
+    "message": "Anciennes entrées",
     "description": "The label used to navigate to the older blog posts page (next page)"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Navigasi halaman posting blog",
+    "message": "Pagination des articles du blog",
     "description": "The ARIA label for the blog posts pagination"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Posting Terbaru",
+    "message": "Article plus récent",
     "description": "The blog post button label to navigate to the newer/previous post"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Posting Terdahulu",
+    "message": "Article plus ancien",
     "description": "The blog post button label to navigate to the older/next post"
   },
   "theme.blog.post.plurals": {
-    "message": "Satu posting|{count} posting",
+    "message": "Un article|{count} articles",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} dengan tag \"{tagName}\"",
+    "message": "{nPosts} tagués avec « {tagName} »",
     "description": "The title of the page for a blog tag"
   },
   "theme.tags.tagsPageLink": {
-    "message": "Lihat Semua Tag",
+    "message": "Voir tous les tags",
     "description": "The label of the link targeting the tag list page"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Beralih antara mode gelap dan terang (saat ini {mode})",
+    "message": "Basculer entre le mode sombre et clair (actuellement {mode})",
     "description": "The ARIA label for the navbar color mode toggle"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "mode gelap",
+    "message": "mode sombre",
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "mode terang",
+    "message": "mode clair",
     "description": "The name for the light color mode"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Trotolan",
+    "message": "Fil d'Ariane",
     "description": "The ARIA label for the breadcrumbs"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Halaman dokumen",
+    "message": "Pages de documentation",
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "Sebelumnya",
+    "message": "Précédent",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
-    "message": "Selanjutnya",
+    "message": "Suivant",
     "description": "The label used to navigate to the next doc"
   },
-  "theme.docs.versionBadge.label": {
-    "message": "Versi: {versionLabel}"
-  },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "Satu dokumen ber-tag|{count} dokumen ber-tag",
+    "message": "Un document tagué|{count} documents tagués",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} dengan tag \"{tagName}\"",
+    "message": "{nDocsTagged} avec \"{tagName}\"",
     "description": "The title of the page for a docs tag"
   },
+  "theme.docs.versionBadge.label": {
+    "message": "Version: {versionLabel}"
+  },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "Ini dokumentasi yang belum dirilis untuk {siteTitle} versi {versionLabel}.",
+    "message": "Ceci est la documentation de la prochaine version {versionLabel} de {siteTitle}.",
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "Ini dokumentasi untuk {siteTitle} versi {versionLabel}, yang tidak lagi aktif dikelola.",
+    "message": "Ceci est la documentation de {siteTitle} {versionLabel}, qui n'est plus activement maintenue.",
     "description": "The label used to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "Untuk dokumentasi terbaru, lihat {latestVersionLink} ({versionLabel}).",
+    "message": "Pour une documentation à jour, consultez la {latestVersionLink} ({versionLabel}).",
     "description": "The label used to tell the user to check the latest version"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "versi terbaru",
+    "message": "dernière version",
     "description": "The label used for the latest version suggestion link label"
   },
-  "theme.common.headingLinkTitle": {
-    "message": "Tautan langsung ke {heading}",
-    "description": "Title for link to heading"
-  },
   "theme.common.editThisPage": {
-    "message": "Edit halaman ini",
+    "message": "Éditer cette page",
     "description": "The link label to edit the current page"
   },
+  "theme.common.headingLinkTitle": {
+    "message": "Lien direct vers {heading}",
+    "description": "Title for link to heading"
+  },
   "theme.lastUpdated.atDate": {
-    "message": " pada {date}",
+    "message": " le {date}",
     "description": "The words used to describe on which date a page has been last updated"
   },
   "theme.lastUpdated.byUser": {
-    "message": " oleh {user}",
+    "message": " par {user}",
     "description": "The words used to describe by who the page has been last updated"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Terakhir diperbarui{atDate}{byUser}",
+    "message": "Dernière mise à jour{atDate}{byUser}",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
-  "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versi",
-    "description": "The label for the navbar versions dropdown on mobile view"
-  },
   "theme.NotFound.title": {
-    "message": "Halaman Tidak Ditemukan",
+    "message": "Page introuvable",
     "description": "The title of the 404 page"
   },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Versions",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
   "theme.tags.tagsListLabel": {
-    "message": "Tag:",
+    "message": "Tags :",
     "description": "The label alongside a tag list"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Tutup",
+    "message": "Fermer",
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.admonition.caution": {
-    "message": "peringatan",
+    "message": "attention",
     "description": "The default label used for the Caution admonition (:::caution)"
   },
   "theme.admonition.danger": {
-    "message": "bahaya",
+    "message": "danger",
     "description": "The default label used for the Danger admonition (:::danger)"
   },
   "theme.admonition.info": {
@@ -166,342 +250,258 @@
     "description": "The default label used for the Info admonition (:::info)"
   },
   "theme.admonition.note": {
-    "message": "catatan",
+    "message": "remarque",
     "description": "The default label used for the Note admonition (:::note)"
   },
   "theme.admonition.tip": {
-    "message": "tips",
+    "message": "astuce",
     "description": "The default label used for the Tip admonition (:::tip)"
   },
   "theme.admonition.warning": {
-    "message": "peringatan",
+    "message": "attention",
     "description": "The default label used for the Warning admonition (:::warning)"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Navigasi posting blog terbaru",
+    "message": "Navigation article de blog récent",
     "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.CodeBlock.copied": {
-    "message": "Tersalin",
+    "message": "Copié",
     "description": "The copied button label on code blocks"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Salin kode ke papan klip",
+    "message": "Copier le code",
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.copy": {
-    "message": "Salin",
+    "message": "Copier",
     "description": "The copy button label on code blocks"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Alihkan pembungkus kata",
+    "message": "Activer/désactiver le retour à la ligne",
     "description": "The title attribute for toggle word wrapping button of code block lines"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Perluas kategori sidebar '{label}'",
+    "message": "Développer la catégorie '{label}' de la barre latérale",
     "description": "The ARIA label to expand the sidebar category"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Perkecil kategori sidebar '{label}'",
+    "message": "Réduire la catégorie '{label}' de la barre latérale",
     "description": "The ARIA label to collapse the sidebar category"
   },
-  "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Bahasa",
-    "description": "The label for the mobile language switcher dropdown"
+  "theme.NavBar.navAriaLabel": {
+    "message": "Principal",
+    "description": "The ARIA label for the main navigation"
   },
   "theme.NotFound.p1": {
-    "message": "Kami tidak dapat menemukan apa yang Anda cari.",
+    "message": "Nous n'avons pas trouvé ce que vous recherchez.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Harap hubungi pemilik situs yang menghubungkan Anda ke URL asli dan beri tahu mereka bahwa tautan mereka rusak.",
+    "message": "Veuillez contacter le propriétaire du site qui vous a lié à l'URL d'origine et leur faire savoir que leur lien est cassé.",
     "description": "The 2nd paragraph of the 404 page"
   },
-  "theme.NavBar.navAriaLabel": {
-    "message": "Utama",
-    "description": "The ARIA label for the main navigation"
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Langues",
+    "description": "The label for the mobile language switcher dropdown"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "Di halaman ini",
+    "message": "Sur cette page",
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "Baca satu menit|Baca {readingTime} menit",
+    "message": "Une minute de lecture|{readingTime} minutes de lecture",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.post.readMore": {
-    "message": "Baca Lebih Lanjut",
+    "message": "Lire plus",
     "description": "The label used in blog post item excerpts to link to full blog posts"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Baca lebih lanjut tentang {title}",
+    "message": "En savoir plus sur {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Halaman utama",
+    "message": "Page d'accueil",
     "description": "The ARIA label for the home page in the breadcrumbs"
   },
-  "theme.docs.sidebar.navAriaLabel": {
-    "message": "Sidebar dokumen",
-    "description": "The ARIA label for the sidebar navigation"
-  },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Perkecil sidebar",
+    "message": "Réduire le menu latéral",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Perkecil sidebar",
+    "message": "Réduire le menu latéral",
     "description": "The title attribute for collapse button of doc sidebar"
   },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Barre latérale de la documentation",
+    "description": "The ARIA label for the sidebar navigation"
+  },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Tutup bilah navigasi",
+    "message": "Fermer la barre latérale",
     "description": "The ARIA label for close button of mobile sidebar"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Kembali ke menu utama",
+    "message": "← Retour au menu principal",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Perluas sidebar",
+    "message": "Déplier le menu latéral",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Perluas sidebar",
+    "message": "Déplier le menu latéral",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
-  "theme.ErrorPageContent.tryAgain": {
-    "message": "Coba lagi",
-    "description": "The label of the button to try again rendering when the React error boundary captures an error"
-  },
-  "theme.common.skipToMainContent": {
-    "message": "Langsung ke konten utama",
-    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
-  },
-  "theme.tags.tagsPageTitle": {
-    "message": "Tag",
-    "description": "The title of the tag list page"
-  },
-  "theme.unlistedContent.title": {
-    "message": "Halaman tidak terdaftar",
-    "description": "The unlisted content banner title"
-  },
-  "theme.unlistedContent.message": {
-    "message": "Halaman ini tidak terdaftar. Mesin pencari tidak akan mengindeksnya, dan hanya pengguna yang memiliki tautan langsung yang dapat mengaksesnya.",
-    "description": "The unlisted content banner message"
-  },
-  "Log In": {
-    "message": "Masuk"
-  },
-  "Documentation Hub": {
-    "message": "Pusat Dokumentasi"
-  },
-  "Get Started": {
-    "message": "Mulai"
-  },
-  "What is Unit Network": {
-    "message": "Apa itu Unit Network"
-  },
-  "Ecosystem DAO": {
-    "message": "Ekosistem DAO"
-  },
-  "Architecture": {
-    "message": "Arsitektur"
-  },
-  "Community": {
-    "message": "Komunitas"
-  },
-  "User Guide": {
-    "message": "Panduan Pengguna"
-  },
-  "Learning Hub": {
-    "message": "Pusat Pembelajaran"
-  },
-  "Case Studies": {
-    "message": "Studi Kasus"
-  },
-  "Key Trends": {
-    "message": "Tren Kunci"
-  },
-  "FAQ": {
-    "message": "FAQ"
-  },
-  "Glossary": {
-    "message": "Glosarium"
-  },
-  "Media / Brand Resources": {
-    "message": "Sumber Daya Media / Brand"
-  },
-  "Terms of Services": {
-    "message": "Persyaratan Layanan"
-  },
-  "Your comprehensive guide to navigating the Unit Network": {
-    "message": "Panduan komprehensif Anda untuk menavigasi Unit Network"
-  },
-  "An Introduction to the fundamentals of the platform": {
-    "message": "Pengenalan tentang dasar-dasar platform"
-  },
-  "Learn about our community crafted organizations": {
-    "message": "Pelajari tentang organisasi yang dibuat oleh komunitas kami"
-  },
-  "An overview of Unit Network's core features": {
-    "message": "Ikhtisar fitur inti Unit Network"
-  },
-  "Your gateway to becoming a core contributor": {
-    "message": "Gerbang Anda untuk menjadi kontributor inti"
-  },
-  "A comprehensive walkthrough of the platform": {
-    "message": "Panduan lengkap platform"
-  },
-  "Elevate your knowledge about web3 concepts": {
-    "message": "Tingkatkan pengetahuan Anda tentang konsep web3"
-  },
-  "Unlocking Value with Community Tokens": {
-    "message": "Membuka Nilai dengan Token Komunitas"
-  },
-  "Learn about the key trends in the blockchain space": {
-    "message": "Pelajari tentang tren utama di ruang blockchain"
-  },
-  "Unveiling clarity on the most asked questions": {
-    "message": "Mengungkap kejelasan pada pertanyaan yang paling sering diajukan"
-  },
-  "Definition on terms used throughout the documentations": {
-    "message": "Definisi istilah yang digunakan sepanjang dokumentasi"
-  },
-  "A collection of Unit Network's media resources": {
-    "message": "Koleksi sumber daya media Unit Network"
-  },
-  "Terms of services": {
-    "message": "Syarat layanan"
-  },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "Satu dokumen ditemukan|{count} dokumen ditemukan",
+    "message": "Un document trouvé|{count} documents trouvés",
     "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.SearchPage.existingResultsTitle": {
-    "message": "Hasil pencarian untuk \"{query}\"",
+    "message": "Résultats de recherche pour « {query} »",
     "description": "The search page title for non-empty query"
   },
   "theme.SearchPage.emptyResultsTitle": {
-    "message": "Cari dalam dokumentasi",
+    "message": "Rechercher dans la documentation",
     "description": "The search page title for empty query"
   },
   "theme.SearchPage.inputPlaceholder": {
-    "message": "Ketik pencarian Anda di sini",
+    "message": "Tapez votre recherche ici",
     "description": "The placeholder for search page input"
   },
   "theme.SearchPage.inputLabel": {
-    "message": "Cari",
+    "message": "Chercher",
     "description": "The ARIA label for search page input"
   },
   "theme.SearchPage.algoliaLabel": {
-    "message": "Cari dengan Algolia",
+    "message": "Recherche par Algolia",
     "description": "The ARIA label for Algolia mention"
   },
   "theme.SearchPage.noResultsText": {
-    "message": "Tidak ada hasil yang ditemukan",
+    "message": "Aucun résultat trouvé",
     "description": "The paragraph for empty search result"
   },
   "theme.SearchPage.fetchingNewResults": {
-    "message": "Mengambil hasil baru...",
+    "message": "Chargement de nouveaux résultats...",
     "description": "The paragraph for fetching new search results"
   },
   "theme.SearchBar.label": {
-    "message": "Cari",
+    "message": "Chercher",
     "description": "The ARIA label and placeholder for search button"
   },
   "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Hapus query",
+    "message": "Effacer la requête",
     "description": "The label and ARIA label for search box reset button"
   },
   "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Batal",
+    "message": "Annuler",
     "description": "The label and ARIA label for search box cancel button"
   },
   "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Terbaru",
+    "message": "Récemment",
     "description": "The title for recent searches"
   },
   "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "Tidak ada pencarian terbaru",
+    "message": "Aucune recherche récente",
     "description": "The text when no recent searches"
   },
   "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Simpan pencarian ini",
+    "message": "Sauvegarder cette recherche",
     "description": "The label for save recent search button"
   },
   "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Hapus pencarian ini dari riwayat",
+    "message": "Supprimer cette recherche de l'historique",
     "description": "The label for remove recent search button"
   },
   "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorit",
+    "message": "Favoris",
     "description": "The title for favorite searches"
   },
   "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Hapus pencarian ini dari favorit",
+    "message": "Supprimer cette recherche des favoris",
     "description": "The label for remove favorite search button"
   },
   "theme.SearchModal.errorScreen.titleText": {
-    "message": "Tidak dapat mengambil hasil",
+    "message": "Impossible de récupérer les résultats",
     "description": "The title for error screen of search modal"
   },
   "theme.SearchModal.errorScreen.helpText": {
-    "message": "Anda mungkin ingin memeriksa koneksi jaringan Anda.",
+    "message": "Vous pouvez vérifier votre connexion réseau.",
     "description": "The help text for error screen of search modal"
   },
   "theme.SearchModal.footer.selectText": {
-    "message": "untuk memilih",
+    "message": "sélectionner",
     "description": "The explanatory text of the action for the enter key"
   },
   "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Tombol Enter",
+    "message": "Touche Entrée",
     "description": "The ARIA label for the Enter key button that makes the selection"
   },
   "theme.SearchModal.footer.navigateText": {
-    "message": "untuk navigasi",
+    "message": "naviguer",
     "description": "The explanatory text of the action for the Arrow up and Arrow down key"
   },
   "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Tombol atas",
+    "message": "Flèche vers le haut",
     "description": "The ARIA label for the Arrow up key button that makes the navigation"
   },
   "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Tombol bawah",
+    "message": "Flèche vers le bas",
     "description": "The ARIA label for the Arrow down key button that makes the navigation"
   },
   "theme.SearchModal.footer.closeText": {
-    "message": "untuk menutup",
+    "message": "fermer",
     "description": "The explanatory text of the action for Escape key"
   },
   "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Tombol Escape",
+    "message": "Touche Echap",
     "description": "The ARIA label for the Escape key button that close the modal"
   },
   "theme.SearchModal.footer.searchByText": {
-    "message": "Cari oleh",
+    "message": "Recherche via",
     "description": "The text explain that the search is making by Algolia"
   },
   "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "Tidak ada hasil untuk",
+    "message": "Aucun résultat pour",
     "description": "The text explains that there are no results for the following search"
   },
   "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Coba cari untuk",
+    "message": "Essayez de chercher",
     "description": "The text for the suggested query when no results are found for the following search"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Percaya bahwa query ini harus menghasilkan hasil?",
+    "message": "Vous pensez que cette requête doit donner des résultats ?",
     "description": "The text for the question where the user thinks there are missing results"
   },
   "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Beritahu kami.",
+    "message": "Faites-le nous savoir.",
     "description": "The text for the link to report missing results"
   },
   "theme.SearchModal.placeholder": {
-    "message": "Cari dokumen",
+    "message": "Rechercher des docs",
     "description": "The placeholder of the input of the DocSearch pop-up modal"
   },
   "theme.SearchBar.seeAll": {
-    "message": "Lihat semua {count} hasil"
+    "message": "Voir les {count} résultats"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Réessayer",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Aller au contenu principal",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Tags",
+    "description": "The title of the tag list page"
+  },
+  "theme.unlistedContent.title": {
+    "message": "Page non répertoriée",
+    "description": "The unlisted content banner title"
+  },
+  "theme.unlistedContent.message": {
+    "message": "Cette page n'est pas répertoriée. Les moteurs de recherche ne l'indexeront pas, et seuls les utilisateurs ayant un lien direct peuvent y accéder.",
+    "description": "The unlisted content banner message"
   }
 }
