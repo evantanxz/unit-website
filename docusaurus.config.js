@@ -32,7 +32,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "id", "fr"],
+    locales: ["en", "id", "fr", "es"],
     localeConfigs: {
       en: {
         label: "English",
@@ -43,6 +43,9 @@ const config = {
       },
       fr: {
         label: "Français",
+      },
+      es: {
+        label: "Español",
       },
     },
   },
@@ -101,12 +104,12 @@ const config = {
       footer: {
         style: "light",
         logo: {
-          alt: 'Unit Network Logo',
-          src: 'img/unit-logo.png',
-          href: 'https://tolstoy.unitcode.org/',
+          alt: "Unit Network Logo",
+          src: "img/unit-logo.png",
+          href: "https://tolstoy.unitcode.org/",
           width: 50,
           height: 50,
-        }, 
+        },
 
         links: [
           {
@@ -228,7 +231,7 @@ const config = {
                 href: "/docs/terms-of-services/",
               },
             ],
-          }, 
+          },
         ],
 
         copyright: `Copyright © ${new Date().getFullYear()} Powered by Unit Network.`,
