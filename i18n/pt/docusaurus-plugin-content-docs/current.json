@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "Próximo",
+    "description": "O rótulo para a versão atual"
+  },
+  "sidebar.tutorialSidebar.category.What is Unit Network": {
+    "message": "O que é a Unit Network",
+    "description": "O rótulo para a categoria O que é a Unit Network na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Tokens": {
+    "message": "Tokens Principais",
+    "description": "O rótulo para a categoria Tokens Principais na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ecosystem DAO": {
+    "message": "DAO do Ecossistema",
+    "description": "O rótulo para a categoria DAO do Ecossistema na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Architecture": {
+    "message": "Arquitetura",
+    "description": "O rótulo para a categoria Arquitetura na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community": {
+    "message": "Comunidade",
+    "description": "O rótulo para a categoria Comunidade na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Roles": {
+    "message": "Funções da Comunidade",
+    "description": "O rótulo para a categoria Funções da Comunidade na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide": {
+    "message": "Guia do Usuário",
+    "description": "O rótulo para a categoria Guia do Usuário na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Profile": {
+    "message": "Perfil do Usuário",
+    "description": "O rótulo para a categoria Perfil do Usuário na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Applications": {
+    "message": "Aplicações Principais",
+    "description": "O rótulo para a categoria Aplicações Principais na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Features": {
+    "message": "Recursos Principais",
+    "description": "O rótulo para a categoria Recursos Principais na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Others": {
+    "message": "Outros",
+    "description": "O rótulo para a categoria Outros na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Applications": {
+    "message": "Aplicações da Comunidade",
+    "description": "O rótulo para a categoria Aplicações da Comunidade na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Learning Hub": {
+    "message": "Centro de Aprendizagem",
+    "description": "O rótulo para a categoria Centro de Aprendizagem na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial": {
+    "message": "Tutorial",
+    "description": "O rótulo para a categoria Tutorial na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Case Studies": {
+    "message": "Estudos de Caso",
+    "description": "O rótulo para a categoria Estudos de Caso na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Key Trends": {
+    "message": "Tendências Chave",
+    "description": "O rótulo para a categoria Tendências Chave na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Technology": {
+    "message": "Tecnologia",
+    "description": "O rótulo para a categoria Tecnologia na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Frequently Asked Questions": {
+    "message": "Perguntas Frequentes",
+    "description": "O rótulo para a categoria Perguntas Frequentes na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Glossary": {
+    "message": "Glossário",
+    "description": "O rótulo para a categoria Glossário na barra lateral tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Media / Brand resources": {
+    "message": "Mídia / Recursos da Marca",
+    "description": "O rótulo para a categoria Mídia / Recursos da Marca na barra lateral tutorialSidebar"
+  }
+}

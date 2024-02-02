@@ -1,0 +1,118 @@
+{
+  "link.title.Docs": {
+    "message": "Documentos",
+    "description": "O título da coluna de links do rodapé com título=Documentos no rodapé"
+  },
+  "link.title.Community": {
+    "message": "Comunidade",
+    "description": "O título da coluna de links do rodapé com título=Comunidade no rodapé"
+  },
+  "link.title.Official Links": {
+    "message": "Links Oficiais",
+    "description": "O título da coluna de links do rodapé com título=Links Oficiais no rodapé"
+  },
+  "link.title.Policies": {
+    "message": "Políticas",
+    "description": "O título da coluna de links do rodapé com título=Políticas no rodapé"
+  },
+  "link.item.label.Documentation Hub": {
+    "message": "Centro de Documentação",
+    "description": "O rótulo do link do rodapé com rótulo=Centro de Documentação vinculando a https://docs.unit.network/"
+  },
+  "link.item.label.Official Links": {
+    "message": "Links Oficiais",
+    "description": "O rótulo do link do rodapé com rótulo=Links Oficiais vinculando a /docs/official-links"
+  },
+  "link.item.label.What is Unit Network": {
+    "message": "O que é a Unit Network",
+    "description": "O rótulo do link do rodapé com rótulo=O que é a Unit Network vinculando a /docs/what-is-unit-network/"
+  },
+  "link.item.label.Ecosystem DAO": {
+    "message": "DAO do Ecossistema",
+    "description": "O rótulo do link do rodapé com rótulo=DAO do Ecossistema vinculando a /docs/Ecosystem-DAO/"
+  },
+  "link.item.label.Architecture": {
+    "message": "Arquitetura",
+    "description": "O rótulo do link do rodapé com rótulo=Arquitetura vinculando a /docs/Architecture/"
+  },
+  "link.item.label.Community": {
+    "message": "Comunidade",
+    "description": "O rótulo do link do rodapé com rótulo=Comunidade vinculando a /docs/Community/"
+  },
+  "link.item.label.User Guide": {
+    "message": "Guia do Usuário",
+    "description": "O rótulo do link do rodapé com rótulo=Guia do Usuário vinculando a /docs/user-guide/"
+  },
+  "link.item.label.Learning Hub": {
+    "message": "Centro de Aprendizagem",
+    "description": "O rótulo do link do rodapé com rótulo=Centro de Aprendizagem vinculando a /docs/learning-hub/"
+  },
+  "link.item.label.Case Studies": {
+    "message": "Estudos de Caso",
+    "description": "O rótulo do link do rodapé com rótulo=Estudos de Caso vinculando a /docs/case-studies/"
+  },
+  "link.item.label.Key Trends": {
+    "message": "Tendências Chave",
+    "description": "O rótulo do link do rodapé com rótulo=Tendências Chave vinculando a /docs/key-trends/"
+  },
+  "link.item.label.Frequently Asked Questions": {
+    "message": "Perguntas Frequentes",
+    "description": "O rótulo do link do rodapé com rótulo=Perguntas Frequentes vinculando a /docs/frequently-asked-questions/"
+  },
+  "link.item.label.Glossary": {
+    "message": "Glossário",
+    "description": "O rótulo do link do rodapé com rótulo=Glossário vinculando a /docs/glossary/"
+  },
+  "link.item.label.Media / Brand Resources": {
+    "message": "Mídia / Recursos da Marca",
+    "description": "O rótulo do link do rodapé com rótulo=Mídia / Recursos da Marca vinculando a /docs/media/"
+  },
+  "link.item.label.Terms of Services": {
+    "message": "Termos de Serviço",
+    "description": "O rótulo do link do rodapé com rótulo=Termos de Serviço vinculando a /docs/terms-of-services/"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "O rótulo do link do rodapé com rótulo=Telegram vinculando a https://t.me/unitfoundation"
+  },
+  "link.item.label.X": {
+    "message": "X",
+    "description": "O rótulo do link do rodapé com rótulo=X vinculando a https://twitter.com/theunitnetwork"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "O rótulo do link do rodapé com rótulo=LinkedIn vinculando a https://www.linkedin.com/company/theunitnetwork"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "O rótulo do link do rodapé com rótulo=Instagram vinculando a https://www.instagram.com/unit.network"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "O rótulo do link do rodapé com rótulo=Discord vinculando a https://discord.com/invite/unitnetwork"
+  },
+  "link.item.label.Youtube": {
+    "message": "Youtube",
+    "description": "O rótulo do link do rodapé com rótulo=Youtube vinculando a https://www.youtube.com/c/UnitGlobal"
+  },
+  "link.item.label.Application": {
+    "message": "Aplicação",
+    "description": "O rótulo do link do rodapé com rótulo=Aplicação vinculando a https://app.unit.network/"
+  },
+  "link.item.label.Articles": {
+    "message": "Artigos",
+    "description": "O rótulo do link do rodapé com rótulo=Artigos vinculando a https://unitnetwork.medium.com/"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Política de Privacidade",
+    "description": "O rótulo do link do rodapé com rótulo=Política de Privacidade vinculando a /docs/terms-of-services/"
+  },
+  "copyright": {
+    "message": "Direitos autorais © 2024 Alimentado por Unit Network.",
+    "description": "O copyright do rodapé"
+  },
+  "logo.alt": {
+    "message": "Logo da Unit Network",
+    "description": "O texto alternativo do logo do rodapé"
+  }
+}
