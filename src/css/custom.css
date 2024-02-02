@@ -332,7 +332,7 @@ header {
   font-size: 3rem;
 }
 
-.documentation-header-style p{
+.documentation-header-style p {
   margin-bottom: 50px;
   font-size: 20px;
   font-weight: 500;
@@ -340,11 +340,36 @@ header {
 
 .header-title {
   font-size: 3.5rem;
-
 }
 
 @media (max-width: 768px) {
   .header-title {
     font-size: 2.5rem;
+  }
+}
+
+/* GridComponent */
+
+.grid-component {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 32px;
+}
+.grid-box {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 48px 16px;
+  margin: 16px 0;
+}
+
+@media (max-width: 1180px) {
+  .grid-component {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .grid-component {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
