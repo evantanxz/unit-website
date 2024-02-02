@@ -32,7 +32,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "id"],
+    locales: ["en", "id", "fr"],
     localeConfigs: {
       en: {
         label: "English",
@@ -40,6 +40,9 @@ const config = {
       // You can omit a locale (e.g. fr) if you don't need to override the defaults
       id: {
         label: "Bahasa Indonesia",
+      },
+      fr: {
+        label: "Français",
       },
     },
   },
@@ -146,19 +149,19 @@ const config = {
 
       algolia: {
         // New Algolia configuration...
-        appId: '3AFM8K1VB1',
-        apiKey: 'efca234af25c6fd0be1550cc69363746',
-        indexName: 'docsearch',
-        placeholder: 'Search', 
+        appId: "3AFM8K1VB1",
+        apiKey: "efca234af25c6fd0be1550cc69363746",
+        indexName: "docsearch",
+        placeholder: "Search",
         contextualSearch: true,
-        
+
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
         replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
+          from: "/docs/", // or as RegExp: /\/docs\//
+          to: "/",
         },
         //other search parameters
-      },    
+      },
     }),
 };
 

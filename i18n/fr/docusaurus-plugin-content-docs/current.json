@@ -1,94 +1,86 @@
 {
   "version.label": {
-    "message": "Berikutnya",
+    "message": "Prochaine",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.What is Unit Network": {
-    "message": "Apa itu Unit Network",
+    "message": "Qu'est-ce que Unit Network",
     "description": "The label for category What is Unit Network in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Core Tokens": {
-    "message": "Token Utama",
+    "message": "Tokens de base",
     "description": "The label for category Core Tokens in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Ecosystem DAO": {
-    "message": "Ekosistem DAO",
+    "message": "Écosystème DAO",
     "description": "The label for category Ecosystem DAO in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Architecture": {
-    "message": "Arsitektur",
+    "message": "Architecture",
     "description": "The label for category Architecture in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Community": {
-    "message": "Komunitas",
+    "message": "Communauté",
     "description": "The label for category Community in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Community Roles": {
-    "message": "Peran Komunitas",
+    "message": "Rôles de la communauté",
     "description": "The label for category Community Roles in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.User Guide": {
-    "message": "Panduan Pengguna",
+    "message": "Guide de l'utilisateur",
     "description": "The label for category User Guide in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.User Profile": {
-    "message": "Profil Pengguna",
+    "message": "Profil de l'utilisateur",
     "description": "The label for category User Profile in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Core Applications": {
-    "message": "Aplikasi Utama",
+    "message": "Applications de base",
     "description": "The label for category Core Applications in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Core Features": {
-    "message": "Fitur Utama",
+    "message": "Fonctionnalités de base",
     "description": "The label for category Core Features in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Others": {
-    "message": "Lainnya",
+    "message": "Autres",
     "description": "The label for category Others in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Community Applications": {
-    "message": "Aplikasi Komunitas",
+    "message": "Applications communautaires",
     "description": "The label for category Community Applications in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Learning Hub": {
-    "message": "Pusat Belajar",
+    "message": "Hub d'apprentissage",
     "description": "The label for category Learning Hub in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tutorial": {
-    "message": "Tutorial",
+    "message": "Tutoriel",
     "description": "The label for category Tutorial in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Case Studies": {
-    "message": "Studi Kasus",
+    "message": "Études de cas",
     "description": "The label for category Case Studies in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Key Trends": {
-    "message": "Tren Utama",
+    "message": "Tendances clés",
     "description": "The label for category Key Trends in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Technology": {
-    "message": "Teknologi",
+    "message": "Technologie",
     "description": "The label for category Technology in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Frequently Asked Questions": {
-    "message": "Pertanyaan yang Sering Diajukan",
+    "message": "Questions fréquemment posées",
     "description": "The label for category Frequently Asked Questions in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Glossary": {
-    "message": "Glosarium",
+    "message": "Glossaire",
     "description": "The label for category Glossary in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Media / Brand resources": {
-    "message": "Sumber Daya Media / Brand",
+    "message": "Ressources médias / marque",
     "description": "The label for category Media / Brand resources in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Apa itu Unit Network": {
-    "message": "Apa itu Unit Network",
-    "description": "The label for category Apa itu Unit Network in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Token Inti": {
-    "message": "Token Inti",
-    "description": "The label for category Token Inti in sidebar tutorialSidebar"
   }
 }
