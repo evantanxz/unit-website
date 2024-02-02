@@ -2,20 +2,20 @@
 sidebar_position: 3
 ---
 
-# Unit Network Protocol
+# Protokol Unit Network
 
-Pioneering Tomorrow's Finance, Uniting Global Communities, and Building a Decentralized Financial Future.
+Membuka Jalan Finansial di Masa Depan, Menyatukan Komunitas Global, dan Membangun Masa Depan Keuangan Terdesentralisasi.
 
-## The Vision
+## Visi
 
-Unit Network aims to pioneer the next era of finance, fostering a global community and decentralized financial infrastructure.
+Unit Network bertujuan untuk menjadi perintis era keuangan berikutnya, memupuk komunitas global dan infrastruktur keuangan terdesentralisasi.
 
-With a foundation in inclusivity, the project strives to provide simple yet powerful financial tools for everyone, transcending current limitations through blockchain technology, open access, and education.
+Dengan dasar inklusivitas, proyek ini berusaha untuk menyediakan alat keuangan yang sederhana namun kuat untuk semua orang, melampaui batasan saat ini melalui teknologi blockchain, akses terbuka, dan pendidikan.
 
-The project serves millions of service-oriented entrepreneurs, connecting them with customers, as well as entrepreneurs seeking transparent and secure fundraising opportunities. Additionally, it facilitates the understanding, access, and active participation of everyday individuals in the future digital economy.
+Proyek ini melayani jutaan pengusaha berorientasi layanan, menghubungkan mereka dengan pelanggan, serta pengusaha yang mencari peluang penggalangan dana yang transparan dan aman. Selain itu, proyek ini memfasilitasi pemahaman, akses, dan partisipasi aktif individu biasa dalam ekonomi digital masa depan.
 
-As a blockchain project, Unit Network is dedicated to establishing a modern and equitable economy through blockchain tokens, ensuring fair and transparent value distribution.
+Sebagai proyek blockchain, Unit Network berkomitmen untuk membentuk ekonomi modern dan adil melalui token blockchain, memastikan distribusi nilai yang adil dan transparan.
 
-Centered around UnitChain, a purpose-built, sovereign blockchain for tokenization, exchange, banking, and community management, the project utilizes the Substrate SDK and draws inspiration from Polkadot's model. This approach serves as a robust foundation, propelling the blockchain industry forward through technology and community collaboration.
+Berkonsep UnitChain, sebuah blockchain berdaulat yang dibangun khusus untuk tokenisasi, pertukaran, perbankan, dan manajemen komunitas, proyek ini menggunakan Substrate SDK dan mengambil inspirasi dari model Polkadot. Pendekatan ini berfungsi sebagai dasar yang kokoh, mendorong industri blockchain maju melalui teknologi dan kolaborasi komunitas.
 
-The ultimate goal is to unlock the untapped potential in the long tail of the token economy, advancing the industry through innovation and collaborative community efforts.
+Tujuan utamanya adalah membuka potensi yang belum tergali dalam ekonomi token, mendorong industri melalui inovasi dan upaya kolaboratif komunitas.

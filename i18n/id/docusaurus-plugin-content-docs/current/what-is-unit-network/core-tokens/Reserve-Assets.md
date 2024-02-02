@@ -2,103 +2,98 @@
 sidebar_position: 1
 ---
 
-# Reserve Assets
+# Aset Cadangan
 
-Reserve Assets Unveiled: Navigating the Diverse Spectrum Supported by Unit Network
-A Unit Network reserve asset signifies a stable and widely recognized cryptocurrency. With attributes such as high market capitalization, listings on major exchanges, and a track record of reliable growth and community engagement, these assets provide stability.
-It's crucial to emphasize that while we don't endorse specific coins or tokens as investments, we prioritize offering a diverse range of reserve assets.
-This strategy enhances adoption, provides users with more options, and solidly backs the UNIT Treasury for sustained growth.
+Aset Cadangan Terungkap: Menavigasi Ragam yang Didukung oleh Unit Network
+Aset cadangan Unit Network menandakan mata uang kripto yang stabil dan dikenal luas. Dengan atribut seperti kapitalisasi pasar tinggi, terdaftar di bursa utama, dan catatan pertumbuhan yang dapat diandalkan dan keterlibatan komunitas, aset-aset ini memberikan stabilitas.
+Penting untuk menekankan bahwa meskipun kami tidak mendukung koin atau token tertentu sebagai investasi, kami memberikan prioritas pada penawaran ragam aset cadangan.
+Strategi ini meningkatkan adopsi, memberikan pengguna lebih banyak pilihan, dan secara kokoh mendukung UNIT Treasury untuk pertumbuhan yang berkelanjutan.
 
-## Unlocking the Potential: Harnessing the Versatility of Reserve Assets in Unit Network
+## Membuka Potensi: Memanfaatkan Fleksibilitas Aset Cadangan di Unit Network
 
-Reserve assets play a pivotal role within Unit Network, serving multiple functions:
+Aset cadangan memainkan peran kunci dalam Unit Network, melayani berbagai fungsi:
 
-1. **Treasury:**
-   Locked as reserve assets in a token's treasury, providing tangible backing to substantiate the token's value. This concept mirrors a nation's vault of gold used to support its currency.
+1. **Kas Treasury:**
+   Dikunci sebagai aset cadangan di kas token, memberikan dukungan nyata untuk mendukung nilai token. Konsep ini mencerminkan gudang emas suatu negara yang digunakan untuk mendukung mata uangnya.
 
-2. **Trading:**
-   Available for buy/sell transactions through various crypto exchanges on Unit Network, contributing to liquidity and facilitating trading activities.
+2. **Perdagangan:**
+   Tersedia untuk transaksi beli/jual melalui berbagai bursa kripto di Unit Network, berkontribusi pada likuiditas dan memfasilitasi aktivitas perdagangan.
 
-3. **Sale:**
-   Utilized to purchase and/or back various tokens, spanning industry, city, agency, stable, project, personal, and other token categories. This versatility allows reserve assets to support a wide array of tokens.
+3. **Penjualan:**
+   Digunakan untuk membeli dan/atau mendukung berbagai token, meliputi industri, kota, agensi, stabil, proyek, personal, dan kategori token lainnya. Fleksibilitas ini memungkinkan aset cadangan mendukung berbagai token.
 
 4. **Transfer:**
-   Enables free transfers between users or to token banks, fostering seamless movement of reserve assets within the Unit Network ecosystem.
+   Memungkinkan transfer bebas antar pengguna atau ke bank token, memfasilitasi pergerakan aset cadangan secara mulus dalam ekosistem Unit Network.
 
-5. **Deposit / Withdraw:**
-   Facilitates the sending or receiving of cryptocurrencies into or out of Unit Network, providing users with the flexibility to manage their reserve assets efficiently.
+5. **Setoran / Tarik:**
+   Memfasilitasi pengiriman atau penerimaan kripto ke atau dari Unit Network, memberikan fleksibilitas kepada pengguna untuk mengelola aset cadangan mereka secara efisien.
 
-In essence, reserve assets serve as a cornerstone, underpinning the value, liquidity, and functionality of tokens within Unit Network. Whether locked in treasuries, traded on exchanges, used in token sales, transferred between users, or deposited/withdrawn, these assets play a dynamic role in the vibrant and interconnected ecosystem of Unit Network.
+Pada dasarnya, aset cadangan berfungsi sebagai batu penjuru, mendukung nilai, likuiditas, dan fungsionalitas token dalam Unit Network. Baik itu dikunci di kas, diperdagangkan di bursa, digunakan dalam penjualan token, ditransfer antar pengguna, atau disetor/ditarik, aset-aset ini memainkan peran dinamis dalam ekosistem Unit Network yang hidup dan terhubung.
 
 <br />
 
-## Exploring the Present: Unveiling Unit Network's Current Reserve Assets.
+## Menjelajahi Saat Ini: Mengungkap Aset Cadangan Unit Network yang Ada.
 
-Discover our Supported Coins/Tokens, Compatible Networks for Deposits, and Easily Verify Transactions with our Block Explorer
+Temukan Koin/Token yang Didukung Kami, Jaringan yang Kompatibel untuk Setoran, dan Verifikasi Transaksi dengan Mudah melalui Penjelajah Blok Kami
 
-:::tip Important Notice:
+:::tip Pemberitahuan Penting:
 
-Unit Network exclusively supports native networks for deposits. For instance, when depositing BTC, ensure it is done via Native SegWit, avoiding BEP20 or any other networks.
+Unit Network eksklusif mendukung jaringan asli untuk setoran. Misalnya, saat melakukan setoran BTC, pastikan melakukannya melalui Native SegWit, hindari BEP20 atau jaringan lainnya.
 :::
 
 <br />
 
 **Bitcoin (BTC)**
 
-- Supported deposit network: [BTC (Native SegWit) (Bitcoin)](https://bitcoin.org/)
-- Block Explorer: [Bitcoin Block Explorer](https://www.blockchain.com/explorer)
+- Jaringan setoran yang didukung: [BTC (Native SegWit) (Bitcoin)](https://bitcoin.org/)
+- Penjelajah Blok: [Penjelajah Blok Bitcoin](https://www.blockchain.com/explorer)
 
 **Ethereum (ETH)**
 
-- Supported deposit network: [ETH (ERC20) (Ethereum)](https://ethereum.org/)
-- Block Explorer: [Ethereum Block Explorer](https://etherscan.io/)
+- Jaringan setoran yang didukung: [ETH (ERC20) (Ethereum)](https://ethereum.org/)
+- Penjelajah Blok: [Penjelajah Blok Ethereum](https://etherscan.io/)
 
 **Polkadot (DOT)**
 
-- Supported deposit network: [DOT (Polkadot)](https://polkadot.network/)
-- Block Explorer: [Polkadot Block Explorer](https://polkascan.io/)
+- Jaringan setoran yang didukung: [DOT (Polkadot)](https://polkadot.network/)
+- Penjelajah Blok: [Penjelajah Blok Polkadot](https://polkascan.io/)
 
 **Solana (SOL)**
 
-- Supported deposit network: [SOL (Solana)](https://solana.com/)
-- Block Explorer: [Solana Block Explorer](https://explorer.solana.com/)
+- Jaringan setoran yang didukung: [SOL (Solana)](https://solana.com/)
+- Penjelajah Blok: [Penjelajah Blok Solana](https://explorer.solana.com/)
 
 **Polygon (MATIC)**
 
-- Supported deposit network: [MATIC](https://polygon.technology/)
-- Block Explorer: [Polygon Block Explorer](https://polygonscan.com/)
+- Jaringan setoran yang didukung: [MATIC](https://polygon.technology/)
+- Penjelajah Blok: [Penjelajah Blok Polygon](https://polygonscan.com/)
 
 **Binance Coin (BNB)**
 
-- Supported deposit network: [BNB (Binance)](https://www.binance.org/)
-- Block Explorer: [BNB Block Explorer](https://explorer.binance.org/)
+- Jaringan setoran yang didukung: [BNB (Binance)](https://www.binance.org/)
+- Penjelajah Blok: [Penjelajah Blok BNB](https://explorer.binance.org/)
 
 **Cardano (ADA)**
 
-- Supported deposit network: [ADA (Cardano)](https://cardano.org/)
-- Block Explorer: [Cardano Block Explorer](https://cardanoscan.io/)
+- Jaringan setoran yang didukung: [ADA (Cardano)](https://cardano.org/)
+- Penjelajah Blok: [Penjelajah Blok Cardano](https://cardanoscan.io/)
 
 **Algorand (ALGO)**
 
-- Supported deposit network: [ALGO (Algorand)](https://www.algorand.com/)
-- Block Explorer: [Algorand Block Explorer](https://algoexplorer.io/)
+- Jaringan setoran yang didukung: [ALGO (Algorand)](https://www.algorand.com/)
+- Penjelajah Blok: [Penjelajah Blok Algorand](https://algoexplorer.io/)
 
 **Avalanche (AVAX)**
 
-- Supported deposit network: [AVAX (Avalanche)](https://www.avalabs.org/)
-- Block Explorer: [Avalanche Block Explorer](https://cchain.explorer.avax.network/)
+- Jaringan setoran yang didukung: [AVAX (Avalanche)](https://www.avalabs.org/)
+- Penjelajah Blok: [Penjelajah Blok Avalanche](https://cchain.explorer.avax.network/)
 
 **Near Protocol (NEAR)**
 
-- Supported deposit network: [NEAR (Near Protocol)](https://near.org/)
-- Block Explorer: [NEAR Block Explorer](https://explorer.near.org/)
+- Jaringan setoran yang didukung: [NEAR (Near Protocol)](https://near.org/)
+- Penjelajah Blok: [Penjelajah Blok NEAR](https://explorer.near.org/)
 
 **Stellar (XLM)**
 
-- Supported deposit network: [XLM (Stellar)](https://www.stellar.org/)
-- Block Explorer: [Stellar Block Explorer](https://stellarscan.io/)
-
-**Cosmos (ATOM)**
-
-- Supported deposit network: [ATOM (Cosmos)](https://cosmos.network/)
-- Block Explorer: [Cosmos Block Explorer](https://mintscan.io/)
+- Jaringan setoran yang didukung: [XLM (Stellar)](https://www.stellar.org/)
+- Penjelajah Blok: [Penjelajah Blok Stellar](https://stell

@@ -2,37 +2,37 @@
 sidebar_position: 4
 ---
 
-# Unit Network Roadmap
+# Rencana Jalan Unit Network
 
-## Paving the Path to Scalability, Security, and Sustainable Innovation.
+## Membuka Jalan untuk Skalabilitas, Keamanan, dan Inovasi Berkelanjutan.
 
-The Unit Network's 2024 Roadmap delineates pivotal advancements across diverse facets of the platform. Presented below is a succinct breakdown of the roadmap:
+Rencana Jalan Unit Network tahun 2024 menguraikan kemajuan penting di berbagai aspek platform. Berikut adalah ringkasan singkat dari rencana jalan tersebut:
 
-### Q1 2024: Product Roadmap:
+### K1 2024: Rencana Produk:
 
-1. **Unit Chain Completion:** On-chain community features tailored for token creators.
-2. **Software Development Kit (SDK):** Empowering developers and community members to craft decentralized applications (dApps).
-3. **Bond Staking Features Deployment:** Fixed 10% APY, 28-day unbonding period, dynamic rewards, immediate token distribution, flexibility to unbond, daily claiming, and re-staking.
-4. **Expanded Bond Staking:** Available for all tokens on Unit Network with customizable APY and unbonding periods.
+1. **Penyelesaian Unit Chain:** Fitur komunitas on-chain yang disesuaikan untuk pencipta token.
+2. **Software Development Kit (SDK):** Memberdayakan pengembang dan anggota komunitas untuk membuat aplikasi terdesentralisasi (dApps).
+3. **Implementasi Fitur Bond Staking:** APY tetap 10%, periode unbonding 28 hari, imbalan dinamis, distribusi token langsung, fleksibilitas untuk unbond, klaim harian, dan re-staking.
+4. **Pengembangan Bond Staking yang Diperluas:** Tersedia untuk semua token di Unit Network dengan APY dan periode unbonding yang dapat disesuaikan.
 
-### Q2 2024: Product Roadmap:
+### K2 2024: Rencana Produk:
 
-1. **UI v2 Testing:** Rigorous testing of an enhanced User Interface and User Experience.
-2. **Enhanced Social Features:** Enlarged user following, customizable newsfeed, and dynamic content.
-3. **Enhanced Security Features:** Whitelisting users & tokens, transaction limits, PIN code management, and PIN reset with private seed phrase.
-4. **Enhanced Platform Analytics:** Improved analytics interface providing detailed information.
+1. **Pengujian UI v2:** Pengujian ketat antarmuka pengguna yang ditingkatkan dan Pengalaman Pengguna.
+2. **Fitur Sosial yang Ditingkatkan:** Peningkatan pengikut pengguna, newsfeed yang dapat disesuaikan, dan konten dinamis.
+3. **Fitur Keamanan yang Ditingkatkan:** Whitelisting pengguna & token, batas transaksi, pengelolaan kode PIN, dan reset PIN dengan frase benih pribadi.
+4. **Analitika Platform yang Ditingkatkan:** Antarmuka analitika yang ditingkatkan memberikan informasi yang detail.
 
-### Q3 2024: Product Roadmap:
+### K3 2024: Rencana Produk:
 
-1. **Token Gating:** Users and token creators can establish paywalls, control access, and incentivize participation.
-2. **Updated Documentation & Video Tutorials:** Comprehensive updates to platform documentation and interactive video tutorials.
-3. **Self-custodial Wallets:** Empowering users with control over private keys and enhanced security.
+1. **Token Gating:** Pengguna dan pencipta token dapat membentuk pembatas bayaran, mengontrol akses, dan memberikan insentif partisipasi.
+2. **Dokumentasi & Tutorial Video yang Diperbarui:** Pembaruan komprehensif untuk dokumentasi platform dan tutorial video interaktif.
+3. **Dompet Self-custodial:** Memberdayakan pengguna dengan kontrol atas kunci pribadi dan keamanan yang ditingkatkan.
 
-### Q4 2024: Transformative Milestones:
+### K4 2024: Melewati Tonggak Transformasional:
 
-1. **Community Feature SDK:** Empowering innovation with a modular and adaptable framework.
-2. **Cross-chain Communication:** Exploring opportunities with Polkadot Relaychain for enhanced connectivity.
-3. **Infinite Interoperability:** Decentralized wrapping and unwrapping, extending functionality to diverse assets.
-4. **Successful Deployment of Parachains & Updated UI:** Completion of major updates, public repositories, and peer review for total decentralization.
+1. **Software Development Kit (SDK) Fitur Komunitas:** Memberdayakan inovasi dengan kerangka modular dan dapat disesuaikan.
+2. **Komunikasi Cross-chain:** Mengeksplorasi peluang dengan Polkadot Relaychain untuk konektivitas yang ditingkatkan.
+3. **Interoperabilitas Tanpa Batas:** Wrapping dan unwrapping terdesentralisasi, memperluas fungsionalitas ke berbagai aset.
+4. **Pengimplementasian Parachains yang Sukses & UI yang Diperbarui:** Penyelesaian pembaruan utama, repositori publik, dan tinjauan oleh rekan sejawat untuk desentralisasi total.
 
-The roadmap underscores community-driven development, security enhancements, interoperability, and a steadfast commitment to decentralization. The platform aspires to deliver a versatile and user-friendly experience, contributing to the broader evolution of decentralized platforms.
+Rencana jalan menekankan pengembangan yang didorong oleh komunitas, peningkatan keamanan, interoperabilitas, dan komitmen yang teguh terhadap desentralisasi. Platform ini bercita-cita memberikan pengalaman yang serbaguna dan ramah pengguna, berkontribusi pada evolusi lebih luas dari platform terdesentralisasi.

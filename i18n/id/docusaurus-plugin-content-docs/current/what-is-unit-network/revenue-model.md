@@ -2,88 +2,78 @@
 sidebar_position: 7
 ---
 
-# Revenue Model
+# Model Pendapatan
 
-Unit Network operates on a unique and sustainable revenue model, ensuring community engagement and the continuous development of the platform. Here's how it works:
+Unit Network beroperasi dengan model pendapatan yang unik dan berkelanjutan, memastikan keterlibatan komunitas dan pengembangan terus-menerus dari platform. Berikut adalah cara kerjanya:
 
-#### Exchange Fee: 2%
+#### Biaya Pertukaran: 2%
 
-A 2% fee is charged on every exchange transaction within the Unit Network.
+Biaya sebesar 2% dikenakan pada setiap transaksi pertukaran dalam Unit Network.
 
-#### Distribution of the Fee:
+#### Distribusi Biaya:
 
-The 2% fee is evenly distributed into four distinct parts, each serving a specific purpose:
+Biaya sebesar 2% didistribusikan secara merata ke empat bagian berbeda, masing-masing melayani tujuan tertentu:
 
-#### Unit Treasury allocation: 0.5%
+#### Alokasi Kas UNIT Treasury: 0.5%
 
-A portion, 0.5%, is directed to the UNIT Treasury. This fund serves as a transparent and immutable reservoir of value within the Unit Network ecosystem.
+Sebagian, 0.5%, diarahkan ke UNIT Treasury. Dana ini berfungsi sebagai reservoir nilai yang transparan dan tidak dapat diubah dalam ekosistem Unit Network.
 
-#### Referrer reward allocation : 0.5%
+#### Alokasi Hadiah Pemberi Acara: 0.5%
 
-0.5% is awarded to the user who referred the exchanger. This incentivizes users to refer others, contributing to the network's growth.
+0.5% diberikan kepada pengguna yang merujuk penukaran tersebut. Ini memberikan insentif kepada pengguna untuk merujuk orang lain, berkontribusi pada pertumbuhan jaringan.
 
-#### Liquidity Pool allocation : 0.5%
+#### Alokasi Kolam Likuiditas: 0.5%
 
-0.5% of the fee is allocated to the liquidity pool. This ensures a healthy and robust liquidity environment within the network, enhancing the overall trading experience.
+0.5% dari biaya dialokasikan ke kolam likuiditas. Ini memastikan lingkungan likuiditas yang sehat dan tangguh dalam jaringan, meningkatkan pengalaman perdagangan secara keseluruhan.
 
-#### Token Treasury allocation : 0.5%
+#### Alokasi Kas Token: 0.5%
 
-0.5% is contributed to the Treasury of the token being exchanged. This supports the specific token's ecosystem, fostering sustainability and development.
+0.5% disumbangkan ke Kas dari token yang sedang ditukar. Ini mendukung ekosistem token tertentu, mendorong keberlanjutan dan pengembangan.
 
-#### ​Incentivizing Community Participation:
+#### Mendorong Partisipasi Komunitas:
 
-- The revenue model is designed to encourage active community participation. Users referring others are rewarded, and various components of the network, including the UNIT Treasury and token-specific Treasuries, receive consistent contributions.
+- Model pendapatan ini dirancang untuk mendorong partisipasi aktif komunitas. Pengguna yang merujuk orang lain mendapatkan imbalan, dan berbagai komponen jaringan, termasuk UNIT Treasury dan Kas Token tertentu, menerima kontribusi yang konsisten.
 
-#### Sustainability and Growth:
+#### Keberlanjutan dan Pertumbuhan:
 
-- By distributing the exchange fee across different aspects of the ecosystem, Unit Network ensures a steady flow of resources to critical areas. This sustainable approach supports ongoing development, innovation, and the overall growth of the platform.
+- Dengan mendistribusikan biaya pertukaran ke berbagai aspek ekosistem, Unit Network memastikan aliran sumber daya yang stabil ke area kritis. Pendekatan berkelanjutan ini mendukung pengembangan berkelanjutan, inovasi, dan pertumbuhan keseluruhan platform.
 
-In summary, Unit Network's revenue model is not only transparent but also aligns with the principles of community engagement and decentralized sustainability. The even distribution of fees across various segments ensures that each part of the network receives its share, contributing to the ecosystem's resilience and continual advancement.
+Secara ringkas, model pendapatan Unit Network tidak hanya transparan tetapi juga sejalan dengan prinsip keterlibatan komunitas dan keberlanjutan terdesentralisasi. Distribusi merata biaya ke segmen-segmen berbeda memastikan bahwa setiap bagian dari jaringan mendapatkan bagian mereka, berkontribusi pada ketangguhan dan kemajuan terus-menerus ekosistem.
 
-### Unit Network: Engineered for Purpose, Sovereign by Design – Redefining Blockchain Excellence.
+### Unit Network: Dirancang untuk Tujuan, Berdaulat oleh Desain – Mendefinisikan Keunggulan Blockchain.
 
-Unit Network distinguishes itself as a purpose-built and sovereign blockchain, setting it apart from major players like Bitcoin (BTC) and Ethereum (ETH). Here are key features that highlight its uniqueness:
+Unit Network membedakan dirinya sebagai blockchain yang dirancang untuk tujuan dan berdaulat, membedakannya dari pemain utama seperti Bitcoin (BTC) dan Ethereum (ETH). Berikut adalah fitur kunci yang menyoroti keunikan Unit Network:
 
-1. Application-Specific Blockchain:
+1. Blockchain Khusus Aplikasi:
 
-- Unit Network is tailored for specific applications, providing a focused and efficient environment for various use cases. Unlike general-purpose blockchains, it is designed with specific functionalities in mind.
+- Unit Network disesuaikan untuk aplikasi tertentu, menyediakan lingkungan yang fokus dan efisien untuk berbagai kasus penggunaan. Tidak seperti blockchain umum, ini dirancang dengan fungsionalitas khusus dalam pikiran.
 
-2. Proof-of-Stake Model:
+2. Model Proof-of-Stake:
 
-- The platform utilizes a proof-of-stake consensus model, enhancing energy efficiency compared to the energy-intensive proof-of-work model employed by Bitcoin. This contributes to a more sustainable and eco-friendly blockchain ecosystem.
+- Platform ini menggunakan model konsensus proof-of-stake, meningkatkan efisiensi energi dibandingkan dengan model proof-of-work yang membutuhkan banyak energi yang digunakan oleh Bitcoin. Ini berkontribusi pada ekosistem blockchain yang lebih berkelanjutan dan ramah lingkungan.
 
-3. Transaction Speeds:
+3. Kecepatan Transaksi:
 
-- With its proof-of-stake model, Unit Network potentially offers faster transaction speeds. This is a significant advantage, particularly in scenarios where quick and efficient transactions are essential.
+- Dengan model proof-of-stake-nya, Unit Network potensial menawarkan kecepatan transaksi yang lebih cepat. Ini adalah keunggulan signifikan, terutama dalam skenario di mana transaksi cepat dan efisien penting.
 
-4. Minimal Fee Structure:
+4. Struktur Biaya Minimal:
 
-- Unit Network features a minimal fee structure, providing a cost-effective solution for users. This stands in contrast to higher transaction fees often associated with Bitcoin and Ethereum, especially during periods of high network congestion.
+- Unit Network memiliki struktur biaya minimal, menyediakan solusi yang hemat biaya bagi pengguna. Ini berbeda dengan biaya transaksi yang lebih tinggi yang sering terkait dengan Bitcoin dan Ethereum, terutama selama periode kemacetan jaringan tinggi.
 
-5. Cost-Effective and Scalable:
+5. Hemat Biaya dan Skalabel:
 
-- The minimal fee structure, combined with the platform's design, makes Unit Network a cost-effective and scalable choice for specific blockchain applications. This can lead to more efficient and economical transactions for users.
+- Struktur biaya minimal, dikombinasikan dengan desain platform, membuat Unit Network pilihan yang hemat biaya dan dapat diskalakan untuk aplikasi blockchain tertentu. Ini dapat mengarah pada transaksi yang lebih efisien dan ekonomis bagi pengguna.
 
-Unit Network's purpose-built nature, proof-of-stake consensus, and minimal fee structure contribute to its efficiency, sustainability, and cost-effectiveness. As blockchain technology continues to evolve, platforms like Unit Network offer tailored solutions to meet the diverse needs of specific applications and industries.
+Sifat yang dibangun khusus, konsensus proof-of-stake, dan struktur biaya minimal Unit Network berkontribusi pada efisiensinya, keberlanjutan, dan hemat biaya. Saat teknologi blockchain terus berkembang, platform seperti Unit Network menawarkan solusi yang disesuaikan untuk memenuhi berbagai kebutuhan aplikasi dan industri tertentu.
 
-### Unit Network: Pioneering a New Business Frontier with Innovation, Sustainability, and Community Empowerment at its Core.
+### Unit Network: Membuka Frontier Bisnis Baru dengan Inovasi, Keberlanjutan, dan Pemberdayaan Komunitas di Inti.
 
-The Patreon business model serves as a valuable benchmark for market pricing, particularly in the artist-focused niche, with over 200,000 projects funded by supporters. Patreon charges a 5-12% fee for its services.
+Model bisnis Patreon menjadi tolak ukur berharga untuk penetapan harga pasar, terutama dalam niche yang berfokus pada seniman, dengan lebih dari 200.000 proyek didanai oleh pendukung. Patreon mengenakan biaya 5-12% untuk layanannya.
 
-In stark contrast, Unit Network introduces a disruptive pricing approach. For projects raising capital, there are no fees, and on exchanges, a modest 2% fee is charged, borne by the buyer, not the seller. In fact, sellers receive 0.5% on the sale.
+Sebaliknya, Unit Network memperkenalkan pendekatan penetapan harga yang mengganggu. Untuk proyek yang mengumpulkan modal, tidak ada biaya, dan di bursa, dikenakan biaya 2%, ditanggung oleh pembeli, bukan penjual. Bahkan, penjual menerima 0.5% dari penjualan.
 
-This groundbreaking pricing model enables agencies to offer highly competitive fees and percentages. It allows for the extra time, care, hand-holding, administration, and management necessary to craft customized and powerful tokenization models effectively. Unit Network's approach reshapes the landscape, fostering affordability, accessibility, and innovation in the realm of tokenization.
+Model penetapan harga revolusioner ini memungkinkan agensi untuk menawarkan biaya dan persentase yang sangat kompetitif. Ini memungkinkan waktu tambahan, perhatian, pendampingan, administrasi, dan manajemen yang diperlukan untuk membuat model tokenisasi yang efektif dan kuat secara kustom. Pendekatan Unit Network merubah lanskap, mendorong keterjangkauan, aksesibilitas, dan inovasi dalam ranah tokenisasi.
 
-### Navigating the Future: The Index of RWAs & DeFi - Bridging Traditional Assets with Decentralized Finance Innovation.
+### Menavigasi Masa Depan: Indeks RWAs & DeFi - Menjembatani Aset Tradisional dengan Inovasi Keuangan Terdesentralisasi.
 
-Unit Network's revenue model stands out for its distinct 2% fee distribution, gaining additional strength from the robust backing of the UNIT token treasury.
-
-This treasury is uniquely fortified with a diverse portfolio of blue-chip crypto assets, strategically utilized in the minting of UNIT.
-
-This composition not only enhances the treasury's anti-fragility but also ensures its continuous growth in resilience and value with every transaction conducted within the network.
-
-In an unintended yet significant consequence, the UNIT token transcends its role as a mere transactional unit. Instead, it evolves into a dynamic index, reflecting the entirety of the token economy.
-
-This perpetual backing by the escalating value of esteemed assets such as BTC, ETH, DOT, and various other blue-chip holdings positions the UNIT token as a pivotal and influential element within the broader crypto ecosystem.
-
-It symbolizes not just a unit of exchange but a tangible representation of the evolving trends and values shaping the dynamic landscape of cryptocurrencies.
+Model pendapatan Unit Network menon

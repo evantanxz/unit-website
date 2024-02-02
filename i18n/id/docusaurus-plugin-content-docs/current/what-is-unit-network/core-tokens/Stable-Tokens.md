@@ -4,48 +4,48 @@ sidebar_position: 2
 
 # Stable Tokens
 
-Stable Tokens Demystified: Navigating the Landscape, Understanding Uses, and Unveiling the Mechanics
+Membongkar Misteri Stable Tokens: Menavigasi Lanskap, Memahami Penggunaan, dan Mengungkap Mekanisme
 
-Unlocking Stability: Acquiring stable tokens involves purchasing from the stable token's bank using reserve assets. These assets, sent to the stable token's bank, serve as the cornerstone, backing the stable token's intrinsic value.
+Membuka Stabilitas: Mendapatkan stable token melibatkan pembelian dari bank stable token menggunakan aset cadangan. Aset-aset ini, yang dikirim ke bank stable token, berfungsi sebagai batu penjuru, mendukung nilai intrinsik stable token.
 
-With 22 stable tokens on Unit Network, this alternative offers respite from the short-term volatility of mainstream cryptocurrencies. Moreover, it provides a straightforward payment solution for both users and merchants.
+Dengan 22 stable token di Unit Network, alternatif ini menawarkan ketenangan dari volatilitas jangka pendek mata uang kripto mainstream. Lebih dari itu, ini memberikan solusi pembayaran yang langsung dan mudah baik untuk pengguna maupun pedagang.
 
 <br />
 
-## Clarity in Support
+## Kedekatan dalam Dukungan
 
-Every stable token on Unit Network employs a uniform collateral and pegging mechanism, devoid of algorithms. Backed by diverse reserve assets that appreciate over time, these stable tokens benefit from over-collateralization. Users have real-time transparency, accessing information on the total backing value, asset distribution, and more.
+Setiap stable token di Unit Network menggunakan mekanisme jaminan dan kait yang seragam, tanpa algoritma. Didukung oleh beragam aset cadangan yang menghargai dari waktu ke waktu, stable token ini mendapatkan manfaat dari over-kolateralisasi. Pengguna memiliki transparansi waktu nyata, mengakses informasi tentang total nilai dukungan, distribusi aset, dan lainnya.
 
-## Functional Versatility
+## Fleksibilitas Fungsional
 
-While USDU stands as the primary stable token on Unit Network, all stable tokens share identical functionality and can fulfill the same purposes. USDU is instrumental for:
+Meskipun USDU berdiri sebagai stable token utama di Unit Network, semua stable token memiliki fungsionalitas dan tujuan yang identik. USDU sangat penting untuk:
 
-1. Purchasing any token or reserve asset from the exchange.
-2. Liquidity Pool staking.
-3. Accruing in the UNIT Treasury, constituting a 0.5% fee from all platform exchanges.
-4. Offering stability in comparison to user-generated tokens as a reliable medium of exchange or payment.
+1. Membeli token atau aset cadangan apa pun dari bursa.
+2. Staking Likuiditas.
+3. Bertambahnya di UNIT Treasury, membentuk biaya 0,5% dari semua pertukaran platform.
+4. Menawarkan stabilitas dibandingkan dengan token yang dihasilkan pengguna sebagai medium pertukaran atau pembayaran yang dapat diandalkan.
 
-In addition to USDU, there are 22 other stable tokens, each representing a major currency. Explore the comprehensive list below.
+Selain USDU, ada 22 stable token lain, masing-masing mewakili mata uang utama. Telusuri daftar lengkap di bawah ini.
 
-- USDU: United States Dollar
-- GBPU: British Pound
+- USDU: Dolar Amerika Serikat
+- GBPU: Pound Inggris
 - EURU: Euro
-- AUDU: Australian Dollar
-- CADU: Canadian Dollar
-- BRLU: Brazilian Real
-- ZARU: South African Rand
-- TRYU: Turkish Lira
-- RUBU: Russian Ruble
-- JPYU: Japanese Yen
-- SGDU: Singapore Dollar
-- NOKU: Norwegian Krone
-- MXNU: Mexican Peso
-- PLNU: Polish Zloty
-- INRU: Indian Rupee
-- SEKU: Swedish Krona
-- NZDU: New Zealand Dollar
-- HKDU: Hong Kong Dollar
-- CNYU: Chinese Yuan
-- CHFU: Swiss Franc
-- KRWU: South Korean Won
-- IDRU: Indonesian Rupiah
+- AUDU: Dolar Australia
+- CADU: Dolar Kanada
+- BRLU: Real Brasil
+- ZARU: Rand Afrika Selatan
+- TRYU: Lira Turki
+- RUBU: Rubel Rusia
+- JPYU: Yen Jepang
+- SGDU: Dolar Singapura
+- NOKU: Krone Norwegia
+- MXNU: Peso Meksiko
+- PLNU: Zloty Polandia
+- INRU: Rupee India
+- SEKU: Krona Swedia
+- NZDU: Dolar Selandia Baru
+- HKDU: Dolar Hong Kong
+- CNYU: Yuan Tiongkok
+- CHFU: Franc Swiss
+- KRWU: Won Korea Selatan
+- IDRU: Rupiah Indonesia

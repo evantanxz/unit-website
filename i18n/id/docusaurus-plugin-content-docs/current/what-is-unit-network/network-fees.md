@@ -2,31 +2,31 @@
 sidebar_position: 8
 ---
 
-# Network Fees
+# Biaya Jaringan
 
-Efficient and Transparent Network Fees for Accessing Core App Features
+Biaya Jaringan yang Efisien dan Transparan untuk Mengakses Fitur Utama Aplikasi
 
-Network fees constitute a crucial aspect of decentralized protocols, and Unit Network is no exception to this paradigm.
+Biaya jaringan merupakan aspek penting dari protokol terdesentralisasi, dan Unit Network tidak terkecuali dari paradigma ini.
 
-What sets us apart from other decentralized exchanges is our distinctive approach: we apply a transparent flat fee structure for all exchanges and withdrawals.
+Apa yang membedakan kami dari bursa terdesentralisasi lainnya adalah pendekatan khas kami: kami menerapkan struktur biaya tetap transparan untuk semua pertukaran dan penarikan.
 
-Notably, our commitment to user-friendly interactions is underscored by the absence of costs or commissions for essential actions such as transfers, stake/unstake processes, or bond staking.
+Yang patut dicatat, komitmen kami terhadap interaksi yang ramah pengguna ditekankan oleh absennya biaya atau komisi untuk tindakan-tindakan penting seperti transfer, proses staking/unstaking, atau bond staking.
 
-This strategic differentiation aims to provide users with a clear and predictable fee framework, enhancing overall accessibility and fostering a seamless experience within the Unit Network ecosystem.
+Diferensiasi strategis ini bertujuan memberikan pengguna dengan kerangka biaya yang jelas dan dapat diprediksi, meningkatkan aksesibilitas secara keseluruhan, dan mempromosikan pengalaman tanpa hambatan dalam ekosistem Unit Network.
 
-### Exchange Fee
+### Biaya Pertukaran
 
-Every trade conducted on the Unit Network is subject to a 2% fee, distributed equally across four channels:
+Setiap perdagangan yang dilakukan di Unit Network dikenakan biaya sebesar 2%, didistribusikan secara merata ke empat saluran:
 
-- 0.5% directed to the UNIT Treasury
-- 0.5% allocated to the user responsible for inviting the exchanger
-- 0.5% contributed to the liquidity pool
-- 0.5% allocated to the Treasury of the specific token being exchanged. This equitable distribution ensures a fair and transparent allocation of fees, benefitting the overall ecosystem and its participants.
+- 0,5% diarahkan ke Kas UNIT
+- 0,5% dialokasikan kepada pengguna yang bertanggung jawab atas undangan exchanger
+- 0,5% disumbangkan ke kolam likuiditas
+- 0,5% dialokasikan ke Kas dari token tertentu yang sedang ditukar. Distribusi yang adil ini memastikan alokasi biaya yang adil dan transparan, memberikan manfaat bagi ekosistem secara keseluruhan dan pesertanya.
 
-### Withdrawal Fee
+### Biaya Penarikan
 
-For each withdrawal on the Unit Network, a 1% withdrawal fee is applied, evenly divided between two components:
+Untuk setiap penarikan di Unit Network, dikenakan biaya penarikan sebesar 1%, dibagi secara merata antara dua komponen:
 
-- 0.5% directed to the UNIT Treasury
-- 0.5% allocated to the Vault responsible for processing the withdrawal.
-  This balanced distribution ensures a proportional allocation of withdrawal fees, contributing to the sustainability and functionality of the Unit Network ecosystem.
+- 0,5% diarahkan ke Kas UNIT
+- 0,5% dialokasikan ke Vault yang bertanggung jawab atas pemrosesan penarikan.
+  Distribusi seimbang ini memastikan alokasi proporsional biaya penarikan, berkontribusi pada keberlanjutan dan fungsionalitas ekosistem Unit Network.

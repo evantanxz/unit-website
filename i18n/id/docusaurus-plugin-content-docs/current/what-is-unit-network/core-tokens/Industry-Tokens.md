@@ -2,86 +2,86 @@
 sidebar_position: 3
 ---
 
-# Industry Tokens
+# Token Industri
 
-Exploring Use-Cases, Governance, and Tokenomics of Industry Tokens
+Menjelajahi Kasus Penggunaan, Tata Kelola, dan Tokenomics dari Token Industri
 
-Revolutionizing Industries: Industry Tokens are open DAOs, uniting individuals, businesses, and communities within the industry. Backed by Blue Chips and a reverse ETF, these tokens enable anyone to buy a single token and participate in the potential upside of a specific territory.
+Merevolusi Industri: Token Industri adalah DAO terbuka, menyatukan individu, bisnis, dan komunitas dalam industri. Didukung oleh Blue Chips dan reverse ETF, token ini memungkinkan siapa saja untuk membeli satu token dan berpartisipasi dalam potensi pertumbuhan wilayah tertentu.
 
-:::tip Industry Tokens Verification:
+:::tip Verifikasi Token Industri:
 
-Unit Foundation has exclusively created all Industry Tokens. To ensure authenticity, check the token manager's username on the Tokens Info page and steer clear of fraudulent tokens.
+Unit Foundation secara eksklusif membuat semua Token Industri. Untuk memastikan keaslian, periksa nama pengelola token pada halaman Informasi Token dan hindari token palsu.
 :::
 
-Industry Tokens serve multiple purposes:
+Token Industri melayani beberapa tujuan:
 
-1. **Purchase Power:**
-   Used to buy products and services from Industry Token community stores.
+1. **Kekuatan Pembelian:**
+   Digunakan untuk membeli produk dan layanan dari toko komunitas Token Industri.
 
-2. **Payment Medium:**
-   Transferred as payment between users.
+2. **Medium Pembayaran:**
+   Ditransfer sebagai pembayaran antar pengguna.
 
-3. **Sale:**
-   Industry Token Treasuries receive 0.5% of all Industry Token trades.
+3. **Penjualan:**
+   Kas Treasuries Token Industri menerima 0,5% dari semua perdagangan Token Industri.
 
 4. **Transfer:**
-   Purchased as a Reserve ETF of all the tokens in a specific industry.
+   Diperoleh sebagai Reserve ETF dari semua token dalam industri tertentu.
 
 <br />
-## Empowering Community-Led Governance: Unleashing the Potential of Industry Tokens on Unit Network
+## Pemberdayaan Tata Kelola yang Dipimpin Komunitas: Melepaskan Potensi Token Industri di Unit Network
 
-All members of the Unit Network core team actively participate in at least one Industry Token DAO, contributing to the setup, management, and maintaining direct communication with the community.
+Semua anggota tim inti Unit Network secara aktif berpartisipasi dalam setidaknya satu DAO Token Industri, berkontribusi pada pengaturan, manajemen, dan menjaga komunikasi langsung dengan komunitas.
 
-As part of the long-term vision, the responsibility for Industry Token bank and treasury management will gradually transition to specific core team members dedicated to building and moderating Industry Token communities.
+Sebagai bagian dari visi jangka panjang, tanggung jawab untuk manajemen bank dan treasuries Token Industri akan beralih secara bertahap ke anggota tim inti yang ditentukan untuk membangun dan mengelola komunitas Token Industri.
 
-This approach aims to customize governance and objectives according to the unique needs of each community.
+Pendekatan ini bertujuan untuk menyesuaikan tata kelola dan tujuan sesuai dengan kebutuhan unik setiap komunitas.
 
-## A Unified Approach to Tokenomics for Diverse Ventures
+## Pendekatan Bersatu terhadap Tokenomics untuk Venture Beragam
 
-All Industry Tokens crafted by Unit Foundation adhere to a unified tokenomic structure, outlined as follows:
+Semua Token Industri yang dibuat oleh Unit Foundation mematuhi struktur tokenomics yang bersatu, seperti yang dijelaskan berikut:
 
-- **Contract:** UnitChain
-- **Total Supply:** 100,000,000.0 (100%)
-- **Sale Supply:** 66,000,000.00 (66%)
-- **Operations:** 14,000,000.00 (14%)
-- **Core Team:** 20,000,000.00 (20%) (Distributed among 200 individuals with a 3-year cliff and 5-year vesting period)
+- **Kontrak:** UnitChain
+- **Total Supply:** 100.000.000,0 (100%)
+- **Persediaan Dijual:** 66.000.000,00 (66%)
+- **Operasional:** 14.000.000,00 (14%)
+- **Tim Inti:** 20.000.000,00 (20%) (Didistribusikan di antara 200 individu dengan periode batas waktu 3 tahun dan periode penguncian 5 tahun)
 
-## Resilient Backing, Sustainable Growth: Backed by Blue Chips, Industry Tokens Ensure Value and Minimize Risk.
+## Dukungan Kuat, Pertumbuhan Berkelanjutan: Didukung oleh Blue Chips, Token Industri Memastikan Nilai dan Risiko Minimal.
 
-Similar to the UNIT Coin, every Industry Token from Unit Foundation is secured by Blue Chips.
+Seperti UNIT Coin, setiap Token Industri dari Unit Foundation dijamin oleh Blue Chips.
 
-A substantial 90% of Industry Token sales are locked in the treasury, fortifying value and reducing downside risks.
+Sebanyak 90% penjualan Token Industri dikunci di kas, memperkuat nilai dan mengurangi risiko downside.
 
-Moreover, Industry Token Treasuries receive a 0.5% share from all trades, enhancing value sustainability.
+Selain itu, Kas Treasuries Token Industri menerima 0,5% bagian dari semua perdagangan, meningkatkan keberlanjutan nilai.
 
-## Exploring and Elevating Industries Worldwide.
+## Mengeksplorasi dan Meningkatkan Industri di Seluruh Dunia.
 
-Currently, we are actively engaged in approximately 30 industries spanning Asia, Africa, the Middle East, Europe, and the Americas.
+Saat ini, kami aktif terlibat dalam sekitar 30 industri yang melibatkan Asia, Afrika, Timur Tengah, Eropa, dan Amerika.
 
-Our objective is to establish a global presence, fostering support for local industry economies, both large and small, across the entire globe.
+Tujuan kami adalah untuk mendirikan kehadiran global, mendorong dukungan bagi ekonomi industri lokal, baik yang besar maupun kecil, di seluruh dunia.
 
 <br />
-| Code | Currency |
+| Kode | Mata Uang |
 | ---- | :------------------: |
-| USDU | United States Dollar |
-| GBPU | British Pound |
+| USDU | Dolar Amerika Serikat |
+| GBPU | Pound Inggris |
 | EURU | Euro |
-| AUDU | Australian Dollar |
-| CADU | Canadian Dollar |
-| BRLU | Brazilian Real |
-| ZARU | South African Rand |
-| TRYU | Turkish Lira |
-| RUBU | Russian Ruble |
-| JPYU | Japanese Yen |
-| SGDU | Singapore Dollar |
-| NOKU | Norwegian Krone |
-| MXNU | Mexican Peso |
-| PLNU | Polish Zloty |
-| INRU | Indian Rupee |
-| SEKU | Swedish Krona |
-| NZDU | New Zealand Dollar |
-| HKDU | Hong Kong Dollar |
-| CNYU | Chinese Yuan |
-| CHFU | Swiss Franc |
-| KRWU | South Korean Won |
-| IDRU | Indonesian Rupiah |
+| AUDU | Dolar Australia |
+| CADU | Dolar Kanada |
+| BRLU | Real Brasil |
+| ZARU | Rand Afrika Selatan |
+| TRYU | Lira Turki |
+| RUBU | Rubel Rusia |
+| JPYU | Yen Jepang |
+| SGDU | Dolar Singapura |
+| NOKU | Krone Norwegia |
+| MXNU | Peso Meksiko |
+| PLNU | Zloty Polandia |
+| INRU | Rupee India |
+| SEKU | Krona Swedia |
+| NZDU | Dolar Selandia Baru |
+| HKDU | Dolar Hong Kong |
+| CNYU | Yuan China |
+| CHFU | Franc Swiss |
+| KRWU | Won Korea Selatan |
+| IDRU | Rupiah Indonesia |
