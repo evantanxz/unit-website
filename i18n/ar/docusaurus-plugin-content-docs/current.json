@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "التالي",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.What is Unit Network": {
+    "message": "ما هي شبكة الوحدة",
+    "description": "The label for category What is Unit Network in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Tokens": {
+    "message": "الرموز الأساسية",
+    "description": "The label for category Core Tokens in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ecosystem DAO": {
+    "message": "بيئة DAO",
+    "description": "The label for category Ecosystem DAO in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Architecture": {
+    "message": "الهندسة المعمارية",
+    "description": "The label for category Architecture in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community": {
+    "message": "المجتمع",
+    "description": "The label for category Community in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Roles": {
+    "message": "أدوار المجتمع",
+    "description": "The label for category Community Roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide": {
+    "message": "دليل المستخدم",
+    "description": "The label for category User Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Profile": {
+    "message": "ملف المستخدم",
+    "description": "The label for category User Profile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Applications": {
+    "message": "التطبيقات الأساسية",
+    "description": "The label for category Core Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Features": {
+    "message": "الميزات الأساسية",
+    "description": "The label for category Core Features in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Others": {
+    "message": "أخرى",
+    "description": "The label for category Others in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Applications": {
+    "message": "تطبيقات المجتمع",
+    "description": "The label for category Community Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Learning Hub": {
+    "message": "مركز التعلم",
+    "description": "The label for category Learning Hub in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial": {
+    "message": "دورة تعليمية",
+    "description": "The label for category Tutorial in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Case Studies": {
+    "message": "دراسات الحالة",
+    "description": "The label for category Case Studies in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Key Trends": {
+    "message": "الاتجاهات الرئيسية",
+    "description": "The label for category Key Trends in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Technology": {
+    "message": "التكنولوجيا",
+    "description": "The label for category Technology in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Frequently Asked Questions": {
+    "message": "الأسئلة الشائعة",
+    "description": "The label for category Frequently Asked Questions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Glossary": {
+    "message": "معجم",
+    "description": "The label for category Glossary in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Media / Brand resources": {
+    "message": "وسائط / موارد العلامة التجارية",
+    "description": "The label for category Media / Brand resources in sidebar tutorialSidebar"
+  }
+}
