@@ -1,0 +1,118 @@
+{
+  "link.title.Docs": {
+    "message": "文档",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "社区",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Official Links": {
+    "message": "官方链接",
+    "description": "The title of the footer links column with title=Official Links in the footer"
+  },
+  "link.title.Policies": {
+    "message": "政策",
+    "description": "The title of the footer links column with title=Policies in the footer"
+  },
+  "link.item.label.Documentation Hub": {
+    "message": "文档中心",
+    "description": "The label of footer link with label=Documentation Hub linking to https://docs.unit.network/"
+  },
+  "link.item.label.Official Links": {
+    "message": "官方链接",
+    "description": "The label of footer link with label=Official Links linking to /docs/official-links"
+  },
+  "link.item.label.What is Unit Network": {
+    "message": "什么是Unit Network",
+    "description": "The label of footer link with label=What is Unit Network linking to /docs/what-is-unit-network/"
+  },
+  "link.item.label.Ecosystem DAO": {
+    "message": "生态DAO",
+    "description": "The label of footer link with label=Ecosystem DAO linking to /docs/Ecosystem-DAO/"
+  },
+  "link.item.label.Architecture": {
+    "message": "架构",
+    "description": "The label of footer link with label=Architecture linking to /docs/Architecture/"
+  },
+  "link.item.label.Community": {
+    "message": "社区",
+    "description": "The label of footer link with label=Community linking to /docs/Community/"
+  },
+  "link.item.label.User Guide": {
+    "message": "用户指南",
+    "description": "The label of footer link with label=User Guide linking to /docs/user-guide/"
+  },
+  "link.item.label.Learning Hub": {
+    "message": "学习中心",
+    "description": "The label of footer link with label=Learning Hub linking to /docs/learning-hub/"
+  },
+  "link.item.label.Case Studies": {
+    "message": "案例研究",
+    "description": "The label of footer link with label=Case Studies linking to /docs/case-studies/"
+  },
+  "link.item.label.Key Trends": {
+    "message": "关键趋势",
+    "description": "The label of footer link with label=Key Trends linking to /docs/key-trends/"
+  },
+  "link.item.label.Frequently Asked Questions": {
+    "message": "常见问题",
+    "description": "The label of footer link with label=Frequently Asked Questions linking to /docs/frequently-asked-questions/"
+  },
+  "link.item.label.Glossary": {
+    "message": "术语表",
+    "description": "The label of footer link with label=Glossary linking to /docs/glossary/"
+  },
+  "link.item.label.Media / Brand Resources": {
+    "message": "媒体/品牌资源",
+    "description": "The label of footer link with label=Media / Brand Resources linking to /docs/media/"
+  },
+  "link.item.label.Terms of Services": {
+    "message": "服务条款",
+    "description": "The label of footer link with label=Terms of Services linking to /docs/terms-of-services/"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/unitfoundation"
+  },
+  "link.item.label.X": {
+    "message": "X",
+    "description": "The label of footer link with label=X linking to https://twitter.com/theunitnetwork"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/company/theunitnetwork"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/unit.network"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.com/invite/unitnetwork"
+  },
+  "link.item.label.Youtube": {
+    "message": "Youtube",
+    "description": "The label of footer link with label=Youtube linking to https://www.youtube.com/c/UnitGlobal"
+  },
+  "link.item.label.Application": {
+    "message": "应用",
+    "description": "The label of footer link with label=Application linking to https://app.unit.network/"
+  },
+  "link.item.label.Articles": {
+    "message": "文章",
+    "description": "The label of footer link with label=Articles linking to https://unitnetwork.medium.com/"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "隐私政策",
+    "description": "The label of footer link with label=Privacy Policy linking to /docs/terms-of-services/"
+  },
+  "copyright": {
+    "message": "版权 © 2024 由 Unit Network 提供支持。",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "Unit Network Logo",
+    "description": "The alt text of footer logo"
+  }
+}

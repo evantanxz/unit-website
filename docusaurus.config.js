@@ -30,12 +30,28 @@ const config = {
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
+  //   i18n docusaurus:
+  // 1. set language in docusaurus.config.js
+  // 2. yarn write-translations --locale <locale> -> this is to generate the translation file
+  // 3. yarn run start --locale <locale> -> to start the server with the locale
+  // 4. mkdir -p i18n/<locale>/docusaurus-plugin-content-docs/current -> create a folder to store the markdown files
+  // 5. cp -r docs/** i18n/<locale>/docusaurus-plugin-content-docs/current/ -> copy the markdown files to the locale folder
+
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "id", "fr", "es", "pt"],
+    locales: ["en", "cn", "es", "pt", "id", "fr"],
     localeConfigs: {
       en: {
         label: "English",
+      },
+      cn: {
+        label: "中文 (简体)",
+      },
+      es: {
+        label: "Español",
+      },
+      pt: {
+        label: "Português",
       },
       // You can omit a locale (e.g. fr) if you don't need to override the defaults
       id: {
@@ -43,12 +59,6 @@ const config = {
       },
       fr: {
         label: "Français",
-      },
-      es: {
-        label: "Español",
-      },
-      pt: {
-        label: "Português",
       },
     },
   },
