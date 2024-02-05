@@ -39,7 +39,7 @@ const config = {
 
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "cn", "es", "ar", "pt", "id", "fr", "jp"],
+    locales: ["en", "cn", "es", "ar", "pt", "id", "fr", "jp", "ru"],
     localeConfigs: {
       en: {
         label: "English",
@@ -64,6 +64,9 @@ const config = {
       },
       jp: {
         label: "日本語",
+      },
+      ru: {
+        label: "русский",
       },
     },
   },
