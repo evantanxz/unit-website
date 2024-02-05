@@ -1,0 +1,97 @@
+---
+sidebar_position: 4
+---
+
+# City Tokens
+
+Unlocking the Potential: Navigating Unit Network City Tokens – From Usage and Governance to Tokenomics
+
+Every City Token operates as an inclusive DAO, uniting individuals, businesses, and communities within the city.
+
+It doubles as a currency supported by Blue Chips and functions as a reverse ETF, enabling individuals to purchase a single token and participate in the potential growth of a specific territory.
+
+:::tip Note:
+
+Unit Foundation has exclusively created all Industry Tokens. To ensure authenticity, check the token manager's username on the Tokens Info page and steer clear of fraudulent tokens.
+:::
+
+City Tokens serve various purposes, including:
+
+1. Utilized for purchasing products and services at community stores within the City Token ecosystem.
+2. Transferred as a means of payment between users.
+3. City Token Treasuries receive 0.5% of all trades involving City Tokens.
+4. Acquired as a Reserve ETF representing all tokens within a specific city.
+
+## Empowering Community-Led Governance: Unleashing the Potential of City Tokens on Unit Network
+
+Every member of the Unit Network core team actively participates in at least one City Token DAO, contributing to setup, management, and establishing direct communication channels with the community.
+
+The responsibility for City Token bank and treasury management will eventually transition to specific core team members dedicated to building and moderating City Token communities.
+
+This ensures governance and objectives are customized to meet the unique needs of each community.
+
+## A Unified Approach to Tokenomics for City Tokens
+
+All City Tokens crafted by Unit Foundation adhere to a unified tokenomic structure, outlined as follows:
+
+- **Contract:** UnitChain
+- **Total Supply:** 100,000,000.0 (100%)
+- **Sale Supply:** 66,000,000.00 (66%)
+- **Operations:** 14,000,000.00 (14%)
+- **Core Team:** 20,000,000.00 (20%) (Distributed among 200 individuals with a 3-year cliff and 5-year vesting period)
+
+## Resilient Backing, Sustainable Growth: Backed by Blue Chips, City Tokens Ensure Value and Minimize Risk.
+
+Similar to the UNIT Coin, every City Token from Unit Foundation is secured by Blue Chips.
+
+A substantial 90% of City Token sales are locked in the treasury, fortifying value and reducing downside risks.
+
+Moreover, City Token Treasuries receive a 0.5% share from all trades, enhancing value sustainability.
+
+## Exploring and Elevating Cities Globally.
+
+City Tokens: Presently engaged in approximately 30 cities spanning Asia, Africa, the Middle East, Europe, and the Americas.
+
+Our ambitious objective is to extend our footprint and contribute to local economies in 60-70 cities across Asia, 30 cities in the Middle East and Africa, and 50 cities each in Europe and the Americas.
+
+|          City           |  Symbol ($)  |
+| :---------------------: | :----------: |
+| Amsterdam, Netherlands  |  AMSTERDAM   |
+|       Austin, USA       |    AUSTIN    |
+|     Bali, Indonesia     |     BALI     |
+|    Bangkok, Thailand    |   BANGKOK    |
+|    Barcelona, Spain     |  BARCELONA   |
+|     Beijing, China      |   BEIJING    |
+|     Berlin, Germany     |    BERLIN    |
+| Buenos Aires, Argentina | BUENOSAIRES  |
+|       Dubai, UAE        |    DUBAI     |
+|    Hamburg, Germany     |   HAMBURG    |
+|  Ho Chi Minh, Vietnam   |  HOCHIMINH   |
+|    Hong Kong, China     |   HONGKONG   |
+| Kuala Lumpur, Malaysia  | KUALALUMPUR  |
+|    Lisbon, Portugal     |    LISBON    |
+|     London, England     |    LONDON    |
+|    Los Angeles, USA     |  LOSANGELES  |
+|      Madrid, Spain      |    MADRID    |
+|  Melbourne, Australia   |  MELBOURNE   |
+|   Mexico City, Mexico   |  MEXICOCITY  |
+|       Miami, USA        |    MIAMI     |
+|      Milan, Italy       |    MILAN     |
+|     Moscow, Russia      |    MOSCOW    |
+|      Mumbai, India      |    MUMBAI    |
+|     Munich, Germany     |    MUNICH    |
+|      New York, USA      |   NEWYORK    |
+|      Paris, France      |    PARIS     |
+|  Riyadh, Saudi Arabia   |    RIYADH    |
+|   San Francisco, USA    | SANFRANCISCO |
+|  San Juan, Puerto Rico  |   SANJUAN    |
+|   Seoul, South Korea    |    SEOUL     |
+|     Shanghai, China     |   SHANGHAI   |
+|  Singapore, Singapore   |  SINGAPORE   |
+|    Sydney, Australia    |    SYDNEY    |
+|     Taipei, Taiwan      |    TAIPEI    |
+|    Tel Aviv, Israel     |   TELAVIV    |
+|      Tokyo, Japan       |    TOKYO     |
+|     Toronto, Canada     |   TORONTO    |
+|     Valetta, Malta      |   VALLETTA   |
+|   Zurich, Switzerland   |    ZURICH    |
