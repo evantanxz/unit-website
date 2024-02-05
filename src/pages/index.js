@@ -52,7 +52,8 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="Unit Network redefines a new financial system, powered by AI,
+            blockchain, and the tokenisation of assets in the real world"
     >
       <HomepageHeader />
     </Layout>

@@ -107,10 +107,33 @@ const config = {
         },
         items: [
           {
+            type: 'dropdown',
+            position: 'left',
+            label: "Ecosystem",
+            items: [
+              {
+                label: 'Unit Conference',
+                to: "https://www.unitconference.com/",
+              },
+              {
+                label: 'Unit Events',
+                to: "https://ventures.unit.network/",
+              },
+              {
+                label: 'Unit Masters',
+                to: "https://www.unitmasters.org/",
+              }
+              {
+                label: 'Unit Ventures',
+                to: "https://ventures.unit.network/",
+              },
+            ],
+          },
+          {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Docs",
+            label: "Documentation",
             href: "/documentation-hub",
           },
           {
