@@ -1,0 +1,118 @@
+{
+  "link.title.Docs": {
+    "message": "Документация",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Сообщество",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Official Links": {
+    "message": "Официальные Ссылки",
+    "description": "The title of the footer links column with title=Official Links in the footer"
+  },
+  "link.title.Policies": {
+    "message": "Политики",
+    "description": "The title of the footer links column with title=Policies in the footer"
+  },
+  "link.item.label.Documentation Hub": {
+    "message": "Центр документации",
+    "description": "The label of footer link with label=Documentation Hub linking to https://docs.unit.network/"
+  },
+  "link.item.label.Official Links": {
+    "message": "Официальные Ссылки",
+    "description": "The label of footer link with label=Official Links linking to /docs/official-links"
+  },
+  "link.item.label.What is Unit Network": {
+    "message": "Что такое Unit Network",
+    "description": "The label of footer link with label=What is Unit Network linking to /docs/what-is-unit-network/"
+  },
+  "link.item.label.Ecosystem DAO": {
+    "message": "Экосистема DAO",
+    "description": "The label of footer link with label=Ecosystem DAO linking to /docs/Ecosystem-DAO/"
+  },
+  "link.item.label.Architecture": {
+    "message": "Архитектура",
+    "description": "The label of footer link with label=Architecture linking to /docs/Architecture/"
+  },
+  "link.item.label.Community": {
+    "message": "Сообщество",
+    "description": "The label of footer link with label=Community linking to /docs/Community/"
+  },
+  "link.item.label.User Guide": {
+    "message": "Руководство пользователя",
+    "description": "The label of footer link with label=User Guide linking to /docs/user-guide/"
+  },
+  "link.item.label.Learning Hub": {
+    "message": "Центр обучения",
+    "description": "The label of footer link with label=Learning Hub linking to /docs/learning-hub/"
+  },
+  "link.item.label.Case Studies": {
+    "message": "Кейс-стадии",
+    "description": "The label of footer link with label=Case Studies linking to /docs/case-studies/"
+  },
+  "link.item.label.Key Trends": {
+    "message": "Ключевые тенденции",
+    "description": "The label of footer link with label=Key Trends linking to /docs/key-trends/"
+  },
+  "link.item.label.Frequently Asked Questions": {
+    "message": "Часто Задаваемые Вопросы",
+    "description": "The label of footer link with label=Frequently Asked Questions linking to /docs/frequently-asked-questions/"
+  },
+  "link.item.label.Glossary": {
+    "message": "Глоссарий",
+    "description": "The label of footer link with label=Glossary linking to /docs/glossary/"
+  },
+  "link.item.label.Media / Brand Resources": {
+    "message": "Медиа / Бренд Ресурсы",
+    "description": "The label of footer link with label=Media / Brand Resources linking to /docs/media/"
+  },
+  "link.item.label.Terms of Services": {
+    "message": "Условия обслуживания",
+    "description": "The label of footer link with label=Terms of Services linking to /docs/terms-of-services/"
+  },
+  "link.item.label.Telegram": {
+    "message": "Телеграм",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/unitfoundation"
+  },
+  "link.item.label.X": {
+    "message": "X",
+    "description": "The label of footer link with label=X linking to https://twitter.com/theunitnetwork"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/company/theunitnetwork"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/unit.network"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.com/invite/unitnetwork"
+  },
+  "link.item.label.Youtube": {
+    "message": "Youtube",
+    "description": "The label of footer link with label=Youtube linking to https://www.youtube.com/c/UnitGlobal"
+  },
+  "link.item.label.Application": {
+    "message": "Приложение",
+    "description": "The label of footer link with label=Application linking to https://app.unit.network/"
+  },
+  "link.item.label.Articles": {
+    "message": "Статьи",
+    "description": "The label of footer link with label=Articles linking to https://unitnetwork.medium.com/"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Политика Конфиденциальности",
+    "description": "The label of footer link with label=Privacy Policy linking to /docs/terms-of-services/"
+  },
+  "copyright": {
+    "message": "Авторское право © 2024, Разработано Unit Network.",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "Логотип Unit Network",
+    "description": "The alt text of footer logo"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "Следующая",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.What is Unit Network": {
+    "message": "Что такое Unit Network",
+    "description": "The label for category What is Unit Network in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Tokens": {
+    "message": "Ядреные токены",
+    "description": "The label for category Core Tokens in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ecosystem DAO": {
+    "message": "Экосистема DAO",
+    "description": "The label for category Ecosystem DAO in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Architecture": {
+    "message": "Архитектура",
+    "description": "The label for category Architecture in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community": {
+    "message": "Сообщество",
+    "description": "The label for category Community in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Roles": {
+    "message": "Роли в сообществе",
+    "description": "The label for category Community Roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide": {
+    "message": "Руководство пользователя",
+    "description": "The label for category User Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Profile": {
+    "message": "Профиль пользователя",
+    "description": "The label for category User Profile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Applications": {
+    "message": "Основные приложения",
+    "description": "The label for category Core Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Features": {
+    "message": "Основные функции",
+    "description": "The label for category Core Features in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Others": {
+    "message": "Прочее",
+    "description": "The label for category Others in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Applications": {
+    "message": "Приложения сообщества",
+    "description": "The label for category Community Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Learning Hub": {
+    "message": "Центр обучения",
+    "description": "The label for category Learning Hub in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial": {
+    "message": "Обучение",
+    "description": "The label for category Tutorial in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Case Studies": {
+    "message": "Кейс-стади",
+    "description": "The label for category Case Studies in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Key Trends": {
+    "message": "Ключевые тенденции",
+    "description": "The label for category Key Trends in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Technology": {
+    "message": "Технология",
+    "description": "The label for category Technology in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Frequently Asked Questions": {
+    "message": "Часто задаваемые вопросы",
+    "description": "The label for category Frequently Asked Questions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Glossary": {
+    "message": "Глоссарий",
+    "description": "The label for category Glossary in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Media / Brand resources": {
+    "message": "Медиа / Бренд-ресурсы",
+    "description": "The label for category Media / Brand resources in sidebar tutorialSidebar"
+  }
+}
