@@ -39,7 +39,7 @@ const config = {
 
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "cn", "es", "ar", "pt", "id", "fr"],
+    locales: ["en", "cn", "es", "ar", "pt", "id", "fr", "jp"],
     localeConfigs: {
       en: {
         label: "English",
@@ -56,12 +56,14 @@ const config = {
       pt: {
         label: "Português",
       },
-      // You can omit a locale (e.g. fr) if you don't need to override the defaults
       id: {
         label: "Bahasa Indonesia",
       },
       fr: {
         label: "Français",
+      },
+      jp: {
+        label: "日本語",
       },
     },
   },

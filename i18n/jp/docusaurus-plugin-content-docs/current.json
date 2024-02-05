@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "次の",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.What is Unit Network": {
+    "message": "ユニットネットワークとは",
+    "description": "The label for category What is Unit Network in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Tokens": {
+    "message": "コアトークン",
+    "description": "The label for category Core Tokens in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ecosystem DAO": {
+    "message": "エコシステム DAO",
+    "description": "The label for category Ecosystem DAO in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Architecture": {
+    "message": "アーキテクチャ",
+    "description": "The label for category Architecture in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community": {
+    "message": "コミュニティ",
+    "description": "The label for category Community in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Roles": {
+    "message": "コミュニティの役割",
+    "description": "The label for category Community Roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide": {
+    "message": "ユーザーガイド",
+    "description": "The label for category User Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Profile": {
+    "message": "ユーザープロファイル",
+    "description": "The label for category User Profile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Applications": {
+    "message": "コアアプリケーション",
+    "description": "The label for category Core Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Features": {
+    "message": "コア機能",
+    "description": "The label for category Core Features in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Others": {
+    "message": "その他",
+    "description": "The label for category Others in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Applications": {
+    "message": "コミュニティアプリケーション",
+    "description": "The label for category Community Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Learning Hub": {
+    "message": "ラーニングハブ",
+    "description": "The label for category Learning Hub in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial": {
+    "message": "チュートリアル",
+    "description": "The label for category Tutorial in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Case Studies": {
+    "message": "ケーススタディ",
+    "description": "The label for category Case Studies in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Key Trends": {
+    "message": "キートレンド",
+    "description": "The label for category Key Trends in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Technology": {
+    "message": "テクノロジー",
+    "description": "The label for category Technology in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Frequently Asked Questions": {
+    "message": "よくある質問",
+    "description": "The label for category Frequently Asked Questions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Glossary": {
+    "message": "用語集",
+    "description": "The label for category Glossary in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Media / Brand resources": {
+    "message": "メディア / ブランドリソース",
+    "description": "The label for category Media / Brand resources in sidebar tutorialSidebar"
+  }
+}
