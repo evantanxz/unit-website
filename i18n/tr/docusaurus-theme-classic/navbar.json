@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "Unit Network",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Ecosystem": {
+    "message": "Ecosystem",
+    "description": "Navbar item with label Ecosystem"
+  },
+  "item.label.Documentation": {
+    "message": "Documentation",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.Unit Conference": {
+    "message": "Unit Conference",
+    "description": "Navbar item with label Unit Conference"
+  },
+  "item.label.Unit Events": {
+    "message": "Unit Events",
+    "description": "Navbar item with label Unit Events"
+  },
+  "item.label.Unit Masters": {
+    "message": "Unit Masters",
+    "description": "Navbar item with label Unit Masters"
+  },
+  "item.label.Unit Ventures": {
+    "message": "Unit Ventures",
+    "description": "Navbar item with label Unit Ventures"
+  }
+}
