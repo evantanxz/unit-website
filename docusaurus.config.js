@@ -125,7 +125,7 @@ const config = {
               {
                 label: 'Unit Masters',
                 to: "https://www.unitmasters.org/",
-              }
+              },
               {
                 label: 'Unit Ventures',
                 to: "https://ventures.unit.network/",
