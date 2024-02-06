@@ -39,7 +39,7 @@ const config = {
 
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "cn", "es", "ar", "pt", "id", "fr", "jp", "ru"],
+    locales: ["en", "cn", "es", "ar", "pt", "id", "fr", "jp", "ru", "de", "kr"],
     localeConfigs: {
       en: {
         label: "English",
@@ -67,6 +67,12 @@ const config = {
       },
       ru: {
         label: "русский",
+      },
+      de: {
+        label: "Deutsch",
+      },
+      kr: {
+        label: "한국어",
       },
     },
   },
@@ -110,24 +116,24 @@ const config = {
         },
         items: [
           {
-            type: 'dropdown',
-            position: 'left',
+            type: "dropdown",
+            position: "left",
             label: "Ecosystem",
             items: [
               {
-                label: 'Unit Conference',
+                label: "Unit Conference",
                 to: "https://www.unitconference.com/",
               },
               {
-                label: 'Unit Events',
+                label: "Unit Events",
                 to: "https://ventures.unit.network/",
               },
               {
-                label: 'Unit Masters',
+                label: "Unit Masters",
                 to: "https://www.unitmasters.org/",
               },
               {
-                label: 'Unit Ventures',
+                label: "Unit Ventures",
                 to: "https://ventures.unit.network/",
               },
             ],

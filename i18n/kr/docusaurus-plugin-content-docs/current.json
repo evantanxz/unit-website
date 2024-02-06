@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "다음",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.What is Unit Network": {
+    "message": "Unit Network이란",
+    "description": "The label for category What is Unit Network in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Tokens": {
+    "message": "핵심 토큰",
+    "description": "The label for category Core Tokens in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ecosystem DAO": {
+    "message": "생태계 DAO",
+    "description": "The label for category Ecosystem DAO in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Architecture": {
+    "message": "아키텍처",
+    "description": "The label for category Architecture in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community": {
+    "message": "커뮤니티",
+    "description": "The label for category Community in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Roles": {
+    "message": "커뮤니티 역할",
+    "description": "The label for category Community Roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Guide": {
+    "message": "사용자 가이드",
+    "description": "The label for category User Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.User Profile": {
+    "message": "사용자 프로필",
+    "description": "The label for category User Profile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Applications": {
+    "message": "핵심 애플리케이션",
+    "description": "The label for category Core Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Core Features": {
+    "message": "핵심 기능",
+    "description": "The label for category Core Features in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Others": {
+    "message": "기타",
+    "description": "The label for category Others in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Community Applications": {
+    "message": "커뮤니티 애플리케이션",
+    "description": "The label for category Community Applications in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Learning Hub": {
+    "message": "학습 허브",
+    "description": "The label for category Learning Hub in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial": {
+    "message": "튜토리얼",
+    "description": "The label for category Tutorial in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Case Studies": {
+    "message": "사례 연구",
+    "description": "The label for category Case Studies in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Key Trends": {
+    "message": "주요 트렌드",
+    "description": "The label for category Key Trends in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Technology": {
+    "message": "기술",
+    "description": "The label for category Technology in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Frequently Asked Questions": {
+    "message": "자주 묻는 질문",
+    "description": "The label for category Frequently Asked Questions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Glossary": {
+    "message": "용어집",
+    "description": "The label for category Glossary in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Media / Brand resources": {
+    "message": "미디어 / 브랜드 자료",
+    "description": "The label for category Media / Brand resources in sidebar tutorialSidebar"
+  }
+}

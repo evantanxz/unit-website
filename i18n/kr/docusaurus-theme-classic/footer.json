@@ -1,0 +1,118 @@
+{
+  "link.title.Docs": {
+    "message": "문서",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "커뮤니티",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Official Links": {
+    "message": "공식 링크",
+    "description": "The title of the footer links column with title=Official Links in the footer"
+  },
+  "link.title.Policies": {
+    "message": "정책",
+    "description": "The title of the footer links column with title=Policies in the footer"
+  },
+  "link.item.label.Documentation Hub": {
+    "message": "Documentation Hub",
+    "description": "The label of footer link with label=Documentation Hub linking to https://docs.unit.network/"
+  },
+  "link.item.label.Official Links": {
+    "message": "공식 링크",
+    "description": "The label of footer link with label=Official Links linking to /docs/official-links"
+  },
+  "link.item.label.What is Unit Network": {
+    "message": "Unit Network이란",
+    "description": "The label of footer link with label=What is Unit Network linking to /docs/what-is-unit-network/"
+  },
+  "link.item.label.Ecosystem DAO": {
+    "message": "Ecosystem DAO",
+    "description": "The label of footer link with label=Ecosystem DAO linking to /docs/Ecosystem-DAO/"
+  },
+  "link.item.label.Architecture": {
+    "message": "아키텍처",
+    "description": "The label of footer link with label=Architecture linking to /docs/Architecture/"
+  },
+  "link.item.label.Community": {
+    "message": "커뮤니티",
+    "description": "The label of footer link with label=Community linking to /docs/Community/"
+  },
+  "link.item.label.User Guide": {
+    "message": "사용자 가이드",
+    "description": "The label of footer link with label=User Guide linking to /docs/user-guide/"
+  },
+  "link.item.label.Learning Hub": {
+    "message": "학습 허브",
+    "description": "The label of footer link with label=Learning Hub linking to /docs/learning-hub/"
+  },
+  "link.item.label.Case Studies": {
+    "message": "사례 연구",
+    "description": "The label of footer link with label=Case Studies linking to /docs/case-studies/"
+  },
+  "link.item.label.Key Trends": {
+    "message": "주요 트렌드",
+    "description": "The label of footer link with label=Key Trends linking to /docs/key-trends/"
+  },
+  "link.item.label.Frequently Asked Questions": {
+    "message": "자주 묻는 질문",
+    "description": "The label of footer link with label=Frequently Asked Questions linking to /docs/frequently-asked-questions/"
+  },
+  "link.item.label.Glossary": {
+    "message": "용어집",
+    "description": "The label of footer link with label=Glossary linking to /docs/glossary/"
+  },
+  "link.item.label.Media / Brand Resources": {
+    "message": "미디어 / 브랜드 자료",
+    "description": "The label of footer link with label=Media / Brand Resources linking to /docs/media/"
+  },
+  "link.item.label.Terms of Services": {
+    "message": "이용 약관",
+    "description": "The label of footer link with label=Terms of Services linking to /docs/terms-of-services/"
+  },
+  "link.item.label.Telegram": {
+    "message": "텔레그램",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/unitfoundation"
+  },
+  "link.item.label.X": {
+    "message": "X",
+    "description": "The label of footer link with label=X linking to https://twitter.com/theunitnetwork"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "링크드인",
+    "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/company/theunitnetwork"
+  },
+  "link.item.label.Instagram": {
+    "message": "인스타그램",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/unit.network"
+  },
+  "link.item.label.Discord": {
+    "message": "디스코드",
+    "description": "The label of footer link with label=Discord linking to https://discord.com/invite/unitnetwork"
+  },
+  "link.item.label.Youtube": {
+    "message": "유튜브",
+    "description": "The label of footer link with label=Youtube linking to https://www.youtube.com/c/UnitGlobal"
+  },
+  "link.item.label.Application": {
+    "message": "어플리케이션",
+    "description": "The label of footer link with label=Application linking to https://app.unit.network/"
+  },
+  "link.item.label.Articles": {
+    "message": "기사",
+    "description": "The label of footer link with label=Articles linking to https://unitnetwork.medium.com/"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "개인정보 보호 정책",
+    "description": "The label of footer link with label=Privacy Policy linking to /docs/terms-of-services/"
+  },
+  "copyright": {
+    "message": "저작권 © 2024 Powered by Unit Network.",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "Unit Network 로고",
+    "description": "The alt text of footer logo"
+  }
+}
