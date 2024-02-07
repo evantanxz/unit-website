@@ -4,18 +4,24 @@ import Layout from "@theme/Layout";
 import clsx from "clsx";
 
 import Translate from "@docusaurus/Translate";
+import { useColorMode } from "@docusaurus/theme-common";
 import Heading from "@theme/Heading";
 import styles from "./index.module.css";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
+  const { colorMode, setColorMode } = useColorMode();
   return (
     <header className={clsx("hero", styles.heroBanner, "header-style")}>
       <div className="container">
         <div>
           <img
             className="unit-hero-logo"
-            src="img/unit-logo-color.png"
+            src={
+              colorMode === "dark"
+                ? "/img/unit-logo-dark.png"
+                : "/img/unit-logo-color.png"
+            }
             width="150px"
           ></img>
         </div>
