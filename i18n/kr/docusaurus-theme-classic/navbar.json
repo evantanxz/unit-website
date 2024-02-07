@@ -14,21 +14,5 @@
   "item.label.Documentation": {
     "message": "문서",
     "description": "Navbar item with label Documentation"
-  },
-  "item.label.Unit Conference": {
-    "message": "유닛 컨퍼런스",
-    "description": "Navbar item with label Unit Conference"
-  },
-  "item.label.Unit Events": {
-    "message": "유닛 이벤트",
-    "description": "Navbar item with label Unit Events"
-  },
-  "item.label.Unit Masters": {
-    "message": "유닛 마스터",
-    "description": "Navbar item with label Unit Masters"
-  },
-  "item.label.Unit Ventures": {
-    "message": "유닛 벤처스",
-    "description": "Navbar item with label Unit Ventures"
   }
 }

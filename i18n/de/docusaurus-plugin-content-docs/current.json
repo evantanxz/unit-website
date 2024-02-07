@@ -3,14 +3,6 @@
     "message": "Nächste",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.What is Unit Network": {
-    "message": "Was ist Unit Network",
-    "description": "The label for category What is Unit Network in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Core Tokens": {
-    "message": "Kerntoken",
-    "description": "The label for category Core Tokens in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Ecosystem DAO": {
     "message": "Ökosystem DAO",
     "description": "The label for category Ecosystem DAO in sidebar tutorialSidebar"
@@ -82,5 +74,13 @@
   "sidebar.tutorialSidebar.category.Media / Brand resources": {
     "message": "Medien / Markenressourcen",
     "description": "The label for category Media / Brand resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Was ist Unit Network": {
+    "message": "Was ist Unit Network",
+    "description": "The label for category Was ist Unit Network in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Kern-Token": {
+    "message": "Kern-Token",
+    "description": "The label for category Kern-Token in sidebar tutorialSidebar"
   }
 }

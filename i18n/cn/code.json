@@ -372,5 +372,32 @@
   "theme.unlistedContent.message": {
     "message": "此页面未列出。搜索引擎不会对其进行索引，只有拥有直接链接的用户才能访问它。",
     "description": "The unlisted content banner message"
+  },
+  "Unit Ecosystem": {
+    "message": "Unit 生态系统"
+  },
+  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.": {
+    "message": "Lorem Ipsum 只是印刷和排版行业的样本文本。 Lorem Ipsum 自 1500 年以来一直是该行业的标准虚拟文本。"
+  },
+  "Unit Conference": {
+    "message": "Unit 会议"
+  },
+  "Lorem ipsum dolor sit amet consectetur. Et facilistis": {
+    "message": "Lorem ipsum dolor sit amet consectetur。 Et facilistis"
+  },
+  "Visit Website": {
+    "message": "访问网站"
+  },
+  "Unit Events": {
+    "message": "Unit 活动"
+  },
+  "Unit Masters": {
+    "message": "Unit 大师"
+  },
+  "Unit Ventures": {
+    "message": "Unit 创业"
+  },
+  "Learn more about the Unit Ecosystem DAO": {
+    "message": "了解有关 Unit 生态系统 DAO 的更多信息"
   }
 }

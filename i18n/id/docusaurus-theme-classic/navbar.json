@@ -7,8 +7,12 @@
     "message": "My Site Logo",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Docs": {
+  "item.label.Ecosystem": {
+    "message": "Ekosistem",
+    "description": "Navbar item with label Ecosystem"
+  },
+  "item.label.Documentation": {
     "message": "Dokumentasi",
-    "description": "Navbar item with label Docs"
+    "description": "Navbar item with label Documentation"
   }
 }

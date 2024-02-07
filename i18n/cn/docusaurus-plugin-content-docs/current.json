@@ -3,14 +3,6 @@
     "message": "下一步",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.What is Unit Network": {
-    "message": "什么是Unit Network",
-    "description": "The label for category What is Unit Network in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Core Tokens": {
-    "message": "核心代币",
-    "description": "The label for category Core Tokens in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Ecosystem DAO": {
     "message": "生态DAO",
     "description": "The label for category Ecosystem DAO in sidebar tutorialSidebar"
@@ -82,5 +74,13 @@
   "sidebar.tutorialSidebar.category.Media / Brand resources": {
     "message": "媒体/品牌资源",
     "description": "The label for category Media / Brand resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.什么是 Unit Network": {
+    "message": "什么是 Unit Network",
+    "description": "The label for category 什么是 Unit Network in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.核心通证": {
+    "message": "核心通证",
+    "description": "The label for category 核心通证 in sidebar tutorialSidebar"
   }
 }

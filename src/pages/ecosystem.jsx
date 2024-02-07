@@ -59,10 +59,16 @@ function EcosystemPage() {
               }
               className="ecosystem-card-icon"
             />
-            <div className="ecosystem-card-title">Unit Conference</div>
-            <div>Lorem ipsum dolor sit amet consectetur. Et facilistis</div>
+            <div className="ecosystem-card-title">
+              <Translate>Unit Conference</Translate>
+            </div>
+            <div>
+              <Translate>
+                Lorem ipsum dolor sit amet consectetur. Et facilistis
+              </Translate>
+            </div>
             <div className="ecosystem-card-link">
-              Visit Website <ArrowUpRight />
+              <Translate>Visit Website</Translate> <ArrowUpRight />
             </div>
           </div>
           <img
@@ -80,10 +86,16 @@ function EcosystemPage() {
               }
               className="ecosystem-card-icon"
             />
-            <div className="ecosystem-card-title">Unit Events</div>
-            <div>Lorem ipsum dolor sit amet consectetur. Et facilistis</div>
+            <div className="ecosystem-card-title">
+              <Translate>Unit Events</Translate>
+            </div>
+            <div>
+              <Translate>
+                Lorem ipsum dolor sit amet consectetur. Et facilistis
+              </Translate>
+            </div>
             <div className="ecosystem-card-link">
-              Visit Website <ArrowUpRight />
+              <Translate>Visit Website</Translate> <ArrowUpRight />
             </div>
           </div>
           <img
@@ -102,10 +114,16 @@ function EcosystemPage() {
               }
               className="ecosystem-card-icon"
             />
-            <div className="ecosystem-card-title">Unit Masters</div>
-            <div>Lorem ipsum dolor sit amet consectetur. Et facilistis</div>
+            <div className="ecosystem-card-title">
+              <Translate>Unit Masters</Translate>
+            </div>
+            <div>
+              <Translate>
+                Lorem ipsum dolor sit amet consectetur. Et facilistis
+              </Translate>
+            </div>
             <div className="ecosystem-card-link">
-              Visit Website <ArrowUpRight />
+              <Translate>Visit Website</Translate> <ArrowUpRight />
             </div>
           </div>
           <img
@@ -123,10 +141,16 @@ function EcosystemPage() {
               }
               className="ecosystem-card-icon"
             />
-            <div className="ecosystem-card-title">Unit Ventures</div>
-            <div>Lorem ipsum dolor sit amet consectetur. Et facilistis</div>
+            <div className="ecosystem-card-title">
+              <Translate>Unit Ventures</Translate>
+            </div>
+            <div>
+              <Translate>
+                Lorem ipsum dolor sit amet consectetur. Et facilistis
+              </Translate>
+            </div>
             <div className="ecosystem-card-link">
-              Visit Website <ArrowUpRight />
+              <Translate>Visit Website</Translate> <ArrowUpRight />
             </div>
           </div>
           <img
@@ -137,12 +161,14 @@ function EcosystemPage() {
       </div>
       <div className="container">
         <h1 className="ecosystem-subheader">
-          Learn more about the Unit Ecosystem DAO
+          <Translate>Learn more about the Unit Ecosystem DAO</Translate>
         </h1>
         <p className="ecosystem-subtitle">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s.
+          <Translate>
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s.
+          </Translate>
         </p>
         <div
           className={clsx(

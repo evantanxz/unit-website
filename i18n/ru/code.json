@@ -372,5 +372,32 @@
   "theme.unlistedContent.message": {
     "message": "Эта страница не в списке. Поисковые системы не проиндексируют ее, и только пользователи, у которых есть прямая ссылка, смогут получить к ней доступ.",
     "description": "The unlisted content banner message"
+  },
+  "Unit Ecosystem": {
+    "message": "Экосистема Unit"
+  },
+  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.": {
+    "message": "Lorem Ipsum - это просто макетный текст печати и верстки. Lorem Ipsum является стандартным макетным текстом отрасли с 1500-х годов."
+  },
+  "Unit Conference": {
+    "message": "Конференция Unit"
+  },
+  "Lorem ipsum dolor sit amet consectetur. Et facilistis": {
+    "message": "Lorem ipsum dolor sit amet consectetur. Et facilistis"
+  },
+  "Visit Website": {
+    "message": "Посетить веб-сайт"
+  },
+  "Unit Events": {
+    "message": "Мероприятия Unit"
+  },
+  "Unit Masters": {
+    "message": "Мастера Unit"
+  },
+  "Unit Ventures": {
+    "message": "Венчуры Unit"
+  },
+  "Learn more about the Unit Ecosystem DAO": {
+    "message": "Узнать больше о DAO Экосистемы Unit"
   }
 }

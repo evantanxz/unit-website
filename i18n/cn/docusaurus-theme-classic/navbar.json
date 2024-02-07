@@ -7,8 +7,12 @@
     "message": "My Site Logo",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Docs": {
-    "message": "Docs",
-    "description": "Navbar item with label Docs"
+  "item.label.Ecosystem": {
+    "message": "生态系统",
+    "description": "导航栏标签为生态系统的项目"
+  },
+  "item.label.Documentation": {
+    "message": "文档",
+    "description": "导航栏标签为文档的项目"
   }
 }

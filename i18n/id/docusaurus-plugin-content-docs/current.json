@@ -3,14 +3,6 @@
     "message": "Berikutnya",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.What is Unit Network": {
-    "message": "Apa itu Unit Network",
-    "description": "The label for category What is Unit Network in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Core Tokens": {
-    "message": "Token Utama",
-    "description": "The label for category Core Tokens in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Ecosystem DAO": {
     "message": "Ekosistem DAO",
     "description": "The label for category Ecosystem DAO in sidebar tutorialSidebar"

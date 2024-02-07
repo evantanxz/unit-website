@@ -7,8 +7,12 @@
     "message": "شعار موقعي",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Docs": {
-    "message": "الوثائق",
-    "description": "Navbar item with label Docs"
+  "item.label.Ecosystem": {
+    "message": "النظام البيئي",
+    "description": "عنصر التصفح بتسمية النظام البيئي"
+  },
+  "item.label.Documentation": {
+    "message": "التوثيق",
+    "description": "عنصر التصفح بتسمية التوثيق"
   }
 }

@@ -21,7 +21,7 @@
   },
   "link.item.label.Discord": {
     "message": "Discord",
-    "description": "The label of footer link with label=Discord linking to https://discordapp.com/invite/docusaurus"
+    "description": "The label of footer link with label=Discord linking to https://discord.com/invite/unitnetwork"
   },
   "link.item.label.Twitter": {
     "message": "Twitter",
@@ -38,5 +38,105 @@
   "copyright": {
     "message": "Copyright © 2024 My Project, Inc. Built with Docusaurus.",
     "description": "The footer copyright"
+  },
+  "link.title.Official Links": {
+    "message": "Tautan Resmi",
+    "description": "Judul kolom tautan footer dengan judul=Tautan Resmi di bagian footer"
+  },
+  "link.title.Policies": {
+    "message": "Kebijakan",
+    "description": "Judul kolom tautan footer dengan judul=Kebijakan di bagian footer"
+  },
+  "link.item.label.Documentation Hub": {
+    "message": "Pusat Dokumentasi",
+    "description": "Label tautan footer dengan label=Pusat Dokumentasi yang mengarah ke https://docs.unit.network/"
+  },
+  "link.item.label.Official Links": {
+    "message": "Tautan Resmi",
+    "description": "Label tautan footer dengan label=Tautan Resmi yang mengarah ke /docs/official-links"
+  },
+  "link.item.label.What is Unit Network": {
+    "message": "Apa itu Jaringan Unit",
+    "description": "Label tautan footer dengan label=Apa itu Jaringan Unit yang mengarah ke /docs/what-is-unit-network/"
+  },
+  "link.item.label.Ecosystem DAO": {
+    "message": "Ekosistem DAO",
+    "description": "Label tautan footer dengan label=Ekosistem DAO yang mengarah ke /docs/Ecosystem-DAO/"
+  },
+  "link.item.label.Architecture": {
+    "message": "Arsitektur",
+    "description": "Label tautan footer dengan label=Arsitektur yang mengarah ke /docs/Architecture/"
+  },
+  "link.item.label.Community": {
+    "message": "Komunitas",
+    "description": "Label tautan footer dengan label=Komunitas yang mengarah ke /docs/Community/"
+  },
+  "link.item.label.User Guide": {
+    "message": "Panduan Pengguna",
+    "description": "Label tautan footer dengan label=Panduan Pengguna yang mengarah ke /docs/user-guide/"
+  },
+  "link.item.label.Learning Hub": {
+    "message": "Pusat Pembelajaran",
+    "description": "Label tautan footer dengan label=Pusat Pembelajaran yang mengarah ke /docs/learning-hub/"
+  },
+  "link.item.label.Case Studies": {
+    "message": "Studi Kasus",
+    "description": "Label tautan footer dengan label=Studi Kasus yang mengarah ke /docs/case-studies/"
+  },
+  "link.item.label.Key Trends": {
+    "message": "Tren Kunci",
+    "description": "Label tautan footer dengan label=Tren Kunci yang mengarah ke /docs/key-trends/"
+  },
+  "link.item.label.Frequently Asked Questions": {
+    "message": "Pertanyaan yang Sering Diajukan",
+    "description": "Label tautan footer dengan label=Pertanyaan yang Sering Diajukan yang mengarah ke /docs/frequently-asked-questions/"
+  },
+  "link.item.label.Glossary": {
+    "message": "Glosarium",
+    "description": "Label tautan footer dengan label=Glosarium yang mengarah ke /docs/glossary/"
+  },
+  "link.item.label.Media / Brand Resources": {
+    "message": "Sumber Daya Media / Merek",
+    "description": "Label tautan footer dengan label=Sumber Daya Media / Merek yang mengarah ke /docs/media/"
+  },
+  "link.item.label.Terms of Services": {
+    "message": "Syarat Layanan",
+    "description": "Label tautan footer dengan label=Syarat Layanan yang mengarah ke /docs/terms-of-services/"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Label tautan footer dengan label=Telegram yang mengarah ke https://t.me/unitfoundation"
+  },
+  "link.item.label.X": {
+    "message": "X",
+    "description": "Label tautan footer dengan label=X yang mengarah ke https://twitter.com/theunitnetwork"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "Label tautan footer dengan label=LinkedIn yang mengarah ke https://www.linkedin.com/company/theunitnetwork"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "Label tautan footer dengan label=Instagram yang mengarah ke https://www.instagram.com/unit.network"
+  },
+  "link.item.label.Youtube": {
+    "message": "YouTube",
+    "description": "Label tautan footer dengan label=YouTube yang mengarah ke https://www.youtube.com/c/UnitGlobal"
+  },
+  "link.item.label.Application": {
+    "message": "Aplikasi",
+    "description": "Label tautan footer dengan label=Aplikasi yang mengarah ke https://app.unit.network/"
+  },
+  "link.item.label.Articles": {
+    "message": "Artikel",
+    "description": "Label tautan footer dengan label=Artikel yang mengarah ke https://unitnetwork.medium.com/"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Kebijakan Privasi",
+    "description": "Label tautan footer dengan label=Kebijakan Privasi yang mengarah ke /docs/terms-of-services/"
+  },
+  "logo.alt": {
+    "message": "Logo Jaringan Unit",
+    "description": "Teks alternatif logo footer"
   }
 }

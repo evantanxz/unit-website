@@ -372,5 +372,32 @@
   "theme.unlistedContent.message": {
     "message": "Bu sayfa listelenmemiş. Arama motorları dizine eklemez ve yalnızca doğrudan bağlantısı olan kullanıcılar buna erişebilir.",
     "description": "The unlisted content banner message"
+  },
+  "Unit Ecosystem": {
+    "message": "Birim Ekosistemi"
+  },
+  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.": {
+    "message": "Lorem Ipsum, basılı ve düzenlenmiş matbaacılık endüstrisinin basit bir taklididir. Lorem Ipsum, 1500'lerden beri endüstrinin standart taklit metnidir."
+  },
+  "Unit Conference": {
+    "message": "Birim Konferansı"
+  },
+  "Lorem ipsum dolor sit amet consectetur. Et facilistis": {
+    "message": "Lorem ipsum, consectetur adipiscing elit. Etiam facilisis"
+  },
+  "Visit Website": {
+    "message": "Web Sitesini Ziyaret Edin"
+  },
+  "Unit Events": {
+    "message": "Birim Etkinlikleri"
+  },
+  "Unit Masters": {
+    "message": "Birim Ustaları"
+  },
+  "Unit Ventures": {
+    "message": "Birim Girişimleri"
+  },
+  "Learn more about the Unit Ecosystem DAO": {
+    "message": "Birim Ekosistemi DAO hakkında daha fazla bilgi edinin"
   }
 }

@@ -372,5 +372,32 @@
   "theme.unlistedContent.message": {
     "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
     "description": "The unlisted content banner message"
+  },
+  "Unit Ecosystem": {
+    "message": "Unit-Ökosystem"
+  },
+  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.": {
+    "message": "Lorem Ipsum ist einfach nur Blindtext aus der Druck- und Setzindustrie. Lorem Ipsum ist seit dem 16. Jahrhundert der Standard-Blindtext der Branche."
+  },
+  "Unit Conference": {
+    "message": "Unit-Konferenz"
+  },
+  "Lorem ipsum dolor sit amet consectetur. Et facilistis": {
+    "message": "Lorem ipsum dolor sit amet consectetur. Et facilistis"
+  },
+  "Visit Website": {
+    "message": "Webseite besuchen"
+  },
+  "Unit Events": {
+    "message": "Unit-Veranstaltungen"
+  },
+  "Unit Masters": {
+    "message": "Unit-Meister"
+  },
+  "Unit Ventures": {
+    "message": "Unit-Ventures"
+  },
+  "Learn more about the Unit Ecosystem DAO": {
+    "message": "Erfahren Sie mehr über das Unit-Ökosystem DAO"
   }
 }

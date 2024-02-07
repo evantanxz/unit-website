@@ -7,8 +7,12 @@
     "message": "Logo de Mi Sitio",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Docs": {
-    "message": "Documentos",
-    "description": "Navbar item with label Docs"
+  "item.label.Ecosystem": {
+    "message": "Ecosistema",
+    "description": "Elemento de la barra de navegación con etiqueta Ecosistema"
+  },
+  "item.label.Documentation": {
+    "message": "Documentación",
+    "description": "Elemento de la barra de navegación con etiqueta Documentación"
   }
 }

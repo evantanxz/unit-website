@@ -5,6 +5,7 @@ import clsx from "clsx";
 
 import Translate from "@docusaurus/Translate";
 import { useColorMode } from "@docusaurus/theme-common";
+import useBaseUrl from "@docusaurus/useBaseUrl";
 import Heading from "@theme/Heading";
 import styles from "./index.module.css";
 
@@ -19,8 +20,8 @@ function HomepageHeader() {
             className="unit-hero-logo"
             src={
               colorMode === "dark"
-                ? "/img/unit-logo-dark.png"
-                : "/img/unit-logo-color.png"
+                ? useBaseUrl("/img/unit-logo-dark.png")
+                : useBaseUrl("/img/unit-logo-color.png")
             }
             width="150px"
           ></img>

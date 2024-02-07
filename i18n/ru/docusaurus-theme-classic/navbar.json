@@ -7,8 +7,12 @@
     "message": "Логотип моего сайта",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Docs": {
-    "message": "Документы",
-    "description": "Navbar item with label Docs"
+  "item.label.Ecosystem": {
+    "message": "Экосистема",
+    "description": "Пункт навигационной панели с меткой 'Экосистема'"
+  },
+  "item.label.Documentation": {
+    "message": "Документация",
+    "description": "Пункт навигационной панели с меткой 'Документация'"
   }
 }

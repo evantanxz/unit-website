@@ -372,5 +372,32 @@
   "theme.unlistedContent.message": {
     "message": "이 페이지는 비공개입니다. 검색 엔진에서 색인화되지 않으며 직접 링크를 가진 사용자만 액세스할 수 있습니다.",
     "description": "The unlisted content banner message"
+  },
+  "Unit Ecosystem": {
+    "message": "유닛 생태계"
+  },
+  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.": {
+    "message": "로렘 입숨은 인쇄 및 인쇄 산업의 단순한 더미 텍스트입니다. 로렘 입숨은 1500년대부터 산업의 표준 더미 텍스트입니다."
+  },
+  "Unit Conference": {
+    "message": "유닛 회의"
+  },
+  "Lorem ipsum dolor sit amet consectetur. Et facilistis": {
+    "message": "Lorem ipsum은 더미 텍스트로 인쇄 및 인쇄 산업의 단순한 더미 텍스트입니다."
+  },
+  "Visit Website": {
+    "message": "웹 사이트 방문"
+  },
+  "Unit Events": {
+    "message": "유닛 이벤트"
+  },
+  "Unit Masters": {
+    "message": "유닛 마스터"
+  },
+  "Unit Ventures": {
+    "message": "유닛 벤처스"
+  },
+  "Learn more about the Unit Ecosystem DAO": {
+    "message": "유닛 생태계 DAO에 대해 자세히 알아보기"
   }
 }

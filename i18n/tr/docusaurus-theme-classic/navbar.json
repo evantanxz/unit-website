@@ -1,34 +1,18 @@
 {
   "title": {
-    "message": "Unit Network",
-    "description": "The title in the navbar"
+    "message": "Unit Ağı",
+    "description": "Menü çubuğundaki başlık"
   },
   "logo.alt": {
-    "message": "My Site Logo",
-    "description": "The alt text of navbar logo"
+    "message": "Benim Site Logom",
+    "description": "Menü çubuğu logosunun alternatif metni"
   },
   "item.label.Ecosystem": {
-    "message": "Ecosystem",
-    "description": "Navbar item with label Ecosystem"
+    "message": "Ekosistem",
+    "description": "Ekosistem etiketi ile menü öğesi"
   },
   "item.label.Documentation": {
-    "message": "Documentation",
-    "description": "Navbar item with label Documentation"
-  },
-  "item.label.Unit Conference": {
-    "message": "Unit Conference",
-    "description": "Navbar item with label Unit Conference"
-  },
-  "item.label.Unit Events": {
-    "message": "Unit Events",
-    "description": "Navbar item with label Unit Events"
-  },
-  "item.label.Unit Masters": {
-    "message": "Unit Masters",
-    "description": "Navbar item with label Unit Masters"
-  },
-  "item.label.Unit Ventures": {
-    "message": "Unit Ventures",
-    "description": "Navbar item with label Unit Ventures"
+    "message": "Belgeler",
+    "description": "Belgeler etiketi ile menü öğesi"
   }
 }

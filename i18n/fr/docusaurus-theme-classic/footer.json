@@ -21,7 +21,7 @@
   },
   "link.item.label.Discord": {
     "message": "Discord",
-    "description": "The label of footer link with label=Discord linking to https://discordapp.com/invite/docusaurus"
+    "description": "The label of footer link with label=Discord linking to https://discord.com/invite/unitnetwork"
   },
   "link.item.label.Twitter": {
     "message": "Twitter",
@@ -38,5 +38,105 @@
   "copyright": {
     "message": "Droits d'auteur © 2024 Mon Projet, Inc. Réalisé avec Docusaurus.",
     "description": "The footer copyright"
+  },
+  "link.title.Official Links": {
+    "message": "Liens Officiels",
+    "description": "Le titre de la colonne des liens de pied de page avec le titre=Liens Officiels dans le pied de page"
+  },
+  "link.title.Policies": {
+    "message": "Politiques",
+    "description": "Le titre de la colonne des liens de pied de page avec le titre=Politiques dans le pied de page"
+  },
+  "link.item.label.Documentation Hub": {
+    "message": "Centre de Documentation",
+    "description": "Le libellé du lien de pied de page avec le libellé=Centre de Documentation pointant vers https://docs.unit.network/"
+  },
+  "link.item.label.Official Links": {
+    "message": "Liens Officiels",
+    "description": "Le libellé du lien de pied de page avec le libellé=Liens Officiels pointant vers /docs/official-links"
+  },
+  "link.item.label.What is Unit Network": {
+    "message": "Qu'est-ce que le Réseau Unit",
+    "description": "Le libellé du lien de pied de page avec le libellé=Qu'est-ce que le Réseau Unit pointant vers /docs/what-is-unit-network/"
+  },
+  "link.item.label.Ecosystem DAO": {
+    "message": "Écosystème DAO",
+    "description": "Le libellé du lien de pied de page avec le libellé=Écosystème DAO pointant vers /docs/Ecosystem-DAO/"
+  },
+  "link.item.label.Architecture": {
+    "message": "Architecture",
+    "description": "Le libellé du lien de pied de page avec le libellé=Architecture pointant vers /docs/Architecture/"
+  },
+  "link.item.label.Community": {
+    "message": "Communauté",
+    "description": "Le libellé du lien de pied de page avec le libellé=Communauté pointant vers /docs/Community/"
+  },
+  "link.item.label.User Guide": {
+    "message": "Guide de l'Utilisateur",
+    "description": "Le libellé du lien de pied de page avec le libellé=Guide de l'Utilisateur pointant vers /docs/user-guide/"
+  },
+  "link.item.label.Learning Hub": {
+    "message": "Centre d'Apprentissage",
+    "description": "Le libellé du lien de pied de page avec le libellé=Centre d'Apprentissage pointant vers /docs/learning-hub/"
+  },
+  "link.item.label.Case Studies": {
+    "message": "Études de Cas",
+    "description": "Le libellé du lien de pied de page avec le libellé=Études de Cas pointant vers /docs/case-studies/"
+  },
+  "link.item.label.Key Trends": {
+    "message": "Tendances Clés",
+    "description": "Le libellé du lien de pied de page avec le libellé=Tendances Clés pointant vers /docs/key-trends/"
+  },
+  "link.item.label.Frequently Asked Questions": {
+    "message": "Foire aux Questions",
+    "description": "Le libellé du lien de pied de page avec le libellé=Foire aux Questions pointant vers /docs/frequently-asked-questions/"
+  },
+  "link.item.label.Glossary": {
+    "message": "Glossaire",
+    "description": "Le libellé du lien de pied de page avec le libellé=Glossaire pointant vers /docs/glossary/"
+  },
+  "link.item.label.Media / Brand Resources": {
+    "message": "Ressources Média / Marque",
+    "description": "Le libellé du lien de pied de page avec le libellé=Ressources Média / Marque pointant vers /docs/media/"
+  },
+  "link.item.label.Terms of Services": {
+    "message": "Conditions de Service",
+    "description": "Le libellé du lien de pied de page avec le libellé=Conditions de Service pointant vers /docs/terms-of-services/"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "Le libellé du lien de pied de page avec le libellé=Telegram pointant vers https://t.me/unitfoundation"
+  },
+  "link.item.label.X": {
+    "message": "X",
+    "description": "Le libellé du lien de pied de page avec le libellé=X pointant vers https://twitter.com/theunitnetwork"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "Le libellé du lien de pied de page avec le libellé=LinkedIn pointant vers https://www.linkedin.com/company/theunitnetwork"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "Le libellé du lien de pied de page avec le libellé=Instagram pointant vers https://www.instagram.com/unit.network"
+  },
+  "link.item.label.Youtube": {
+    "message": "Youtube",
+    "description": "Le libellé du lien de pied de page avec le libellé=Youtube pointant vers https://www.youtube.com/c/UnitGlobal"
+  },
+  "link.item.label.Application": {
+    "message": "Application",
+    "description": "Le libellé du lien de pied de page avec le libellé=Application pointant vers https://app.unit.network/"
+  },
+  "link.item.label.Articles": {
+    "message": "Articles",
+    "description": "Le libellé du lien de pied de page avec le libellé=Articles pointant vers https://unitnetwork.medium.com/"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Politique de Confidentialité",
+    "description": "Le libellé du lien de pied de page avec le libellé=Politique de Confidentialité pointant vers /docs/terms-of-services/"
+  },
+  "logo.alt": {
+    "message": "Logo du Réseau Unit",
+    "description": "Le texte alternatif du logo de pied de page"
   }
 }

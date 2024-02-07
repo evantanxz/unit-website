@@ -3,14 +3,6 @@
     "message": "다음",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.What is Unit Network": {
-    "message": "Unit Network이란",
-    "description": "The label for category What is Unit Network in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Core Tokens": {
-    "message": "핵심 토큰",
-    "description": "The label for category Core Tokens in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Ecosystem DAO": {
     "message": "생태계 DAO",
     "description": "The label for category Ecosystem DAO in sidebar tutorialSidebar"
@@ -82,5 +74,13 @@
   "sidebar.tutorialSidebar.category.Media / Brand resources": {
     "message": "미디어 / 브랜드 자료",
     "description": "The label for category Media / Brand resources in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.유닛 네트워크란?": {
+    "message": "유닛 네트워크란?",
+    "description": "The label for category 유닛 네트워크란? in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.코어 토큰": {
+    "message": "코어 토큰",
+    "description": "The label for category 코어 토큰 in sidebar tutorialSidebar"
   }
 }

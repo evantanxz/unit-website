@@ -372,5 +372,32 @@
   "theme.unlistedContent.message": {
     "message": "هذه الصفحة غير مدرجة. لن يتم فهرستها من قبل محركات البحث، ويمكن للمستخدمين الوصول إليها فقط عبر الرابط المباشر.",
     "description": "The unlisted content banner message"
+  },
+  "Unit Ecosystem": {
+    "message": "نظام الوحدة"
+  },
+  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.": {
+    "message": "لوريم إيبسوم هو نص عباري بسيط لصناعة الطباعة والتنضيد. لوريم إيبسوم هو النص الافتراضي للصناعة منذ القرن الخامس عشر."
+  },
+  "Unit Conference": {
+    "message": "مؤتمر الوحدة"
+  },
+  "Lorem ipsum dolor sit amet consectetur. Et facilistis": {
+    "message": "لوريم إيبسوم دولور سيت أميت، كونسيكتيتور أدايبيسيسينغ إليت"
+  },
+  "Visit Website": {
+    "message": "زيارة الموقع الإلكتروني"
+  },
+  "Unit Events": {
+    "message": "فعاليات الوحدة"
+  },
+  "Unit Masters": {
+    "message": "ماجستير الوحدة"
+  },
+  "Unit Ventures": {
+    "message": "مشاريع الوحدة"
+  },
+  "Learn more about the Unit Ecosystem DAO": {
+    "message": "تعرف على المزيد حول وحدة النظام البيئي"
   }
 }

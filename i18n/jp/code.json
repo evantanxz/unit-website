@@ -372,5 +372,32 @@
   "theme.unlistedContent.message": {
     "message": "このページは非公開です。検索エンジンはインデックスに登録せず、直接リンクを持つユーザーのみアクセスできます。",
     "description": "The unlisted content banner message"
+  },
+  "Unit Ecosystem": {
+    "message": "ユニットエコシステム"
+  },
+  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.": {
+    "message": "Lorem Ipsumは、印刷および組版業界のダミーテキストです。 Lorem Ipsumは、1500年代以来、業界の標準のダミーテキストです。"
+  },
+  "Unit Conference": {
+    "message": "ユニット会議"
+  },
+  "Lorem ipsum dolor sit amet consectetur. Et facilistis": {
+    "message": "Lorem ipsumは、簡単に言えば、印刷および組版業界のダミーテキストです。"
+  },
+  "Visit Website": {
+    "message": "ウェブサイトを訪問"
+  },
+  "Unit Events": {
+    "message": "ユニットイベント"
+  },
+  "Unit Masters": {
+    "message": "ユニットマスターズ"
+  },
+  "Unit Ventures": {
+    "message": "ユニットベンチャー"
+  },
+  "Learn more about the Unit Ecosystem DAO": {
+    "message": "ユニットエコシステムDAOについて詳しく学ぶ"
   }
 }

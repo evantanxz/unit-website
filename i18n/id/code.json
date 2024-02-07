@@ -503,5 +503,32 @@
   },
   "theme.SearchBar.seeAll": {
     "message": "Lihat semua {count} hasil"
+  },
+  "Unit Ecosystem": {
+    "message": "Ekosistem Unit"
+  },
+  "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.": {
+    "message": "Lorem Ipsum adalah teks dummy sederhana dari industri percetakan dan penataan huruf. Lorem Ipsum telah menjadi teks dummy standar industri sejak tahun 1500-an."
+  },
+  "Unit Conference": {
+    "message": "Konferensi Unit"
+  },
+  "Lorem ipsum dolor sit amet consectetur. Et facilistis": {
+    "message": "Lorem ipsum dolor sit amet consectetur. Et facilistis"
+  },
+  "Visit Website": {
+    "message": "Kunjungi Situs Web"
+  },
+  "Unit Events": {
+    "message": "Acara Unit"
+  },
+  "Unit Masters": {
+    "message": "Masters Unit"
+  },
+  "Unit Ventures": {
+    "message": "Ventures Unit"
+  },
+  "Learn more about the Unit Ecosystem DAO": {
+    "message": "Pelajari lebih lanjut tentang DAO Ekosistem Unit"
   }
 }
