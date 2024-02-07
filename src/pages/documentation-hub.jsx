@@ -12,7 +12,9 @@ import styles from "./index.module.css";
 function DocumentationHubHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero", styles.heroBanner, "documentation-header-style")}>
+    <header
+      className={clsx("hero", styles.heroBanner, "documentation-header-style")}
+    >
       <div className="container">
         <Heading as="h1" className="header-title">
           <Translate>Documentation Hub</Translate>
@@ -22,7 +24,12 @@ function DocumentationHubHeader() {
             Your comprehensive guide to navigating the Unit Network
           </Translate>
         </p>
-        <div className={clsx(styles.buttons, "button-container-style-documentation")}>
+        <div
+          className={clsx(
+            styles.buttons,
+            "button-container-style-documentation"
+          )}
+        >
           <Link
             className="button button--secondary button--lg button-style-1"
             to="/docs/intro"
@@ -45,8 +52,8 @@ export default function DocumentationHub() {
       title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
-      <DocumentationHubHeader />
       <main className="padding-bottom--2xl bg-color-infima">
+        <DocumentationHubHeader />
         <DocumentationHubContent />
       </main>
     </Layout>

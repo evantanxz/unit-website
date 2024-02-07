@@ -10,7 +10,7 @@ import styles from "./index.module.css";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
-  const { colorMode, setColorMode } = useColorMode();
+  const { colorMode } = useColorMode();
   return (
     <header className={clsx("hero", styles.heroBanner, "header-style")}>
       <div className="container">
