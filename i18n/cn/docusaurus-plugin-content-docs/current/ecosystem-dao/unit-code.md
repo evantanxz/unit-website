@@ -2,34 +2,34 @@
 sidebar_position: 4
 ---
 
-# Unit Code
+# 单位代码
 
-Powering the Future with Blockchain Innovation ($CODE)
+通过区块链创新引领未来（$CODE）
 
-Hello World!
+你好，世界！
 
-Embark on a journey with Unit Code, dedicated to elevating the foundation of Unit Network through robust and scalable infrastructure.
+与单位代码一起踏上旅程，致力于通过强大而可扩展的基础架构提升单位网络的基础。
 
-Beyond this, Unit Code is a trailblazer in crafting innovative applications, offering expert blockchain development and decentralized application (dApp) building services.
+除此之外，单位代码是开发创新应用程序的先驱者，提供专业的区块链开发和去中心化应用程序（dApp）构建服务。
 
-Our specialization lies in two key areas:
+我们的专业领域在于两个关键领域：
 
-1. Unit Core Infrastructure Development
-2. Unit Application Development
+1. 单位核心基础设施开发
+2. 单位应用程序开发
 
-Experience the future of technology with Unit Code—where innovation meets excellence.
+体验未来技术的新境界，与单位代码共同见证创新与卓越的交汇。
 
-## Why Choose Unit Code?
+## 为什么选择单位代码？
 
-Elevate Your Development Experience with Unit Code.
+通过单位代码提升您的开发体验。
 
-Discover the unparalleled advantages of partnering with Unit Code for your blockchain and app development needs. Our accomplished teams specialize in:
+发现与单位代码合作满足您的区块链和应用程序开发需求的无与伦比的优势。我们的专业团队专注于：
 
-1. Smart contract development
-2. Cryptographic security
-3. Efficient blockchain architecture design
-4. User interface and experience design
-5. Full-stack development
+1. 智能合约开发
+2. 密码安全
+3. 高效的区块链架构设计
+4. 用户界面和体验设计
+5. 全栈开发
 
-With expertise in these critical areas, we assure the creation of highly functional, secure, and user-friendly blockchain applications.
-Choose Unit Code for a development journey marked by excellence, making a substantial impact on the evolution of decentralized financial services.
+在这些关键领域的专业知识支持下，我们保证创建功能强大、安全可靠且用户友好的区块链应用程序。
+选择单位代码，开启一段卓越的开发之旅，为去中心化金融服务的演变产生重大影响。

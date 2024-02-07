@@ -2,50 +2,50 @@
 sidebar_position: 7
 ---
 
-# Unit Education
+# 单位教育
 
-Breaking Barriers, Building Knowledge:
+打破障碍，建立知识：
 
-## Unleashing the Power of Blockchain Education with $EDUCATION
+## 发挥区块链教育的力量，使用 $EDUCATION
 
-Unit Education is a visionary initiative designed to inspire, educate, and connect pioneers exploring alternative economies. Our platform offers a range of courses aimed at building blockchain literacy, breaking down barriers to entry, and providing a compact, effective learning resource equipped with all the necessary tools to embark on your journey into the world of Web3.
+单位教育是一个具有远见的倡议，旨在激励、教育和连接探索替代经济的先驱们。我们的平台提供一系列课程，旨在建立区块链素养，打破进入障碍，并提供一种紧凑、有效的学习资源，配备了进入 Web3 世界所需的所有必要工具。
 
-Leading the way is the **Unit Master’s program**, a curated global network featuring successful entrepreneurs, investors, and founders who have made significant positive impacts in cryptography and blockchain. This program offers a unique learning experience, allowing participants to apply their knowledge in real-time rather than merely studying theory.
+引领潮流的是**单位硕士计划**，这是一个精心策划的全球网络，汇集了在密码学和区块链领域取得重大积极影响的成功企业家、投资者和创始人。该计划提供了一种独特的学习体验，允许参与者实时应用他们的知识，而不仅仅是学习理论。
 
-## Unit Masters Program
+## 单位硕士计划
 
-- **Unlock the Future of Wealth Creation & Economics**: Gain insights into managing wealth creation for personal and community growth.
-- **Explore the Power of Blockchain Possibilities**: Learn about blockchain technology, decentralized systems, governance, tokens, cryptocurrencies, and the future of economies.
-- **Engage in Bi-Weekly Mentorship Sessions with Industry Leaders**: Benefit from two live speaker sessions per week led by influential figures in disruptive tech and ethical community building.
-- **Connect with Like-Minded Individuals**: Network with fellow participants, set up your wallet, and build your brand or business on the Unit platform.
+- **解锁财富创造与经济的未来**：了解管理个人和社区增长的财富创造见解。
+- **探索区块链可能性的力量**：了解区块链技术、去中心化系统、治理、代币、加密货币以及经济的未来。
+- **参与每两周一次的与行业领导者的辅导会话**：从颠覆性技术和道德社区建设中的有影响力的人物的两次实况讲话中受益。
+- **与志同道合的人建立联系**：与其他参与者建立联系，建立您的钱包，并在单位平台上建立您的品牌或业务。
 
-## Unit Masters Format
+## 单位硕士格式
 
-Every two months, our structured 6-week learning program welcomes participants to the new economy. Sign up at [courses.unitmasters.org](https://courses.unitmasters.org).
+每两个月，我们的结构化的为期 6 周的学习计划欢迎参与者进入新经济。在 [courses.unitmasters.org](https://courses.unitmasters.org) 注册。
 
-**Program Structure:**
+**程序结构：**
 
-1. Self-Paced Online Learning (reflective learning)
-2. Live Mentoring Sessions with Pioneers of the New Economy (inspiration through entrepreneurs)
-3. Structured Crypto-Coaching (guidance from experienced facilitators)
-4. Self-Organized Study Groups (peer mentoring)
+1. 自主学习（反思性学习）
+2. 与新经济的先驱者的实况辅导会话（通过企业家激励）
+3. 结构化的加密指导（有经验的引导者的指导）
+4. 自组织的学习小组（同行辅导）
 
-**Session Format:**
+**会话格式：**
 
-- Kickoff (Sunday)
-- Tuesdays: 1-hour Live Mentoring
-- Wednesdays: 1-hour Crypto-Coaching
-- Thursdays: 1-hour Live Mentoring
-- Self-organized: Weekly 30-minute "Study Group"
+- 启动（星期日）
+- 星期二：1 小时实况辅导
+- 星期三：1 小时加密指导
+- 星期四：1 小时实况辅导
+- 自组织：每周 30 分钟的“学习小组”
 
-**6-Week Curriculum:**
-The self-paced learning includes articles, videos, and multiple-choice quizzes. Weekly reflection assignments on specific themes are discussed in self-organized study groups and Wednesday Crypto-Coaching Sessions.
+**6 周课程：**
+自主学习包括文章、视频和多项选择测验。每周特定主题的反思作业在自组织学习小组和星期三的加密辅导会话中进行讨论。
 
-- Week 1: Decentralization & Internet of Value
-- Week 2: Stakeholders of the New Economy
-- Week 3: Blockchains, Protocols, Incentives Alignment
-- Week 4: Exchanges, DeFi, and NFTs
-- Week 5: Stakeholder Capitalism & Sustainability
-- Week 6: A Token-Driven Economy
+- 第 1 周：去中心化与价值互联网
+- 第 2 周：新经济的利益相关者
+- 第 3 周：区块链、协议、激励对齐
+- 第 4 周：交易所、DeFi 和 NFT
+- 第 5 周：利益相关者资本主义与可持续性
+- 第 6 周：基于代币的经济
 
-Join Unit Education and embark on a transformative journey into the future of decentralized knowledge and economic paradigms.
+加入单位教育，踏上通往去中心化知识和经济范式的变革之旅。
