@@ -31,40 +31,36 @@ Join us in shaping the future of decentralized collaboration and crypto integrat
 ## Discover the Interconnected World of Unit Network!
 
 <br />
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
 
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Reserve Assets</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Reserve Assets:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
         Unlock Stability: Access a range of external stable tokens and assets supported by Unit Network.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Native Tokens:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Native Tokens:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
         Explore the Diversity: Discover all the native tokens crafted within the Unit Network ecosystem.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Network Protocol:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Native Tokens:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
         Delve Deeper: Explore the intricate details of the Unit Network protocol.
       </p>
     </div>
   </div>
-
 </div>

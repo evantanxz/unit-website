@@ -347,8 +347,8 @@ header {
     .header-title {
       font-size: 1.9rem;
     }
-  
-    .documentation-header-style p{
+
+    .documentation-header-style p {
       margin-bottom: 50px;
       font-size: 16px;
       font-weight: 400;
@@ -378,6 +378,44 @@ header {
 
 @media (max-width: 480px) {
   .grid-component {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+/* Docs */
+.docs-grid-alt {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 16px;
+}
+
+.docs-card-alt {
+  border-radius: 2px;
+  border: 1px solid #eaeaea;
+  padding: 16px;
+  background-color: transparent;
+}
+
+.docs-card-alt-header {
+  text-align: left;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.docs-card-alt-description {
+  text-align: left;
+  font-size: 1rem;
+  margin-top: 2px;
+}
+
+@media (max-width: 1180px) {
+  .docs-grid-alt {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .docs-grid-alt {
     grid-template-columns: repeat(1, 1fr);
   }
 }
