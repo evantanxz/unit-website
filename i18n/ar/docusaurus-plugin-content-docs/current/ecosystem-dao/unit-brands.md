@@ -2,87 +2,49 @@
 sidebar_position: 1
 ---
 
-# Unit Brands
+# العلامات التجارية الوحدة
 
-A Journey of Exclusivity and Curiosity
+رحلة الحصرية والفضول
 
-## Vision
+## الرؤية
 
-Unit Brands epitomizes a philosophy and culture rooted in exclusivity and curiosity. As a DAO (Decentralized Autonomous Organization) crafted for global visionaries, it orchestrates extraordinary spaces enriched with art, culture, and immersive community experiences. The curation of memberships transcends conventional metrics, driven by captivating stories and world-changing visions. Unit Brands nurtures an environment conducive to discovery and transformation, magnetizing individuals who continuously reimagine their surroundings.
+تجسد العلامات التجارية الوحدة فلسفة وثقافة تتجذر في الحصرية والفضول. كمنظمة ذاتية الحكم مركزة على المستوى العالمي، تنسق فضاءات غير عادية مثرية بالفن والثقافة وتجارب المجتمع الغامرة. يتجاوز تقديم العضويات الاعتيادية، مدفوعًا بالقصص الجذابة والرؤى الباحثة عن تغيير العالم. تعزز العلامات التجارية الوحدة بيئة تسهل الاكتشاف والتحول، مجذبة للأفراد الذين يعيدون تصوّر محيطهم باستمرار.
 
-## Unit Brand Dynamics: Navigating the Essence of Exclusivity within the Unit Network Ecosystem
+## ديناميات العلامة التجارية الوحدة: توجيه جوهر الحصرية ضمن نظام شبكة الوحدة
 
-Nestled within the Unit Network, Unit Brands is a dedicated curator of exclusive and boutique experiences. What sets it apart is its unique structural approach, where each brand under its umbrella operates as an independent entity. The Unit Brand team takes on the responsibility of overseeing the organization and management of these distinct brands, thereby fostering diversity and exclusivity in their offerings. This distinctive structural model not only ensures autonomy for each brand but also paves the way for a rich tapestry of unique experiences. Meticulously tailored to cater to the refined tastes of discerning members, these experiences embody the essence of exclusivity, offering a platform where creativity and diversity converge seamlessly within the Unit Network ecosystem.
+مُحاطة بشبكة الوحدة، تعد العلامات التجارية الوحدة مقررًا مخصصًا لتجارب الحصرية والبوتيكية. ما يميزها هو نهجها الهيكلي الفريد، حيث تعمل كل علامة تجارية تحت مظلتها ككيان مستقل. يتحمل فريق العلامة التجارية الوحدة مسؤولية إدارة هذه العلامات التجارية المميزة، مما يعزز التنوع والحصرية في عروضها. يضمن هذا النموذج الهيكلي المميز لكل علامة تجارية ليس فقط الاستقلالية، بل يمهد أيضًا الطريق لنسيج غني من التجارب الفريدة. مصممة بعناية لتناسب أذواق الأعضاء الفاخرة، تجسد هذه التجارب جوهر الحصرية، مقدمة منصة حيث يتقاطع الإبداع والتنوع بسلاسة ضمن نظام شبكة الوحدة.
 
 <br />
 
-<!-- <div class="card-demo" style={{ display: 'flex', flexDirection: 'row'}}>
-  <div class="card" style={{ marginRight: '16px', width: '33.33%', textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Embassy</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>سفارة الوحدة:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Exclusive Co-living Creative Hubs Worldwide
+        مراكز العيش الإبداعية الحصرية في جميع أنحاء العالم
       </p>
     </div>
   </div>
-  <div class="card" style={{ marginRight: '16px', width: '33.33%', textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Stays</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>وحدة الإقامة:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Extended Stays in Global Financial Hubs
+        إقامات ممتدة في مراكز مالية عالمية
       </p>
     </div>
   </div>
-  <div class="card" style={{ textAlign: 'center', width: '33.33%'}}>
-    <div class="card__header">
-      <h3>Unit Awards</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>جوائز الوحدة:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Recognizing Excellence in Exceptional Projects and Unit Network Users
+        التعرف على التميز في المشاريع الاستثنائية ومستخدمي شبكة الوحدة
       </p>
     </div>
   </div>
-</div> -->
-
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Unit Embassy</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Exclusive Co-living Creative Hubs Worldwide
-      </p>
-    </div>
-  </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Unit Stays</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Extended Stays in Global Financial Hubs
-      </p>
-    </div>
-  </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Awards</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Recognizing Excellence in Exceptional Projects and Unit Network Users
-      </p>
-    </div>
-  </div>
-
 </div>

@@ -2,34 +2,34 @@
 sidebar_position: 4
 ---
 
-# Unit Code
+# وحدة الكود
 
-Powering the Future with Blockchain Innovation ($CODE)
+دفع المستقبل بالابتكار في تقنية البلوكتشين ($CODE)
 
-Hello World!
+مرحبًا بالعالم!
 
-Embark on a journey with Unit Code, dedicated to elevating the foundation of Unit Network through robust and scalable infrastructure.
+انطلق في رحلة مع وحدة الكود، المكرسة لرفع مستوى أسس شبكة الوحدة من خلال بنية تحتية قوية وقابلة للتوسيع.
 
-Beyond this, Unit Code is a trailblazer in crafting innovative applications, offering expert blockchain development and decentralized application (dApp) building services.
+وبالإضافة إلى ذلك، تعتبر وحدة الكود رائدة في صياغة التطبيقات المبتكرة، وتقدم خدمات تطوير سلسلة الكتل وبناء تطبيقات اللامركزية (dApp) بخبرة.
 
-Our specialization lies in two key areas:
+تتمثل تخصصنا في مجالين رئيسيين:
 
-1. Unit Core Infrastructure Development
-2. Unit Application Development
+1. تطوير البنية التحتية الأساسية للوحدة
+2. تطوير تطبيقات الوحدة
 
-Experience the future of technology with Unit Code—where innovation meets excellence.
+اكتشف مستقبل التكنولوجيا مع وحدة الكود - حيث يلتقي الابتكار بالتميز.
 
-## Why Choose Unit Code?
+## لماذا تختار وحدة الكود؟
 
-Elevate Your Development Experience with Unit Code.
+رفع تجربة التطوير مع وحدة الكود.
 
-Discover the unparalleled advantages of partnering with Unit Code for your blockchain and app development needs. Our accomplished teams specialize in:
+اكتشف المزايا الفريدة التي يوفرها التعاون مع وحدة الكود لاحتياجاتك في تطوير سلسلة الكتل والتطبيقات. ففرقنا المتميزة متخصصة في:
 
-1. Smart contract development
-2. Cryptographic security
-3. Efficient blockchain architecture design
-4. User interface and experience design
-5. Full-stack development
+1. تطوير العقود الذكية
+2. الأمان التشفيري
+3. تصميم البنية التحتية الفعّالة لسلسلة الكتل
+4. تصميم واجهة وتجربة المستخدم
+5. تطوير الشريحة الكاملة
 
-With expertise in these critical areas, we assure the creation of highly functional, secure, and user-friendly blockchain applications.
-Choose Unit Code for a development journey marked by excellence, making a substantial impact on the evolution of decentralized financial services.
+مع الخبرة في هذه المجالات الحرجة، نضمن إنشاء تطبيقات سلسة العمل وآمنة وسهلة الاستخدام.
+اختر وحدة الكود لتجربة تطوير مميزة، مما يؤثر بشكل كبير على تطور الخدمات المالية اللامركزية.
