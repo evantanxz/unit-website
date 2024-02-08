@@ -2,87 +2,49 @@
 sidebar_position: 1
 ---
 
-# Unit Brands
+# Unit Markaları
 
-A Journey of Exclusivity and Curiosity
+Özel ve Merak Dolu Bir Yolculuk
 
-## Vision
+## Vizyon
 
-Unit Brands epitomizes a philosophy and culture rooted in exclusivity and curiosity. As a DAO (Decentralized Autonomous Organization) crafted for global visionaries, it orchestrates extraordinary spaces enriched with art, culture, and immersive community experiences. The curation of memberships transcends conventional metrics, driven by captivating stories and world-changing visions. Unit Brands nurtures an environment conducive to discovery and transformation, magnetizing individuals who continuously reimagine their surroundings.
+Unit Markaları, özel ve merak dolu bir felsefe ve kültürde köklenmiş bir vizyonu temsil eder. Küresel vizyonerler için oluşturulmuş bir DAO (Merkezsiz Otonom Örgüt) olarak, sanat, kültür ve içine alan topluluk deneyimleriyle zenginleştirilmiş olağanüstü alanları düzenler. Üyeliklerin kürasyonu, etkileyici hikayeler ve dünya değiştirici vizyonlar tarafından yönlendirilen geleneksel ölçütleri aşar. Unit Markaları, sürekli olarak çevrelerini yeniden hayal eden bireyleri cezbeden keşif ve dönüşüm için uygun bir ortamı geliştirir.
 
-## Unit Brand Dynamics: Navigating the Essence of Exclusivity within the Unit Network Ecosystem
+## Unit Marka Dinamikleri: Unit Network Ekosistemi İçindeki Özel Nitelik Esasını Yönlendirme
 
-Nestled within the Unit Network, Unit Brands is a dedicated curator of exclusive and boutique experiences. What sets it apart is its unique structural approach, where each brand under its umbrella operates as an independent entity. The Unit Brand team takes on the responsibility of overseeing the organization and management of these distinct brands, thereby fostering diversity and exclusivity in their offerings. This distinctive structural model not only ensures autonomy for each brand but also paves the way for a rich tapestry of unique experiences. Meticulously tailored to cater to the refined tastes of discerning members, these experiences embody the essence of exclusivity, offering a platform where creativity and diversity converge seamlessly within the Unit Network ecosystem.
+Unit Network içinde, Unit Markaları özel ve butik deneyimlerin özel küratörüdür. Onu diğerlerinden ayıran şey, şemsiyesi altındaki her bir markanın bağımsız bir varlık olarak faaliyet gösterdiği benzersiz yapısal yaklaşımıdır. Unit Marka ekibi, bu farklı markaların organizasyonunu ve yönetimini denetleme sorumluluğunu üstlenir, böylelikle sundukları çeşitliliği ve özel niteliği teşvik eder. Bu belirgin yapısal model, her bir marka için otonomi sağlamakla kalmaz, aynı zamanda benzersiz deneyimlerin zengin bir dokusunu oluşturmanın yolunu da açar. Seçkin üyelerin incelikli zevklerini karşılamak için titizlikle hazırlanan bu deneyimler, özel niteliğin özünü temsil eder, yaratıcılığın ve çeşitliliğin Unit Network ekosistemi içinde sorunsuz bir şekilde birleştiği bir platform sunar.
 
 <br />
 
-<!-- <div class="card-demo" style={{ display: 'flex', flexDirection: 'row'}}>
-  <div class="card" style={{ marginRight: '16px', width: '33.33%', textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Embassy</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Unit Büyükelçiliği:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Exclusive Co-living Creative Hubs Worldwide
+        Dünya Çapında Özel Ortak Yaşam Yerleri
       </p>
     </div>
   </div>
-  <div class="card" style={{ marginRight: '16px', width: '33.33%', textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Stays</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Unit Konaklamaları:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Extended Stays in Global Financial Hubs
+        Küresel Finans Merkezlerinde Uzun Süreli Konaklamalar
       </p>
     </div>
   </div>
-  <div class="card" style={{ textAlign: 'center', width: '33.33%'}}>
-    <div class="card__header">
-      <h3>Unit Awards</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Unit Ödülleri:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Recognizing Excellence in Exceptional Projects and Unit Network Users
+        Olağanüstü Projeler ve Unit Network Kullanıcılarında Mükemmelliği Tanıma
       </p>
     </div>
   </div>
-</div> -->
-
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Unit Embassy</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Exclusive Co-living Creative Hubs Worldwide
-      </p>
-    </div>
-  </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Unit Stays</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Extended Stays in Global Financial Hubs
-      </p>
-    </div>
-  </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Awards</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Recognizing Excellence in Exceptional Projects and Unit Network Users
-      </p>
-    </div>
-  </div>
-
 </div>

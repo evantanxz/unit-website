@@ -2,34 +2,34 @@
 sidebar_position: 4
 ---
 
-# Unit Code
+# Unit Kodu
 
-Powering the Future with Blockchain Innovation ($CODE)
+Blockchain İnovasyonu ile Geleceği Güçlendirme ($CODE)
 
-Hello World!
+Merhaba Dünya!
 
-Embark on a journey with Unit Code, dedicated to elevating the foundation of Unit Network through robust and scalable infrastructure.
+Güçlü ve ölçeklenebilir altyapı üzerinden Unit Network'ün temelini yükseltmeye adanmış olan Unit Kodu ile bir yolculuğa çıkın.
 
-Beyond this, Unit Code is a trailblazer in crafting innovative applications, offering expert blockchain development and decentralized application (dApp) building services.
+Bunun ötesinde, Unit Kodu, yenilikçi uygulamaları oluşturma konusunda öncüdür ve uzman blockchain geliştirme ve merkezsiz uygulama (dApp) oluşturma hizmetleri sunar.
 
-Our specialization lies in two key areas:
+Uzmanlık alanlarımız iki temel alanda bulunur:
 
-1. Unit Core Infrastructure Development
-2. Unit Application Development
+1. Unit Çekirdek Altyapı Geliştirme
+2. Unit Uygulama Geliştirme
 
-Experience the future of technology with Unit Code—where innovation meets excellence.
+Unit Code ile teknolojinin geleceğini deneyimleyin — burada yenilik mükemmelle buluşur.
 
-## Why Choose Unit Code?
+## Neden Unit Kodu'nu Seçmelisiniz?
 
-Elevate Your Development Experience with Unit Code.
+Unit Kodu ile Geliştirme Deneyiminizi Yükseltin.
 
-Discover the unparalleled advantages of partnering with Unit Code for your blockchain and app development needs. Our accomplished teams specialize in:
+Blockchain ve uygulama geliştirme ihtiyaçlarınız için Unit Kodu ile ortaklık yapmanın eşsiz avantajlarını keşfedin. Başarılı ekiplerimiz şu konularda uzmanlaşmıştır:
 
-1. Smart contract development
-2. Cryptographic security
-3. Efficient blockchain architecture design
-4. User interface and experience design
-5. Full-stack development
+1. Akıllı sözleşme geliştirme
+2. Kriptografik güvenlik
+3. Verimli blockchain mimarisi tasarımı
+4. Kullanıcı arayüzü ve deneyimi tasarımı
+5. Tam yığın geliştirme
 
-With expertise in these critical areas, we assure the creation of highly functional, secure, and user-friendly blockchain applications.
-Choose Unit Code for a development journey marked by excellence, making a substantial impact on the evolution of decentralized financial services.
+Bu kritik alanlardaki uzmanlığımızla, son derece işlevsel, güvenli ve kullanıcı dostu blockchain uygulamalarının oluşturulmasını sağlıyoruz.
+Mükemmelle segülen bir geliştirme yolculuğu için Unit Kodu'nu seçin ve merkezi olmayan finansal hizmetlerin evrimine önemli bir katkı yapın.

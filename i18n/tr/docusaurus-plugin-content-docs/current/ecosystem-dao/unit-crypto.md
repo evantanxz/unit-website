@@ -2,69 +2,65 @@
 sidebar_position: 6
 ---
 
-# Unit Crypto
+# Unit Kripto
 
-Navigating the Future of Decentralized Financial Frontiers
+Merkezsiz Finansal Sınırların Geleceğinde Seyir
 
-## Unleash the Potential of Crypto with Unit Crypto!
+## Unit Kripto ile Kripto Potansiyelini Serbest Bırakın!
 
-Unit Crypto, a dynamic DAO, is dedicated to forming strategic partnerships and seamlessly integrating various crypto communities, including Bitcoin, Ethereum, Polkadot, and more, into the Unit Network.
+Unit Kripto, dinamik bir DAO, stratejik ortaklıklar kurmaya adanmıştır ve Bitcoin, Ethereum, Polkadot ve daha fazlası gibi çeşitli kripto topluluklarını Unit Network'e sorunsuz bir şekilde entegre etmeyi hedefler.
 
-Our mission is to elevate connectivity and interoperability among diverse crypto ecosystems.
+Misyonumuz, çeşitli kripto ekosistemleri arasındaki bağlantıyı ve etkileşimi yükseltmektir.
 
-Leveraging Unit Network's robust tokenization and decentralized financial features, Unit Crypto unlocks and amplifies the intrinsic value of diverse crypto assets.
+Unit Network'ün güçlü tokenleştirme ve merkezsiz finansal özelliklerinden faydalanarak, Unit Kripto, çeşitli kripto varlıklarının içsel değerini açığa çıkarır ve artırır.
 
-Positioned as a bridge, Unit Crypto facilitates the seamless integration and mutual benefit of different blockchain networks within the Unit Network framework, creating a unified and thriving crypto ecosystem.
+Bir köprü olarak konumlandırılan Unit Kripto, farklı blockchain ağlarının Unit Network çerçevesi içinde sorunsuz entegrasyonunu ve karşılıklı faydayı kolaylaştırarak birleşik ve gelişen bir kripto ekosistemi oluşturur.
 
-## Engage and Contribute!
+## Katılın ve Katkıda Bulunun!
 
-For those eager to join Unit Crypto, the first step is to immerse yourself in the Unit Network ecosystem.
+Unit Kripto'ya katılmak isteyenler için ilk adım, Unit Network ekosistemine kendinizi kaptırmaktır.
 
-Get involved by participating in community discussions, contributing to strategic partnerships, and exploring avenues to integrate your crypto assets or platforms with the Unit Network.
+Topluluk tartışmalarına katılarak, stratejik ortaklıklara katkıda bulunarak ve kripto varlıklarınızı veya platformlarınızı Unit Network ile entegre etme olanaklarını keşfederek katılım sağlayın.
 
-This engagement provides a distinctive opportunity to be at the forefront of blockchain interoperability and decentralized finance.
+Bu katılım, blockchain etkileşimliliği ve merkezsiz finansın öncüsü olma fırsatını sunar.
 
-By collaborating, you'll play a crucial role in enhancing the collective value and functionality of diverse crypto communities.
+İşbirliği yaparak, çeşitli kripto topluluklarının kolektif değerini ve işlevselliğini artırmada kritik bir rol oynayacaksınız.
 
-Join us in shaping the future of decentralized collaboration and crypto integration!
+Bize, merkezsiz işbirliği ve kripto entegrasyonunun geleceğini şekillendirme yolculuğuna katılın!
 
-## Discover the Interconnected World of Unit Network!
+## Unit Network'ün Bağlantılı Dünyasını Keşfedin!
 
 <br />
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
 
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Reserve Assets</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Rezerv Varlıklar:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Unlock Stability: Access a range of external stable tokens and assets supported by Unit Network.
+        İstikrarı Açığa Çıkarın: Unit Network tarafından desteklenen çeşitli dış stabil tokenlara ve varlıklara erişim sağlayın.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Native Tokens:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Yerel Tokenlar:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Explore the Diversity: Discover all the native tokens crafted within the Unit Network ecosystem.
+        Çeşitliliği Keşfedin: Unit Network ekosistemi içinde hazırlanan tüm yerel tokenları keşfedin.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Network Protocol:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Yerel Tokenlar:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Delve Deeper: Explore the intricate details of the Unit Network protocol.
+        Daha Derinlere İnmek: Unit Network protokolünün karmaşık detaylarını keşfedin.
       </p>
     </div>
   </div>
-
 </div>

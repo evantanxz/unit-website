@@ -2,50 +2,50 @@
 sidebar_position: 7
 ---
 
-# Unit Education
+# Unit Eğitim
 
-Breaking Barriers, Building Knowledge:
+Engelleri Kırma, Bilgi Oluşturma:
 
-## Unleashing the Power of Blockchain Education with $EDUCATION
+## $EDUCATION ile Blockchain Eğitiminin Gücünü Serbest Bırakın
 
-Unit Education is a visionary initiative designed to inspire, educate, and connect pioneers exploring alternative economies. Our platform offers a range of courses aimed at building blockchain literacy, breaking down barriers to entry, and providing a compact, effective learning resource equipped with all the necessary tools to embark on your journey into the world of Web3.
+Unit Eğitim, alternatif ekonomileri keşfeden öncülerin ilham almasını, eğitilmesini ve bağlantı kurmasını sağlamak için tasarlanmış vizyoner bir girişimdir. Platformumuz, blockchain okuryazarlığı oluşturmayı, giriş engellerini kaldırmayı ve Web3 dünyasına yolculuğunuza başlamak için gerekli tüm araçlarla donatılmış kompakt ve etkili bir öğrenme kaynağı sağlamayı amaçlayan çeşitli kurslar sunar.
 
-Leading the way is the **Unit Master’s program**, a curated global network featuring successful entrepreneurs, investors, and founders who have made significant positive impacts in cryptography and blockchain. This program offers a unique learning experience, allowing participants to apply their knowledge in real-time rather than merely studying theory.
+Öncülük eden **Unit Yüksek Lisans programı**, kriptografi ve blockchain alanlarında önemli pozitif etkiler yaratmış başarılı girişimciler, yatırımcılar ve kurucuları içeren özenle seçilmiş bir küresel ağı sunmaktadır. Bu program, katılımcıların teoriyi yalnızca öğrenmek yerine bilgilerini gerçek zamanlı olarak uygulamalarına olanak tanıyan benzersiz bir öğrenme deneyimi sunar.
 
-## Unit Masters Program
+## Unit Yüksek Lisans Programı
 
-- **Unlock the Future of Wealth Creation & Economics**: Gain insights into managing wealth creation for personal and community growth.
-- **Explore the Power of Blockchain Possibilities**: Learn about blockchain technology, decentralized systems, governance, tokens, cryptocurrencies, and the future of economies.
-- **Engage in Bi-Weekly Mentorship Sessions with Industry Leaders**: Benefit from two live speaker sessions per week led by influential figures in disruptive tech and ethical community building.
-- **Connect with Like-Minded Individuals**: Network with fellow participants, set up your wallet, and build your brand or business on the Unit platform.
+- **Wealth Creation & Economics'ın Geleceğini Açığa Çıkarın**: Kişisel ve toplumsal büyüme için varlık oluşturmayı yönetme konusunda içgörüler kazanın.
+- **Blockchain Olasılıklarının Gücünü Keşfedin**: Blockchain teknolojisi, merkezsiz sistemler, yönetim, tokenlar, kripto paralar ve ekonomilerin geleceği hakkında bilgi edinin.
+- **Endüstri Liderleri ile İki Haftada Bir Mentorluk Oturumlarına Katılın**: Kesinti yaratan teknolojide ve etik topluluk oluşturma alanında etkili figürler tarafından yönlendirilen haftada iki canlı konuşma oturumundan faydalanın.
+- **Aynı Düşünen İnsanlarla Bağlantı Kurun**: Diğer katılımcılarla ağ kurun, cüzdanınızı kurun ve Unit platformunda markanızı veya işletmenizi oluşturun.
 
-## Unit Masters Format
+## Unit Yüksek Lisans Formatı
 
-Every two months, our structured 6-week learning program welcomes participants to the new economy. Sign up at [courses.unitmasters.org](https://courses.unitmasters.org).
+Her iki ayda bir, yapılandırılmış 6 haftalık öğrenme programımız katılımcıları yeni ekonomiye hoş geldiniz diyor. [courses.unitmasters.org](https://courses.unitmasters.org) adresinden kaydolun.
 
-**Program Structure:**
+**Program Yapısı:**
 
-1. Self-Paced Online Learning (reflective learning)
-2. Live Mentoring Sessions with Pioneers of the New Economy (inspiration through entrepreneurs)
-3. Structured Crypto-Coaching (guidance from experienced facilitators)
-4. Self-Organized Study Groups (peer mentoring)
+1. Kendi Hızınızda Çevrimiçi Öğrenme (yansıtıcı öğrenme)
+2. Yeni Ekonomi Öncüleri ile Canlı Mentorluk Oturumları (girişimcilerle ilham)
+3. Yapılandırılmış Kripto Koçluk (deneyimli kolaylaştırıcılardan rehberlik)
+4. Kendi Kendine Düzenlenen Çalışma Grupları (akran mentorluk)
 
-**Session Format:**
+**Oturum Formatı:**
 
-- Kickoff (Sunday)
-- Tuesdays: 1-hour Live Mentoring
-- Wednesdays: 1-hour Crypto-Coaching
-- Thursdays: 1-hour Live Mentoring
-- Self-organized: Weekly 30-minute "Study Group"
+- Başlangıç (Pazar)
+- Salılar: 1 saat Canlı Mentorluk
+- Çarşambalar: 1 saat Kripto Koçluk
+- Perşembeler: 1 saat Canlı Mentorluk
+- Kendi Kendine Düzenlenen: Haftada bir 30 dakikalık "Çalışma Grubu"
 
-**6-Week Curriculum:**
-The self-paced learning includes articles, videos, and multiple-choice quizzes. Weekly reflection assignments on specific themes are discussed in self-organized study groups and Wednesday Crypto-Coaching Sessions.
+**6 Haftalık Müfredat:**
+Kendi hızınızda öğrenme, makaleler, videolar ve çoktan seçmeli quizleri içerir. Haftalık yansıma ödevleri belirli temalar üzerinde tartışılır ve kendine düzenlenen çalışma gruplarında ve Çarşamba Kripto Koçluk Oturumlarında ele alınır.
 
-- Week 1: Decentralization & Internet of Value
-- Week 2: Stakeholders of the New Economy
-- Week 3: Blockchains, Protocols, Incentives Alignment
-- Week 4: Exchanges, DeFi, and NFTs
-- Week 5: Stakeholder Capitalism & Sustainability
-- Week 6: A Token-Driven Economy
+- Hafta 1: Merkezsizleşme & Değer İnterneti
+- Hafta 2: Yeni Ekonomi'nin Paydaşları
+- Hafta 3: Blok Zincirleri, Protokoller, Teşviklerin Uyumlanması
+- Hafta 4: Borsalar, DeFi ve NFT'ler
+- Hafta 5: Paydaş Kapitalizmi & Sürdürülebilirlik
+- Hafta 6: Token Tabanlı Bir Ekonomi
 
-Join Unit Education and embark on a transformative journey into the future of decentralized knowledge and economic paradigms.
+Unit Eğitim'e katılın ve merkezsiz bilgi ve ekonomi paradigmalarının geleceğine dönüştürücü bir yolculuğa çıkın.

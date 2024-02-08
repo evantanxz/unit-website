@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-- Community Guideline
+# Community Guideline
 
 Unit Network Community: Where Respect, Collaboration, and Innovation Unite.
 
