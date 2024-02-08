@@ -10,3 +10,10 @@ Hide color mode toggle in small viewports
     display: none;
   }
 }
+
+.marginLeftAuto {
+  margin-left: auto;
+}
+.marginRightAuto {
+  margin-right: auto;
+}

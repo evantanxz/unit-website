@@ -31,7 +31,13 @@ ${JSON.stringify(item, null, 2)}`,
             )
           }
         >
-          <NavbarItem {...item} />
+          <NavbarItem
+            {...item}
+            className={clsx(
+              i === 0 && styles.marginLeftAuto,
+              i + 1 === items.length && styles.marginRightAuto
+            )}
+          />
         </ErrorCauseBoundary>
       ))}
     </>
