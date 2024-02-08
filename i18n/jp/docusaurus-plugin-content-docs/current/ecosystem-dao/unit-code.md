@@ -2,34 +2,33 @@
 sidebar_position: 4
 ---
 
-# Unit Code
+# ユニットコード
 
-Powering the Future with Blockchain Innovation ($CODE)
+ブロックチェーン革新で未来を支える ($CODE)
 
-Hello World!
+こんにちは、世界！
 
-Embark on a journey with Unit Code, dedicated to elevating the foundation of Unit Network through robust and scalable infrastructure.
+頑丈でスケーラブルなインフラストラクチャーを通じて、Unit Network の基盤を高めることに専念するユニットコードとの旅に乗り出しましょう。
 
-Beyond this, Unit Code is a trailblazer in crafting innovative applications, offering expert blockchain development and decentralized application (dApp) building services.
+さらに、ユニットコードは革新的なアプリケーションを作成するパイオニアであり、専門のブロックチェーン開発および分散型アプリケーション（dApp）構築サービスを提供しています。
 
-Our specialization lies in two key areas:
+私たちの専門分野は、次の 2 つの分野にあります。
 
-1. Unit Core Infrastructure Development
-2. Unit Application Development
+1. ユニットコアインフラストラクチャーの開発
+2. ユニットアプリケーションの開発
 
-Experience the future of technology with Unit Code—where innovation meets excellence.
+ユニットコードで技術の未来を体験してください。ここでは、革新が卓越性と出会います。
 
-## Why Choose Unit Code?
+## ユニットコードを選ぶ理由は？
 
-Elevate Your Development Experience with Unit Code.
+ユニットコードで開発体験を高めてください。
 
-Discover the unparalleled advantages of partnering with Unit Code for your blockchain and app development needs. Our accomplished teams specialize in:
+ブロックチェーンおよびアプリケーション開発ニーズに関するパートナーシップをユニットコードと選択することの類まれな利点を発見してください。私たちの熟練したチームは次の分野に特化しています。
 
-1. Smart contract development
-2. Cryptographic security
-3. Efficient blockchain architecture design
-4. User interface and experience design
-5. Full-stack development
+1. スマートコントラクトの開発
+2. 暗号セキュリティ
+3. 効率的なブロックチェーンアーキテクチャの設計
+4. ユーザーインターフェースとエクスペリエンスのデザイン
+5. フルスタック開発
 
-With expertise in these critical areas, we assure the creation of highly functional, secure, and user-friendly blockchain applications.
-Choose Unit Code for a development journey marked by excellence, making a substantial impact on the evolution of decentralized financial services.
+これらの重要な分野の専門知識を持っていることで、高機能で安全で使いやすいブロックチェーンアプリケーションの作成を保証します。ブロックチェーンサービスの進化に重要な影響を与える卓越性を持つ開発の旅には、ユニットコードを選択してください。
