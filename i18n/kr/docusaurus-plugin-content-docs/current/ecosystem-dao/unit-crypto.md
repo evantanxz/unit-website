@@ -2,69 +2,65 @@
 sidebar_position: 6
 ---
 
-# Unit Crypto
+# 유닛 크립토
 
-Navigating the Future of Decentralized Financial Frontiers
+분산형 금융의 미래를 탐색합니다
 
-## Unleash the Potential of Crypto with Unit Crypto!
+## 유닛 크립토와 함께 암호화폐의 잠재력을 발휘하세요!
 
-Unit Crypto, a dynamic DAO, is dedicated to forming strategic partnerships and seamlessly integrating various crypto communities, including Bitcoin, Ethereum, Polkadot, and more, into the Unit Network.
+유닛 크립토는 전략적 파트너십 형성과 비트코인, 이더리움, 폴카닷 등 다양한 암호화폐 커뮤니티를 유닛 네트워크로 원활하게 통합하는 데 전념하는 역동적인 DAO입니다.
 
-Our mission is to elevate connectivity and interoperability among diverse crypto ecosystems.
+우리의 미션은 다양한 암호화폐 생태계 간의 연결성과 상호 운용성을 높이는 것입니다.
 
-Leveraging Unit Network's robust tokenization and decentralized financial features, Unit Crypto unlocks and amplifies the intrinsic value of diverse crypto assets.
+유닛 네트워크의 견고한 토큰화 및 분산형 금융 기능을 활용하여 유닛 크립토는 다양한 암호화폐 자산의 내재적 가치를 발휘하고 증폭시킵니다.
 
-Positioned as a bridge, Unit Crypto facilitates the seamless integration and mutual benefit of different blockchain networks within the Unit Network framework, creating a unified and thriving crypto ecosystem.
+유닛 크립토는 다른 블록체인 네트워크를 유닛 네트워크 프레임워크 내에 원활하게 통합하고 상호 이익을 도모하는 다리 역할을 하여 통합적이고 번영하는 암호화폐 생태계를 만들어 냅니다.
 
-## Engage and Contribute!
+## 참여하고 기여하세요!
 
-For those eager to join Unit Crypto, the first step is to immerse yourself in the Unit Network ecosystem.
+유닛 크립토에 참여하고자 하는 분들은 먼저 유닛 네트워크 생태계에 몰두하는 것이 첫 번째 단계입니다.
 
-Get involved by participating in community discussions, contributing to strategic partnerships, and exploring avenues to integrate your crypto assets or platforms with the Unit Network.
+커뮤니티 토론에 참여하고 전략적 파트너십에 기여하며 암호화폐 자산이나 플랫폼을 유닛 네트워크와 통합하는 방안을 탐색함으로써 참여하세요.
 
-This engagement provides a distinctive opportunity to be at the forefront of blockchain interoperability and decentralized finance.
+이러한 참여는 블록체인 상호 운용성과 분산형 금융의 최전선에 있게 해줍니다.
 
-By collaborating, you'll play a crucial role in enhancing the collective value and functionality of diverse crypto communities.
+협력함으로써, 여러분은 다양한 암호화폐 커뮤니티의 집단 가치와 기능을 향상시키는 데 중요한 역할을 할 것입니다.
 
-Join us in shaping the future of decentralized collaboration and crypto integration!
+우리와 함께 분산형 협력과 암호화폐 통합의 미래를 함께 만들어가세요!
 
-## Discover the Interconnected World of Unit Network!
+## 유닛 네트워크의 연결된 세계를 발견하세요!
 
 <br />
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
 
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Reserve Assets</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>예비 자산:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Unlock Stability: Access a range of external stable tokens and assets supported by Unit Network.
+        안정성 해제: 유닛 네트워크에서 지원하는 다양한 외부 안정적인 토큰 및 자산에 접근하세요.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Native Tokens:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>네이티브 토큰:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Explore the Diversity: Discover all the native tokens crafted within the Unit Network ecosystem.
+        다양성 탐색: 유닛 네트워크 생태계 내에서 제작된 모든 네이티브 토큰을 발견하세요.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Network Protocol:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>네이티브 토큰:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Delve Deeper: Explore the intricate details of the Unit Network protocol.
+        깊이 파고들어: 유닛 네트워크 프로토콜의 복잡한 세부 사항을 탐색하세요.
       </p>
     </div>
   </div>
-
 </div>

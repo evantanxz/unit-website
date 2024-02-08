@@ -2,32 +2,31 @@
 sidebar_position: 2
 ---
 
-# Unit Capital
+# 유닛 캐피탈
 
-Shaping the Future of Crypto-Driven Merchant Banking
+암호화폐 주도의 상인 은행의 미래를 형성하다
 
-## Pioneers & Investors
+## 선구자 및 투자자
 
-Unit Capital: Converging Traditional Finance with Crypto Innovation
+유닛 캐피탈: 전통 금융과 암호화 혁신의 융합
 
-Unit Capital functions as a crypto-based merchant bank and investment DAO, specializing in fundraising, capital allocation, and the digitization of real-world assets (RWAs) through tokenization.
+유닛 캐피탈은 암호화폐 기반의 상인 은행 및 투자 DAO로, 자금 조달, 자본 할당, 및 실제 세계 자산(RWAs)의 디지털화를 통해 전문화되어 있습니다.
 
-Our role is pivotal in guiding and supporting diverse projects within the crypto space, with a particular emphasis on financial structuring and strategic token deployment.
-Embark on this journey with us as we navigate the crossroads of traditional finance and crypto innovation.
+우리의 역할은 특히 금융 구조화와 전략적 토큰 배포에 중점을 두며, 암호 공간 내에서 다양한 프로젝트를 지원하고 지원하는 것입니다. 전통 금융과 암호화 혁신의 교차로를 탐험하는 동안 우리와 함께 이 여정을 시작하십시오.
 
-## Unlocking Effortless Finance in the Crypto Frontier
+## 암호화폐 경계에서 쉬운 금융 해제
 
-Unit Capital takes the lead in simplifying financial processes for individuals and businesses within the crypto space. Our focus is on dismantling complexities and barriers, offering accessible and efficient financial solutions.
+유닛 캐피탈은 암호 공간 내에서 개인 및 기업을 위한 금융 프로세스를 간소화하는 데 선도적인 역할을 합니다. 우리의 초점은 복잡성과 장벽을 해체하여 접근 가능하고 효율적인 금융 솔루션을 제공하는 데 있습니다.
 
-Dedicated to facilitating frictionless transactions and enhancing capital access, Unit Capital seamlessly blends traditional financial necessities with the innovative potential of blockchain technology.
+매끄러운 거래를 촉진하고 자본 접근을 향상시키기 위해 헌신하는 유닛 캐피탈은 전통적인 금융 필요성을 블록체인 기술의 혁신적 잠재력과 완벽하게 조화롭게 섞어줍니다.
 
-Our steadfast commitment ensures that both individual investors and businesses can effortlessly navigate and capitalize on the ever-evolving digital economy.
-Join us on this journey towards a future where financial interactions are streamlined, accessible, and perfectly attuned to the transformative capabilities of blockchain advancements.
+우리의 단호한 약속은 개인 투자자와 기업이 늘 변화하는 디지털 경제에서 매끄럽게 탐험하고 자본을 확보할 수 있도록 보장합니다.
+금융 상호 작용이 스트리밍되고 접근 가능하며 블록체인 진보의 변혁적 능력에 완벽하게 조율된 미래를 향한 이 여정에 우리와 함께하십시오.
 
-## Unlock Your Investment Potential with Unit Capital
+## 유닛 캐피탈로 투자 잠재력 해제
 
-Unit Capital is set to launch applications for fundraising and investment opportunities, creating a platform for businesses and individuals to actively participate in capital raising activities.
+유닛 캐피탈은 자금 조달 및 투자 기회에 대한 신청을 시작할 예정이며, 기업과 개인이 자금 조달 활동에 적극적으로 참여할 수 있는 플랫폼을 만듭니다.
 
-This groundbreaking initiative harnesses the power of blockchain technology, offering a transformative experience in democratizing access to investment and funding.
-By making these opportunities more accessible, Unit Capital is paving the way for a broader audience to engage in the dynamic landscape of the crypto ecosystem.
-Prepare to embark on your investment journey with Unit Capital.
+이 뚜렷한 이니셔티브는 블록체인 기술의 힘을 활용하여 투자와 자금 조달에 대한 접근을 민주화하는 변혁적 경험을 제공합니다.
+이러한 기회를 더 접근 가능하게 만들어 유닛 캐피탈은 암호 생태계의 다이내믹한 풍경에 대중화의 길을 열고 있습니다.
+유닛 캐피탈과 함께 투자 여정을 준비하십시오.

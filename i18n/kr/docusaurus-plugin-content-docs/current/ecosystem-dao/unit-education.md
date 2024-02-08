@@ -2,50 +2,50 @@
 sidebar_position: 7
 ---
 
-# Unit Education
+# 유닛 교육
 
-Breaking Barriers, Building Knowledge:
+장벽을 허물고 지식을 쌓습니다:
 
-## Unleashing the Power of Blockchain Education with $EDUCATION
+## $EDUCATION으로 블록체인 교육의 힘을 발휘하세요
 
-Unit Education is a visionary initiative designed to inspire, educate, and connect pioneers exploring alternative economies. Our platform offers a range of courses aimed at building blockchain literacy, breaking down barriers to entry, and providing a compact, effective learning resource equipped with all the necessary tools to embark on your journey into the world of Web3.
+유닛 교육은 대안적 경제를 탐구하는 선구자들을 영감을 주고 교육하며 연결하기 위해 설계된 환상적인 이니셔티브입니다. 우리의 플랫폼은 블록체인 리터러시를 구축하고 진입 장벽을 허물고 Web3 세계로의 여정에 필요한 모든 도구를 갖춘 간결하고 효과적인 학습 자원을 제공하는 다양한 코스를 제공합니다.
 
-Leading the way is the **Unit Master’s program**, a curated global network featuring successful entrepreneurs, investors, and founders who have made significant positive impacts in cryptography and blockchain. This program offers a unique learning experience, allowing participants to apply their knowledge in real-time rather than merely studying theory.
+선도하는 것은 **Unit Master's 프로그램**으로, 성공적인 기업가, 투자자 및 창립자들이 암호화폐와 블록체인에 상당한 긍정적인 영향을 끼친 세계적인 네트워크로 구성된 선별된 글로벌 네트워크입니다. 이 프로그램은 이론을 공부하는 것이 아닌 참가자들이 실시간으로 지식을 적용할 수 있는 독특한 학습 경험을 제공합니다.
 
-## Unit Masters Program
+## Unit Masters 프로그램
 
-- **Unlock the Future of Wealth Creation & Economics**: Gain insights into managing wealth creation for personal and community growth.
-- **Explore the Power of Blockchain Possibilities**: Learn about blockchain technology, decentralized systems, governance, tokens, cryptocurrencies, and the future of economies.
-- **Engage in Bi-Weekly Mentorship Sessions with Industry Leaders**: Benefit from two live speaker sessions per week led by influential figures in disruptive tech and ethical community building.
-- **Connect with Like-Minded Individuals**: Network with fellow participants, set up your wallet, and build your brand or business on the Unit platform.
+- **재산 창출 및 경제의 미래 해제**: 개인 및 커뮤니티 성장을 위한 재산 창출에 대한 통찰력을 얻으세요.
+- **블록체인 가능성의 탐색**: 블록체인 기술, 분산형 시스템, 거버넌스, 토큰, 암호화폐 및 경제의 미래에 대해 알아보세요.
+- **산업 리더들의 매주 멘토링 세션 참여**: 파괴적인 기술과 윤리적 커뮤니티 구축에 영향력 있는 인물들이 이끄는 매주 두 번의 라이브 스피커 세션을 통해 혜택을 누리세요.
+- **유사한 생각을 가진 사람들과 연결**: 참가자들과 네트워킹을 하고 지갑을 설정하며 Unit 플랫폼에서 브랜드나 비즈니스를 구축하세요.
 
-## Unit Masters Format
+## Unit Masters 형식
 
-Every two months, our structured 6-week learning program welcomes participants to the new economy. Sign up at [courses.unitmasters.org](https://courses.unitmasters.org).
+매 두 달마다 6주 동안 진행되는 구조화된 학습 프로그램에서 새로운 경제로의 여행을 환영합니다. [courses.unitmasters.org](https://courses.unitmasters.org)에서 등록하세요.
 
-**Program Structure:**
+**프로그램 구조:**
 
-1. Self-Paced Online Learning (reflective learning)
-2. Live Mentoring Sessions with Pioneers of the New Economy (inspiration through entrepreneurs)
-3. Structured Crypto-Coaching (guidance from experienced facilitators)
-4. Self-Organized Study Groups (peer mentoring)
+1. 자가 진행 온라인 학습 (반영적 학습)
+2. 새로운 경제의 선구자들과의 라이브 멘토링 세션 (기업가들을 통한 영감)
+3. 구조화된 암호화 코칭 (경험 많은 전문가들로부터의 안내)
+4. 자기 조직화된 스터디 그룹 (동료 멘토링)
 
-**Session Format:**
+**세션 형식:**
 
-- Kickoff (Sunday)
-- Tuesdays: 1-hour Live Mentoring
-- Wednesdays: 1-hour Crypto-Coaching
-- Thursdays: 1-hour Live Mentoring
-- Self-organized: Weekly 30-minute "Study Group"
+- 킥오프 (일요일)
+- 화요일: 1시간 라이브 멘토링
+- 수요일: 1시간 암호화 코칭
+- 목요일: 1시간 라이브 멘토링
+- 자기 조직화된: 매주 30분 "스터디 그룹"
 
-**6-Week Curriculum:**
-The self-paced learning includes articles, videos, and multiple-choice quizzes. Weekly reflection assignments on specific themes are discussed in self-organized study groups and Wednesday Crypto-Coaching Sessions.
+**6주간 커리큘럼:**
+자가 진행 학습에는 기사, 비디오 및 객관식 퀴즈가 포함됩니다. 주제별 주간 반영 과제는 스스로 조직화된 스터디 그룹 및 수요일 암호화 코칭 세션에서 논의됩니다.
 
-- Week 1: Decentralization & Internet of Value
-- Week 2: Stakeholders of the New Economy
-- Week 3: Blockchains, Protocols, Incentives Alignment
-- Week 4: Exchanges, DeFi, and NFTs
-- Week 5: Stakeholder Capitalism & Sustainability
-- Week 6: A Token-Driven Economy
+- 1주차: 분산화 및 가치 인터넷
+- 2주차: 새로운 경제의 이해관계자들
+- 3주차: 블록체인, 프로토콜, 인센티브 정렬
+- 4주차: 거래소, 디파이 및 NFT
+- 5주차: 이해관계자 자본주의 및 지속 가능성
+- 6주차: 토큰 주도 경제
 
-Join Unit Education and embark on a transformative journey into the future of decentralized knowledge and economic paradigms.
+유닛 교육에 참여하여 분산 지식과 경제 패러다임의 미래로의 변혁적인 여정에 참여하세요.

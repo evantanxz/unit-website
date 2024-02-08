@@ -2,34 +2,34 @@
 sidebar_position: 4
 ---
 
-# Unit Code
+# 유닛 코드
 
-Powering the Future with Blockchain Innovation ($CODE)
+블록체인 혁신으로 미래를 주도하다 ($CODE)
 
-Hello World!
+안녕, 세상아!
 
-Embark on a journey with Unit Code, dedicated to elevating the foundation of Unit Network through robust and scalable infrastructure.
+강력하고 확장 가능한 인프라를 통해 유닛 네트워크의 기초를 높이는 데 전념하는 유닛 코드와 함께 여정을 떠나보세요.
 
-Beyond this, Unit Code is a trailblazer in crafting innovative applications, offering expert blockchain development and decentralized application (dApp) building services.
+이를 넘어서, 유닛 코드는 혁신적인 애플리케이션을 개발하는 선구자로, 전문적인 블록체인 개발 및 탈중앙화 애플리케이션 (dApp) 구축 서비스를 제공합니다.
 
-Our specialization lies in two key areas:
+우리의 전문 분야는 두 가지입니다:
 
-1. Unit Core Infrastructure Development
-2. Unit Application Development
+1. 유닛 코어 인프라 개발
+2. 유닛 애플리케이션 개발
 
-Experience the future of technology with Unit Code—where innovation meets excellence.
+유닛 코드와 함께 기술의 미래를 경험하세요 — 혁신이 뛰어남을 만나는 곳입니다.
 
-## Why Choose Unit Code?
+## 왜 유닛 코드를 선택해야 하는가?
 
-Elevate Your Development Experience with Unit Code.
+유닛 코드와 함께 개발 경험을 높이세요.
 
-Discover the unparalleled advantages of partnering with Unit Code for your blockchain and app development needs. Our accomplished teams specialize in:
+블록체인 및 앱 개발 요구 사항에 대한 파트너로서 유닛 코드를 선택하는 것의 비할 데 없는 장점을 발견하세요. 우리의 숙련된 팀은 다음에 특화되어 있습니다:
 
-1. Smart contract development
-2. Cryptographic security
-3. Efficient blockchain architecture design
-4. User interface and experience design
-5. Full-stack development
+1. 스마트 계약 개발
+2. 암호 보안
+3. 효율적인 블록체인 아키텍처 설계
+4. 사용자 인터페이스 및 경험 설계
+5. 풀 스택 개발
 
-With expertise in these critical areas, we assure the creation of highly functional, secure, and user-friendly blockchain applications.
-Choose Unit Code for a development journey marked by excellence, making a substantial impact on the evolution of decentralized financial services.
+이러한 중요한 영역에서의 전문 지식으로 우리는 고도로 기능적이고 안전하며 사용자 친화적인 블록체인 애플리케이션을 만들어 드립니다.
+유닛 코드를 선택하여 혁신을 통한 분산형 금융 서비스의 진화에 상당한 영향을 미치는 개발 여정을 떠나보세요.

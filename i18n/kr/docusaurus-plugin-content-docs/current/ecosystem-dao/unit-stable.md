@@ -2,76 +2,71 @@
 sidebar_position: 12
 ---
 
-# Unit Stable
+# 유닛 스테이블
 
-Bridging the Gap to Modernize Finance
+금융 현대화를 위한 간극을 줄이는 중심
 
-## Connecting the Dots: Unit Stable Forges Partnerships Across Fiat, Stable Token, and Banking Communities
+## 접점 연결: 피아트, 스테이블 토큰 및 은행 커뮤니티 간의 파트너십 구축
 
-Unit Stable has a strategic focus on building robust partnerships and seamlessly integrating stable tokens, fiat currencies, and banking communities into the expansive Unit Network ecosystem.
+유닛 스테이블은 강력한 파트너십을 구축하고 스테이블 토큰, 피아트 통화 및 은행 커뮤니티를 확장된 유닛 네트워크 생태계로 원활하게 통합하는 데 전략적으로 중점을 둡니다.
 
-Our mission is to usher in a new era of finance by modernizing traditional financial sectors, harnessing the advanced tokenization, and decentralized financial features of Unit Network.
+우리의 임무는 전통적인 금융 부문을 현대화하고 유닛 네트워크의 고급 토큰화 및 탈중앙화된 금융 기능을 활용하여 금융의 새로운 시대를 열어가는 것입니다.
 
-Through this initiative, Unit Stable aims to unlock the latent potential of these financial ecosystems, enhancing liquidity, accessibility, and efficiency.
+이 계획을 통해 유닛 스테이블은 이러한 금융 생태계의 잠재력을 발휘하여 유동성, 접근성 및 효율성을 향상시키고자 합니다.
 
-We serve as a crucial bridge, connecting conventional financial systems with the innovative realm of blockchain technology.
+우리는 기존 금융 시스템과 블록체인 기술의 혁신적인 영역을 연결하는 중요한 다리 역할을 합니다.
 
-## Revolutionizing Tokenization: The Seamless Integration of Fiat and Stable Tokens
+## 토큰화 혁명: 피아트 및 스테이블 토큰의 원활한 통합
 
-Fiat and stable tokens play a pivotal role in the dynamic landscape of tokenization, showcasing one of its most successful use cases.
+피아트 및 스테이블 토큰은 토큰화의 동적인 풍경에서 핵심 역할을 하며, 가장 성공적인 사용 사례 중 하나를 보여줍니다.
 
-Their integration into the blockchain ecosystem acts as a crucial bridge, spanning the gap between traditional and decentralized financial realms.
+그들의 블록체인 생태계 통합은 전통적인 및 탈중앙화된 금융 영역 간의 간극을 메우는 중요한 다리로 작용합니다.
 
-This collaboration is fundamental for the flourishing token economy, merging the stability and widespread acceptance of fiat currencies with the innovation and efficiency of blockchain technology.
+이러한 협력은 번영하는 토큰 경제를 위한 기본적인 요소로서, 피아트 통화의 안정성과 보급 가능성을 블록체인 기술의 혁신성과 효율성과 결합합니다.
 
-Such cooperative efforts promote broader acceptance and utility of tokenized assets, paving the way for a more inclusive and evolved financial system.
+이러한 협력은 토큰화된 자산의 보다 폭넓은 수용과 유틸리티를 촉진하여 더 포괄적이고 진화된 금융 시스템으로 가는 길을 열어줍니다.
 
-## Ignite Change: Join Unit Stable on Its Mission
+## 변화를 일으키다: 유닛 스테이블의 미션에 참여하세요
 
-Unit Stable extends a warm invitation to leaders in the financial, banking, and crypto sectors to actively participate in our transformative mission.
+유닛 스테이블은 금융, 은행 및 암호화 부문의 지도자들을 우리의 혁신적인 미션에 적극 참여하도록 따뜻하게 초대합니다.
 
-Your engagement and involvement can play a pivotal role in shaping the future of the token economy.
+귀하의 참여와 참여는 전통적인 금융에서 탈중앙화된 금융으로의 원활한 전환에서 중요한 역할을 할 수 있습니다.
 
-By contributing your expertise and insights, you become a catalyst for a seamless transition from traditional to decentralized finance, fostering innovation and inclusivity in the financial landscape.
+귀하의 전문 지식과 통찰력을 기여함으로써 전통적인 금융에서 탈중앙화된 금융으로의 원활한 전환에 활성화제가 되어, 금융 현장에서 혁신과 포용성을 촉진할 수 있습니다.
 
-Be the change you want to see – Join Unit Stable today.
+당신이 보고 싶어하는 변화가 되어 주세요 - 지금 유닛 스테이블에 참여하세요.
 
-Explore Unit Network's Supported Stable Tokens
+Unit Network에서 지원하는 안정적인 토큰 살펴보기
 
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Stable Tokens</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Stable Tokens:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
         Native Stability: Discover Transparent, Crypto-Backed Tokens by Unit Network
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Reserve Assets</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Reserve Assets:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
         Unlock Stability: Access a range of external stable tokens and assets supported by Unit Network.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Native Tokens:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Native Tokens:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
         Explore the Diversity: Discover all the native tokens crafted within the Unit Network ecosystem.
       </p>
     </div>
   </div>
-
 </div>

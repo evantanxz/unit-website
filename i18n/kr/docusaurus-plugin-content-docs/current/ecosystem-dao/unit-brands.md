@@ -2,87 +2,49 @@
 sidebar_position: 1
 ---
 
-# Unit Brands
+# 유닛 브랜드
 
-A Journey of Exclusivity and Curiosity
+독점성과 호기심의 여정
 
-## Vision
+## 비전
 
-Unit Brands epitomizes a philosophy and culture rooted in exclusivity and curiosity. As a DAO (Decentralized Autonomous Organization) crafted for global visionaries, it orchestrates extraordinary spaces enriched with art, culture, and immersive community experiences. The curation of memberships transcends conventional metrics, driven by captivating stories and world-changing visions. Unit Brands nurtures an environment conducive to discovery and transformation, magnetizing individuals who continuously reimagine their surroundings.
+유닛 브랜드는 독점성과 호기심에 뿌리를 둔 철학과 문화를 구현합니다. 글로벌 비전을 위해 디자인된 DAO(분산 자율 조직)로, 예술, 문화 및 몰입형 커뮤니티 경험으로 풍부한 특별한 공간을 조성합니다. 멤버십의 선별은 매혹적인 이야기와 세계를 변화시키는 비전에 의해 이끌리며, 발견과 변혁을 촉진하는 환경을 육성합니다. 지속적으로 주변을 재상상하는 개인들을 자선하는데 있어서 자선적인 환경을 육성합니다.
 
-## Unit Brand Dynamics: Navigating the Essence of Exclusivity within the Unit Network Ecosystem
+## 유닛 브랜드 역동성: 유닛 네트워크 생태계 내에서 독점성의 본질을 탐색하기
 
-Nestled within the Unit Network, Unit Brands is a dedicated curator of exclusive and boutique experiences. What sets it apart is its unique structural approach, where each brand under its umbrella operates as an independent entity. The Unit Brand team takes on the responsibility of overseeing the organization and management of these distinct brands, thereby fostering diversity and exclusivity in their offerings. This distinctive structural model not only ensures autonomy for each brand but also paves the way for a rich tapestry of unique experiences. Meticulously tailored to cater to the refined tastes of discerning members, these experiences embody the essence of exclusivity, offering a platform where creativity and diversity converge seamlessly within the Unit Network ecosystem.
+유닛 네트워크 내에 위치한 유닛 브랜드는 독점적이고 부티크 경험을 전문으로 하는 공간의 전문 큐레이터입니다. 이것이 다른 점은 각 브랜드가 독립적인 개체로 작동하는 고유한 구조적 접근 방식입니다. 유닛 브랜드 팀은 이러한 독특한 브랜드의 조직 및 관리를 감독하는 책임을 맡아 이들의 제공물에 다양성과 독점성을 육성합니다. 이 독특한 구조적 모델은 각 브랜드에 대한 자율성 뿐만 아니라 독특한 경험의 풍부한 미래를 열어줍니다. 세련된 회원들의 세련된 취향을 충족시키기 위해 세심하게 제작된 이 경험들은 독점성의 본질을 구현하며, 유닛 네트워크 생태계 내에서 창의성과 다양성이 원활하게 융합되는 플랫폼을 제공합니다.
 
 <br />
 
-<!-- <div class="card-demo" style={{ display: 'flex', flexDirection: 'row'}}>
-  <div class="card" style={{ marginRight: '16px', width: '33.33%', textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Embassy</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>유닛 엠베시:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Exclusive Co-living Creative Hubs Worldwide
+        전 세계적으로 독점적인 콜리빙 크리에이티브 허브
       </p>
     </div>
   </div>
-  <div class="card" style={{ marginRight: '16px', width: '33.33%', textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Stays</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>유닛 스테이:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Extended Stays in Global Financial Hubs
+        글로벌 금융 중심지에서의 장기 체류
       </p>
     </div>
   </div>
-  <div class="card" style={{ textAlign: 'center', width: '33.33%'}}>
-    <div class="card__header">
-      <h3>Unit Awards</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>유닛 어워드:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Recognizing Excellence in Exceptional Projects and Unit Network Users
+        우수한 프로젝트와 유닛 네트워크 사용자를 인정하는 어워드
       </p>
     </div>
   </div>
-</div> -->
-
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Unit Embassy</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Exclusive Co-living Creative Hubs Worldwide
-      </p>
-    </div>
-  </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Unit Stays</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Extended Stays in Global Financial Hubs
-      </p>
-    </div>
-  </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Awards</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Recognizing Excellence in Exceptional Projects and Unit Network Users
-      </p>
-    </div>
-  </div>
-
 </div>
