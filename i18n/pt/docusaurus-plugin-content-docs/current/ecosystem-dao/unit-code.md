@@ -2,34 +2,34 @@
 sidebar_position: 4
 ---
 
-# Unit Code
+# Unidade de Código
 
-Powering the Future with Blockchain Innovation ($CODE)
+Impulsionando o Futuro com Inovação em Blockchain ($CODE)
 
-Hello World!
+Olá Mundo!
 
-Embark on a journey with Unit Code, dedicated to elevating the foundation of Unit Network through robust and scalable infrastructure.
+Embarque em uma jornada com a Unidade de Código, dedicada a elevar os alicerces da Rede da Unidade por meio de uma infraestrutura robusta e escalável.
 
-Beyond this, Unit Code is a trailblazer in crafting innovative applications, offering expert blockchain development and decentralized application (dApp) building services.
+Além disso, a Unidade de Código é uma pioneira na criação de aplicativos inovadores, oferecendo serviços especializados em desenvolvimento de blockchain e construção de aplicativos descentralizados (dApps).
 
-Our specialization lies in two key areas:
+Nossa especialização está em duas áreas-chave:
 
-1. Unit Core Infrastructure Development
-2. Unit Application Development
+1. Desenvolvimento de Infraestrutura do Núcleo da Unidade
+2. Desenvolvimento de Aplicativos da Unidade
 
-Experience the future of technology with Unit Code—where innovation meets excellence.
+Experimente o futuro da tecnologia com a Unidade de Código, onde a inovação encontra a excelência.
 
-## Why Choose Unit Code?
+## Por que Escolher a Unidade de Código?
 
-Elevate Your Development Experience with Unit Code.
+Eleve sua Experiência de Desenvolvimento com a Unidade de Código.
 
-Discover the unparalleled advantages of partnering with Unit Code for your blockchain and app development needs. Our accomplished teams specialize in:
+Descubra as vantagens incomparáveis de se associar à Unidade de Código para suas necessidades de desenvolvimento de blockchain e aplicativos. Nossas equipes experientes são especializadas em:
 
-1. Smart contract development
-2. Cryptographic security
-3. Efficient blockchain architecture design
-4. User interface and experience design
-5. Full-stack development
+1. Desenvolvimento de contratos inteligentes
+2. Segurança criptográfica
+3. Design eficiente de arquitetura blockchain
+4. Design de interface e experiência do usuário
+5. Desenvolvimento full-stack
 
-With expertise in these critical areas, we assure the creation of highly functional, secure, and user-friendly blockchain applications.
-Choose Unit Code for a development journey marked by excellence, making a substantial impact on the evolution of decentralized financial services.
+Com expertise nessas áreas críticas, garantimos a criação de aplicativos blockchain altamente funcionais, seguros e fáceis de usar.
+Escolha a Unidade de Código para uma jornada de desenvolvimento marcada pela excelência, causando um impacto substancial na evolução dos serviços financeiros descentralizados.

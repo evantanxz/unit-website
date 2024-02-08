@@ -2,87 +2,49 @@
 sidebar_position: 1
 ---
 
-# Unit Brands
+# Marcas da Unit
 
-A Journey of Exclusivity and Curiosity
+Uma Jornada de Exclusividade e Curiosidade
 
-## Vision
+## Visão
 
-Unit Brands epitomizes a philosophy and culture rooted in exclusivity and curiosity. As a DAO (Decentralized Autonomous Organization) crafted for global visionaries, it orchestrates extraordinary spaces enriched with art, culture, and immersive community experiences. The curation of memberships transcends conventional metrics, driven by captivating stories and world-changing visions. Unit Brands nurtures an environment conducive to discovery and transformation, magnetizing individuals who continuously reimagine their surroundings.
+As Marcas da Unit personificam uma filosofia e cultura enraizadas na exclusividade e na curiosidade. Como uma DAO (Organização Autônoma Descentralizada) criada para visionários globais, ela orquestra espaços extraordinários enriquecidos com arte, cultura e experiências imersivas comunitárias. A curadoria de associações transcende métricas convencionais, impulsionada por histórias cativantes e visões que mudam o mundo. As Marcas da Unit cultivam um ambiente propício à descoberta e transformação, magnetizando indivíduos que continuamente reimaginam seus arredores.
 
-## Unit Brand Dynamics: Navigating the Essence of Exclusivity within the Unit Network Ecosystem
+## Dinâmica das Marcas da Unit: Navegando na Essência da Exclusividade dentro do Ecossistema da Rede Unit
 
-Nestled within the Unit Network, Unit Brands is a dedicated curator of exclusive and boutique experiences. What sets it apart is its unique structural approach, where each brand under its umbrella operates as an independent entity. The Unit Brand team takes on the responsibility of overseeing the organization and management of these distinct brands, thereby fostering diversity and exclusivity in their offerings. This distinctive structural model not only ensures autonomy for each brand but also paves the way for a rich tapestry of unique experiences. Meticulously tailored to cater to the refined tastes of discerning members, these experiences embody the essence of exclusivity, offering a platform where creativity and diversity converge seamlessly within the Unit Network ecosystem.
+Aninhadas dentro da Rede Unit, as Marcas da Unit são curadoras dedicadas de experiências exclusivas e boutique. O que as diferencia é sua abordagem estrutural única, onde cada marca sob seu guarda-chuva opera como uma entidade independente. A equipe da Marca da Unit assume a responsabilidade de supervisionar a organização e gestão dessas marcas distintas, promovendo assim a diversidade e exclusividade em suas ofertas. Esse modelo estrutural distintivo não apenas garante autonomia para cada marca, mas também abre caminho para um rico conjunto de experiências únicas. Cuidadosamente adaptadas para atender aos gostos refinados dos membros exigentes, essas experiências incorporam a essência da exclusividade, oferecendo uma plataforma onde criatividade e diversidade convergem perfeitamente dentro do ecossistema da Rede Unit.
 
 <br />
 
-<!-- <div class="card-demo" style={{ display: 'flex', flexDirection: 'row'}}>
-  <div class="card" style={{ marginRight: '16px', width: '33.33%', textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Embassy</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Unit Embassy:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Exclusive Co-living Creative Hubs Worldwide
+        Hubs Criativos Exclusivos de Coabitação em Todo o Mundo
       </p>
     </div>
   </div>
-  <div class="card" style={{ marginRight: '16px', width: '33.33%', textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Stays</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Unit Stays:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Extended Stays in Global Financial Hubs
+        Estadias Prolongadas em Centros Financeiros Globais
       </p>
     </div>
   </div>
-  <div class="card" style={{ textAlign: 'center', width: '33.33%'}}>
-    <div class="card__header">
-      <h3>Unit Awards</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Unit Awards:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Recognizing Excellence in Exceptional Projects and Unit Network Users
+        Reconhecendo a Excelência em Projetos Excepcionais e Usuários da Rede Unit
       </p>
     </div>
   </div>
-</div> -->
-
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Unit Embassy</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Exclusive Co-living Creative Hubs Worldwide
-      </p>
-    </div>
-  </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Unit Stays</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Extended Stays in Global Financial Hubs
-      </p>
-    </div>
-  </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Awards</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Recognizing Excellence in Exceptional Projects and Unit Network Users
-      </p>
-    </div>
-  </div>
-
 </div>

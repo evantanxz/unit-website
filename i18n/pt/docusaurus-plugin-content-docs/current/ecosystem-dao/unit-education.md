@@ -4,48 +4,48 @@ sidebar_position: 7
 
 # Unit Education
 
-Breaking Barriers, Building Knowledge:
+Quebrando Barreiras, Construindo Conhecimento:
 
-## Unleashing the Power of Blockchain Education with $EDUCATION
+## Desencadeando o Poder da Educação em Blockchain com $EDUCATION
 
-Unit Education is a visionary initiative designed to inspire, educate, and connect pioneers exploring alternative economies. Our platform offers a range of courses aimed at building blockchain literacy, breaking down barriers to entry, and providing a compact, effective learning resource equipped with all the necessary tools to embark on your journey into the world of Web3.
+A Unit Education é uma iniciativa visionária projetada para inspirar, educar e conectar pioneiros explorando economias alternativas. Nossa plataforma oferece uma variedade de cursos com o objetivo de construir a literacia em blockchain, derrubar barreiras de entrada e fornecer um recurso de aprendizagem compacto e eficaz equipado com todas as ferramentas necessárias para embarcar em sua jornada para o mundo do Web3.
 
-Leading the way is the **Unit Master’s program**, a curated global network featuring successful entrepreneurs, investors, and founders who have made significant positive impacts in cryptography and blockchain. This program offers a unique learning experience, allowing participants to apply their knowledge in real-time rather than merely studying theory.
+Liderando o caminho está o **Programa de Mestrado da Unit**, uma rede global selecionada que apresenta empreendedores bem-sucedidos, investidores e fundadores que tiveram impactos positivos significativos em criptografia e blockchain. Este programa oferece uma experiência de aprendizagem única, permitindo que os participantes apliquem seu conhecimento em tempo real em vez de apenas estudar teoria.
 
-## Unit Masters Program
+## Programa de Mestrado da Unit
 
-- **Unlock the Future of Wealth Creation & Economics**: Gain insights into managing wealth creation for personal and community growth.
-- **Explore the Power of Blockchain Possibilities**: Learn about blockchain technology, decentralized systems, governance, tokens, cryptocurrencies, and the future of economies.
-- **Engage in Bi-Weekly Mentorship Sessions with Industry Leaders**: Benefit from two live speaker sessions per week led by influential figures in disruptive tech and ethical community building.
-- **Connect with Like-Minded Individuals**: Network with fellow participants, set up your wallet, and build your brand or business on the Unit platform.
+- **Desbloqueie o Futuro da Criação de Riqueza e Economia**: Ganhe insights sobre a gestão da criação de riqueza para crescimento pessoal e comunitário.
+- **Explore o Poder das Possibilidades Blockchain**: Aprenda sobre tecnologia blockchain, sistemas descentralizados, governança, tokens, criptomoedas e o futuro das economias.
+- **Participe de Sessões de Mentoria Quinzenais com Líderes do Setor**: Beneficie-se de duas sessões de palestras ao vivo por semana lideradas por figuras influentes na tecnologia disruptiva e na construção ética da comunidade.
+- **Conecte-se com Indivíduos com os Mesmos Interesses**: Faça networking com outros participantes, configure sua carteira e construa sua marca ou negócio na plataforma da Unit.
 
-## Unit Masters Format
+## Formato do Programa de Mestrado da Unit
 
-Every two months, our structured 6-week learning program welcomes participants to the new economy. Sign up at [courses.unitmasters.org](https://courses.unitmasters.org).
+A cada dois meses, nosso programa estruturado de aprendizagem de 6 semanas dá as boas-vindas aos participantes para a nova economia. Inscreva-se em [courses.unitmasters.org](https://courses.unitmasters.org).
 
-**Program Structure:**
+**Estrutura do Programa:**
 
-1. Self-Paced Online Learning (reflective learning)
-2. Live Mentoring Sessions with Pioneers of the New Economy (inspiration through entrepreneurs)
-3. Structured Crypto-Coaching (guidance from experienced facilitators)
-4. Self-Organized Study Groups (peer mentoring)
+1. Aprendizado Online Autoguiado (aprendizado reflexivo)
+2. Sessões de Mentoria ao Vivo com Pioneiros da Nova Economia (inspiração através de empreendedores)
+3. Crypto-Coaching Estruturado (orientação de facilitadores experientes)
+4. Grupos de Estudo Autogerenciados (mentoria entre pares)
 
-**Session Format:**
+**Formato das Sessões:**
 
-- Kickoff (Sunday)
-- Tuesdays: 1-hour Live Mentoring
-- Wednesdays: 1-hour Crypto-Coaching
-- Thursdays: 1-hour Live Mentoring
-- Self-organized: Weekly 30-minute "Study Group"
+- Início (Domingo)
+- Terças-feiras: 1 hora de Mentoria ao Vivo
+- Quartas-feiras: 1 hora de Crypto-Coaching
+- Quintas-feiras: 1 hora de Mentoria ao Vivo
+- Autogerenciado: 30 minutos semanais de "Grupo de Estudo"
 
-**6-Week Curriculum:**
-The self-paced learning includes articles, videos, and multiple-choice quizzes. Weekly reflection assignments on specific themes are discussed in self-organized study groups and Wednesday Crypto-Coaching Sessions.
+**Currículo de 6 Semanas:**
+O aprendizado autoguiado inclui artigos, vídeos e questionários de múltipla escolha. As atribuições semanais de reflexão sobre temas específicos são discutidas em grupos de estudo autogerenciados e nas Sessões de Crypto-Coaching de quarta-feira.
 
-- Week 1: Decentralization & Internet of Value
-- Week 2: Stakeholders of the New Economy
-- Week 3: Blockchains, Protocols, Incentives Alignment
-- Week 4: Exchanges, DeFi, and NFTs
-- Week 5: Stakeholder Capitalism & Sustainability
-- Week 6: A Token-Driven Economy
+- Semana 1: Descentralização & Internet de Valor
+- Semana 2: Stakeholders da Nova Economia
+- Semana 3: Blockchains, Protocolos, Alinhamento de Incentivos
+- Semana 4: Exchanges, DeFi e NFTs
+- Semana 5: Capitalismo de Stakeholders & Sustentabilidade
+- Semana 6: Uma Economia Impulsionada por Tokens
 
-Join Unit Education and embark on a transformative journey into the future of decentralized knowledge and economic paradigms.
+Junte-se à Unit Education e embarque em uma jornada transformadora para o futuro do conhecimento descentralizado e paradigmas econômicos.
