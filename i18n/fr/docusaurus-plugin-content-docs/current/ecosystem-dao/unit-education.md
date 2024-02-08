@@ -2,50 +2,50 @@
 sidebar_position: 7
 ---
 
-# Unit Education
+# Unit Éducation
 
-Breaking Barriers, Building Knowledge:
+Abattre les Barrières, Construire le Savoir :
 
-## Unleashing the Power of Blockchain Education with $EDUCATION
+## Libérer le Pouvoir de l'Éducation Blockchain avec $EDUCATION
 
-Unit Education is a visionary initiative designed to inspire, educate, and connect pioneers exploring alternative economies. Our platform offers a range of courses aimed at building blockchain literacy, breaking down barriers to entry, and providing a compact, effective learning resource equipped with all the necessary tools to embark on your journey into the world of Web3.
+Unit Éducation est une initiative visionnaire conçue pour inspirer, éduquer et connecter les pionniers explorant les économies alternatives. Notre plateforme propose une gamme de cours visant à développer la culture blockchain, à abattre les barrières à l'entrée et à fournir une ressource d'apprentissage compacte et efficace équipée de tous les outils nécessaires pour se lancer dans votre voyage dans le monde de Web3.
 
-Leading the way is the **Unit Master’s program**, a curated global network featuring successful entrepreneurs, investors, and founders who have made significant positive impacts in cryptography and blockchain. This program offers a unique learning experience, allowing participants to apply their knowledge in real-time rather than merely studying theory.
+Prenant la tête est le **programme Unit Masters**, un réseau mondial sélectionné mettant en vedette des entrepreneurs, investisseurs et fondateurs à succès ayant eu un impact positif significatif en cryptographie et blockchain. Ce programme offre une expérience d'apprentissage unique, permettant aux participants d'appliquer leurs connaissances en temps réel plutôt que d'étudier simplement la théorie.
 
-## Unit Masters Program
+## Programme Unit Masters
 
-- **Unlock the Future of Wealth Creation & Economics**: Gain insights into managing wealth creation for personal and community growth.
-- **Explore the Power of Blockchain Possibilities**: Learn about blockchain technology, decentralized systems, governance, tokens, cryptocurrencies, and the future of economies.
-- **Engage in Bi-Weekly Mentorship Sessions with Industry Leaders**: Benefit from two live speaker sessions per week led by influential figures in disruptive tech and ethical community building.
-- **Connect with Like-Minded Individuals**: Network with fellow participants, set up your wallet, and build your brand or business on the Unit platform.
+- **Débloquez l'Avenir de la Création de Richesse & de l'Économie** : Obtenez des insights sur la gestion de la création de richesse pour la croissance personnelle et communautaire.
+- **Explorez le Pouvoir des Possibilités Blockchain** : Apprenez sur la technologie blockchain, les systèmes décentralisés, la gouvernance, les tokens, les cryptomonnaies et l'avenir des économies.
+- **Participez à des Sessions de Mentorat Bi-Hebdomadaires avec des Leaders de l'Industrie** : Bénéficiez de deux sessions de conférenciers en direct par semaine dirigées par des figures influentes de la technologie disruptive et de la construction communautaire éthique.
+- **Connectez-vous avec des Individus Partageant les Mêmes Idées** : Réseautez avec d'autres participants, configurez votre portefeuille et développez votre marque ou entreprise sur la plateforme Unit.
 
-## Unit Masters Format
+## Format du Programme Unit Masters
 
-Every two months, our structured 6-week learning program welcomes participants to the new economy. Sign up at [courses.unitmasters.org](https://courses.unitmasters.org).
+Tous les deux mois, notre programme d'apprentissage structuré sur 6 semaines accueille les participants dans la nouvelle économie. Inscrivez-vous sur [courses.unitmasters.org](https://courses.unitmasters.org).
 
-**Program Structure:**
+**Structure du Programme :**
 
-1. Self-Paced Online Learning (reflective learning)
-2. Live Mentoring Sessions with Pioneers of the New Economy (inspiration through entrepreneurs)
-3. Structured Crypto-Coaching (guidance from experienced facilitators)
-4. Self-Organized Study Groups (peer mentoring)
+1. Apprentissage en Ligne à Votre Propre Rythme (apprentissage réflexif)
+2. Sessions de Mentorat en Direct avec les Pionniers de la Nouvelle Économie (inspiration par les entrepreneurs)
+3. Coaching Crypto Structuré (guidance par des facilitateurs expérimentés)
+4. Groupes d'Étude Auto-Organisés (mentorat entre pairs)
 
-**Session Format:**
+**Format des Sessions :**
 
-- Kickoff (Sunday)
-- Tuesdays: 1-hour Live Mentoring
-- Wednesdays: 1-hour Crypto-Coaching
-- Thursdays: 1-hour Live Mentoring
-- Self-organized: Weekly 30-minute "Study Group"
+- Lancement (dimanche)
+- Mardis : 1 heure de Mentorat en Direct
+- Mercredis : 1 heure de Coaching Crypto
+- Jeudis : 1 heure de Mentorat en Direct
+- Auto-organisé : Réunion Hebdomadaire de 30 minutes "Groupe d'Étude"
 
-**6-Week Curriculum:**
-The self-paced learning includes articles, videos, and multiple-choice quizzes. Weekly reflection assignments on specific themes are discussed in self-organized study groups and Wednesday Crypto-Coaching Sessions.
+**Programme de 6 Semaines :**
+L'apprentissage à votre propre rythme comprend des articles, des vidéos et des questionnaires à choix multiples. Des devoirs de réflexion hebdomadaires sur des thèmes spécifiques sont discutés dans des groupes d'étude auto-organisés et des sessions de coaching crypto du mercredi.
 
-- Week 1: Decentralization & Internet of Value
-- Week 2: Stakeholders of the New Economy
-- Week 3: Blockchains, Protocols, Incentives Alignment
-- Week 4: Exchanges, DeFi, and NFTs
-- Week 5: Stakeholder Capitalism & Sustainability
-- Week 6: A Token-Driven Economy
+- Semaine 1 : Décentralisation & Internet de la Valeur
+- Semaine 2 : Parties Prenantes de la Nouvelle Économie
+- Semaine 3 : Blockchains, Protocoles, Alignement des Incitations
+- Semaine 4 : Échanges, DeFi et NFTs
+- Semaine 5 : Capitalisme des Parties Prenantes & Durabilité
+- Semaine 6 : Une Économie Pilotée par les Tokens
 
-Join Unit Education and embark on a transformative journey into the future of decentralized knowledge and economic paradigms.
+Rejoignez Unit Éducation et embarquez pour un voyage transformateur vers l'avenir des connaissances décentralisées et des paradigmes économiques.

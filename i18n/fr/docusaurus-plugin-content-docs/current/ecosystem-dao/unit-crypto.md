@@ -4,67 +4,63 @@ sidebar_position: 6
 
 # Unit Crypto
 
-Navigating the Future of Decentralized Financial Frontiers
+Naviguer vers l'Avenir des Frontières Financières Décentralisées
 
-## Unleash the Potential of Crypto with Unit Crypto!
+## Libérez le Potentiel des Crypto avec Unit Crypto !
 
-Unit Crypto, a dynamic DAO, is dedicated to forming strategic partnerships and seamlessly integrating various crypto communities, including Bitcoin, Ethereum, Polkadot, and more, into the Unit Network.
+Unit Crypto, un DAO dynamique, est dédié à la formation de partenariats stratégiques et à l'intégration transparente de diverses communautés crypto, y compris Bitcoin, Ethereum, Polkadot, et plus encore, dans le réseau Unit.
 
-Our mission is to elevate connectivity and interoperability among diverse crypto ecosystems.
+Notre mission est d'élever la connectivité et l'interopérabilité parmi les différents écosystèmes crypto.
 
-Leveraging Unit Network's robust tokenization and decentralized financial features, Unit Crypto unlocks and amplifies the intrinsic value of diverse crypto assets.
+En tirant parti de la robustesse de la tokenisation et des fonctionnalités financières décentralisées du réseau Unit, Unit Crypto débloque et amplifie la valeur intrinsèque des divers actifs crypto.
 
-Positioned as a bridge, Unit Crypto facilitates the seamless integration and mutual benefit of different blockchain networks within the Unit Network framework, creating a unified and thriving crypto ecosystem.
+Positionné comme un pont, Unit Crypto facilite l'intégration transparente et le bénéfice mutuel des différents réseaux blockchain au sein du cadre du réseau Unit, créant un écosystème crypto unifié et prospère.
 
-## Engage and Contribute!
+## Engagez-vous et Contribuez !
 
-For those eager to join Unit Crypto, the first step is to immerse yourself in the Unit Network ecosystem.
+Pour ceux qui sont impatients de rejoindre Unit Crypto, la première étape est de vous immerger dans l'écosystème du réseau Unit.
 
-Get involved by participating in community discussions, contributing to strategic partnerships, and exploring avenues to integrate your crypto assets or platforms with the Unit Network.
+Impliquez-vous en participant aux discussions communautaires, en contribuant à des partenariats stratégiques, et en explorant les moyens d'intégrer vos actifs ou plateformes crypto avec le réseau Unit.
 
-This engagement provides a distinctive opportunity to be at the forefront of blockchain interoperability and decentralized finance.
+Cette implication offre une opportunité distinctive d'être à l'avant-garde de l'interopérabilité blockchain et de la finance décentralisée.
 
-By collaborating, you'll play a crucial role in enhancing the collective value and functionality of diverse crypto communities.
+En collaborant, vous jouerez un rôle crucial dans l'amélioration de la valeur collective et de la fonctionnalité des diverses communautés crypto.
 
-Join us in shaping the future of decentralized collaboration and crypto integration!
+Rejoignez-nous pour façonner l'avenir de la collaboration décentralisée et de l'intégration crypto !
 
-## Discover the Interconnected World of Unit Network!
+## Découvrez le Monde Interconnecté du Réseau Unit !
 
 <br />
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
 
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Reserve Assets</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Actifs de Réserve :</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Unlock Stability: Access a range of external stable tokens and assets supported by Unit Network.
+        Débloquez la Stabilité : Accédez à une gamme de tokens stables externes et d'actifs pris en charge par le réseau Unit.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Native Tokens:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Tokens Natifs :</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Explore the Diversity: Discover all the native tokens crafted within the Unit Network ecosystem.
+        Explorez la Diversité : Découvrez tous les tokens natifs créés dans l'écosystème du réseau Unit.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Network Protocol:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Tokens Natifs :</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Delve Deeper: Explore the intricate details of the Unit Network protocol.
+        Plongez plus Profondément : Explorez les détails complexes du protocole du réseau Unit.
       </p>
     </div>
   </div>
-
 </div>
