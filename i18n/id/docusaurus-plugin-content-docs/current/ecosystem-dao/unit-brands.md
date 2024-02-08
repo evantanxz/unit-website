@@ -2,87 +2,49 @@
 sidebar_position: 1
 ---
 
-# Unit Brands
+# Merek Unit
 
-A Journey of Exclusivity and Curiosity
+Perjalanan Keeksklusifan dan Keingintahuan
 
-## Vision
+## Visi
 
-Unit Brands epitomizes a philosophy and culture rooted in exclusivity and curiosity. As a DAO (Decentralized Autonomous Organization) crafted for global visionaries, it orchestrates extraordinary spaces enriched with art, culture, and immersive community experiences. The curation of memberships transcends conventional metrics, driven by captivating stories and world-changing visions. Unit Brands nurtures an environment conducive to discovery and transformation, magnetizing individuals who continuously reimagine their surroundings.
+Unit Brands mencerminkan filosofi dan budaya yang berakar dalam eksklusivitas dan keingintahuan. Sebagai DAO (Organisasi Otonom Terdesentralisasi) yang dirancang untuk para visioner global, ia mengatur ruang-ruang luar biasa yang diperkaya dengan seni, budaya, dan pengalaman komunitas yang mendalam. Kurasi keanggotaan melampaui metrik konvensional, didorong oleh kisah-kisah menarik dan visi-visi yang mengubah dunia. Unit Brands menumbuhkan lingkungan yang kondusif untuk penemuan dan transformasi, menarik individu yang terus-menerus membayangkan ulang sekitar mereka.
 
-## Unit Brand Dynamics: Navigating the Essence of Exclusivity within the Unit Network Ecosystem
+## Dinamika Merek Unit: Menavigasi Essensi Eksklusivitas dalam Ekosistem Jaringan Unit
 
-Nestled within the Unit Network, Unit Brands is a dedicated curator of exclusive and boutique experiences. What sets it apart is its unique structural approach, where each brand under its umbrella operates as an independent entity. The Unit Brand team takes on the responsibility of overseeing the organization and management of these distinct brands, thereby fostering diversity and exclusivity in their offerings. This distinctive structural model not only ensures autonomy for each brand but also paves the way for a rich tapestry of unique experiences. Meticulously tailored to cater to the refined tastes of discerning members, these experiences embody the essence of exclusivity, offering a platform where creativity and diversity converge seamlessly within the Unit Network ecosystem.
+Terbenam dalam Jaringan Unit, Unit Brands adalah kurator eksklusif dan pengalaman butik yang didedikasikan. Yang membedakannya adalah pendekatan struktural yang unik, di mana setiap merek di bawah payungnya beroperasi sebagai entitas independen. Tim Unit Brand bertanggung jawab atas pengawasan dan manajemen merek-merek yang berbeda ini, dengan demikian memupuk keragaman dan eksklusivitas dalam penawarannya. Model struktural yang khas ini tidak hanya menjamin otonomi untuk setiap merek tetapi juga membuka jalan bagi kain kaya pengalaman yang unik. Dengan cermat disesuaikan untuk memenuhi selera yang halus dari anggota yang cerdas, pengalaman-pengalaman ini mencerminkan essensi eksklusivitas, menawarkan platform di mana kreativitas dan keragaman berpadu secara mulus dalam ekosistem Jaringan Unit.
 
 <br />
 
-<!-- <div class="card-demo" style={{ display: 'flex', flexDirection: 'row'}}>
-  <div class="card" style={{ marginRight: '16px', width: '33.33%', textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Embassy</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Unit Embassy:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Exclusive Co-living Creative Hubs Worldwide
+        Hunian Bersama Eksklusif di Seluruh Dunia
       </p>
     </div>
   </div>
-  <div class="card" style={{ marginRight: '16px', width: '33.33%', textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Stays</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Unit Stays:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Extended Stays in Global Financial Hubs
+        Tinggal Extended di Pusat-pusat Keuangan Global
       </p>
     </div>
   </div>
-  <div class="card" style={{ textAlign: 'center', width: '33.33%'}}>
-    <div class="card__header">
-      <h3>Unit Awards</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Unit Awards:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Recognizing Excellence in Exceptional Projects and Unit Network Users
+        Mengakui Keunggulan dalam Proyek-proyek Luar Biasa dan Pengguna Jaringan Unit
       </p>
     </div>
   </div>
-</div> -->
-
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Unit Embassy</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Exclusive Co-living Creative Hubs Worldwide
-      </p>
-    </div>
-  </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Unit Stays</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Extended Stays in Global Financial Hubs
-      </p>
-    </div>
-  </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Awards</h3>
-    </div>
-    <div class="card__body">
-      <p>
-        Recognizing Excellence in Exceptional Projects and Unit Network Users
-      </p>
-    </div>
-  </div>
-
 </div>

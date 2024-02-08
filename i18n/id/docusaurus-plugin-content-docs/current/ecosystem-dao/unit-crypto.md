@@ -4,67 +4,63 @@ sidebar_position: 6
 
 # Unit Crypto
 
-Navigating the Future of Decentralized Financial Frontiers
+Menavigasi Masa Depan Perbatasan Keuangan Terdesentralisasi
 
-## Unleash the Potential of Crypto with Unit Crypto!
+## Lepaskan Potensi Crypto dengan Unit Crypto!
 
-Unit Crypto, a dynamic DAO, is dedicated to forming strategic partnerships and seamlessly integrating various crypto communities, including Bitcoin, Ethereum, Polkadot, and more, into the Unit Network.
+Unit Crypto, sebuah DAO yang dinamis, bertujuan membentuk kemitraan strategis dan mengintegrasikan berbagai komunitas crypto, termasuk Bitcoin, Ethereum, Polkadot, dan lainnya, ke dalam Jaringan Unit.
 
-Our mission is to elevate connectivity and interoperability among diverse crypto ecosystems.
+Misi kami adalah meningkatkan konektivitas dan interoperabilitas di antara berbagai ekosistem crypto.
 
-Leveraging Unit Network's robust tokenization and decentralized financial features, Unit Crypto unlocks and amplifies the intrinsic value of diverse crypto assets.
+Dengan memanfaatkan fitur tokenisasi yang kuat dan fitur keuangan terdesentralisasi dari Jaringan Unit, Unit Crypto membuka dan memperkuat nilai intrinsik dari berbagai aset crypto.
 
-Positioned as a bridge, Unit Crypto facilitates the seamless integration and mutual benefit of different blockchain networks within the Unit Network framework, creating a unified and thriving crypto ecosystem.
+Ditempatkan sebagai jembatan, Unit Crypto memfasilitasi integrasi yang mulus dan manfaat saling-menyalai dari berbagai jaringan blockchain dalam kerangka Jaringan Unit, menciptakan ekosistem crypto yang terpadu dan berkembang.
 
-## Engage and Contribute!
+## Terlibat dan Berkontribusi!
 
-For those eager to join Unit Crypto, the first step is to immerse yourself in the Unit Network ecosystem.
+Bagi mereka yang ingin bergabung dengan Unit Crypto, langkah pertama adalah mencelupkan diri Anda dalam ekosistem Jaringan Unit.
 
-Get involved by participating in community discussions, contributing to strategic partnerships, and exploring avenues to integrate your crypto assets or platforms with the Unit Network.
+Terlibatlah dengan berpartisipasi dalam diskusi komunitas, berkontribusi pada kemitraan strategis, dan menjelajahi cara untuk mengintegrasikan aset atau platform crypto Anda dengan Jaringan Unit.
 
-This engagement provides a distinctive opportunity to be at the forefront of blockchain interoperability and decentralized finance.
+Keterlibatan ini memberikan kesempatan yang unik untuk berada di garis depan interoperabilitas blockchain dan keuangan terdesentralisasi.
 
-By collaborating, you'll play a crucial role in enhancing the collective value and functionality of diverse crypto communities.
+Dengan berkolaborasi, Anda akan memainkan peran penting dalam meningkatkan nilai kolektif dan fungsionalitas berbagai komunitas crypto.
 
-Join us in shaping the future of decentralized collaboration and crypto integration!
+Bergabunglah dengan kami dalam membentuk masa depan kolaborasi terdesentralisasi dan integrasi crypto!
 
-## Discover the Interconnected World of Unit Network!
+## Temukan Dunia Terhubung dari Jaringan Unit!
 
 <br />
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
 
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Reserve Assets</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Aset Cadangan:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Unlock Stability: Access a range of external stable tokens and assets supported by Unit Network.
+        Buka Kestabilan: Akses berbagai token stabil eksternal dan aset yang didukung oleh Jaringan Unit.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Native Tokens:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Token Asli:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Explore the Diversity: Discover all the native tokens crafted within the Unit Network ecosystem.
+        Jelajahi Keragaman: Temukan semua token asli yang dibuat dalam ekosistem Jaringan Unit.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Network Protocol:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Token Asli:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Delve Deeper: Explore the intricate details of the Unit Network protocol.
+        Telusuri Lebih Dalam: Jelajahi detail-detail rumit dari protokol Jaringan Unit.
       </p>
     </div>
   </div>
-
 </div>

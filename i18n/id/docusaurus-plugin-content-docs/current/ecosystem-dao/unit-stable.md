@@ -4,74 +4,69 @@ sidebar_position: 12
 
 # Unit Stable
 
-Bridging the Gap to Modernize Finance
+Menyambung Kesenjangan untuk Memodernisasi Keuangan
 
-## Connecting the Dots: Unit Stable Forges Partnerships Across Fiat, Stable Token, and Banking Communities
+## Menghubungkan Titik-titik: Unit Stable Membangun Kemitraan di Seluruh Komunitas Fiat, Stable Token, dan Perbankan
 
-Unit Stable has a strategic focus on building robust partnerships and seamlessly integrating stable tokens, fiat currencies, and banking communities into the expansive Unit Network ecosystem.
+Unit Stable memiliki fokus strategis pada membangun kemitraan yang kuat dan menyelaraskan token stabil, mata uang fiat, dan komunitas perbankan ke dalam ekosistem Unit Network yang luas.
 
-Our mission is to usher in a new era of finance by modernizing traditional financial sectors, harnessing the advanced tokenization, and decentralized financial features of Unit Network.
+Misi kami adalah membawa masuk era baru keuangan dengan memodernisasi sektor keuangan tradisional, memanfaatkan fitur tokenisasi lanjutan dan keuangan terdesentralisasi dari Unit Network.
 
-Through this initiative, Unit Stable aims to unlock the latent potential of these financial ecosystems, enhancing liquidity, accessibility, and efficiency.
+Melalui inisiatif ini, Unit Stable bertujuan untuk membuka potensi terpendam dari ekosistem keuangan ini, meningkatkan likuiditas, aksesibilitas, dan efisiensi.
 
-We serve as a crucial bridge, connecting conventional financial systems with the innovative realm of blockchain technology.
+Kami berfungsi sebagai jembatan penting, menghubungkan sistem keuangan konvensional dengan ranah inovatif teknologi blockchain.
 
-## Revolutionizing Tokenization: The Seamless Integration of Fiat and Stable Tokens
+## Memperkenalkan Tokenisasi: Integrasi Mulus Fiat dan Stable Token
 
-Fiat and stable tokens play a pivotal role in the dynamic landscape of tokenization, showcasing one of its most successful use cases.
+Fiat dan stable token memainkan peran penting dalam lanskap dinamis tokenisasi, menampilkan salah satu kasus penggunaan yang paling sukses.
 
-Their integration into the blockchain ecosystem acts as a crucial bridge, spanning the gap between traditional and decentralized financial realms.
+Integrasi mereka ke dalam ekosistem blockchain bertindak sebagai jembatan penting, melintasi kesenjangan antara ranah keuangan tradisional dan terdesentralisasi.
 
-This collaboration is fundamental for the flourishing token economy, merging the stability and widespread acceptance of fiat currencies with the innovation and efficiency of blockchain technology.
+Kolaborasi ini sangat mendasar bagi ekonomi token yang berkembang, menggabungkan stabilitas dan penerimaan luas mata uang fiat dengan inovasi dan efisiensi teknologi blockchain.
 
-Such cooperative efforts promote broader acceptance and utility of tokenized assets, paving the way for a more inclusive and evolved financial system.
+Upaya kolaboratif seperti itu mempromosikan penerimaan dan utilitas yang lebih luas dari aset yang diterbitkan token, membuka jalan bagi sistem keuangan yang lebih inklusif dan berkembang.
 
-## Ignite Change: Join Unit Stable on Its Mission
+## Membakar Perubahan: Bergabung dengan Unit Stable dalam Misi Kami
 
-Unit Stable extends a warm invitation to leaders in the financial, banking, and crypto sectors to actively participate in our transformative mission.
+Unit Stable memperpanjang undangan hangat kepada pemimpin di sektor keuangan, perbankan, dan kripto untuk berpartisipasi aktif dalam misi transformatif kami.
 
-Your engagement and involvement can play a pivotal role in shaping the future of the token economy.
+Keterlibatan dan keterlibatan Anda dapat memainkan peran penting dalam membentuk masa depan ekonomi token.
 
-By contributing your expertise and insights, you become a catalyst for a seamless transition from traditional to decentralized finance, fostering innovation and inclusivity in the financial landscape.
+Dengan menyumbangkan keahlian dan wawasan Anda, Anda menjadi katalisator bagi transisi yang mulus dari keuangan tradisional ke terdesentralisasi, mendorong inovasi dan inklusivitas dalam lanskap keuangan.
 
-Be the change you want to see – Join Unit Stable today.
+Jadilah perubahan yang Anda inginkan untuk melihat - Bergabunglah dengan Unit Stable hari ini.
 
-Explore Unit Network's Supported Stable Tokens
+Jelajahi Token Stabil yang Didukung oleh Unit Network
 
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Stable Tokens</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Stable Tokens:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Native Stability: Discover Transparent, Crypto-Backed Tokens by Unit Network
+        Stabilitas Asli: Temukan Token Transparan yang Didukung oleh Kripto oleh Unit Network
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Reserve Assets</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Aset Cadangan:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Unlock Stability: Access a range of external stable tokens and assets supported by Unit Network.
+        Membuka Stabilitas: Akses berbagai token dan aset stabil eksternal yang didukung oleh Unit Network.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Native Tokens:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Token Asli:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Explore the Diversity: Discover all the native tokens crafted within the Unit Network ecosystem.
+        Jelajahi Keanekaragaman: Temukan semua token asli yang dibuat dalam ekosistem Unit Network.
       </p>
     </div>
   </div>
-
 </div>

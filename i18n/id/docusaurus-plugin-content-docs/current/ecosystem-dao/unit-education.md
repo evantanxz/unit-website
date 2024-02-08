@@ -4,48 +4,48 @@ sidebar_position: 7
 
 # Unit Education
 
-Breaking Barriers, Building Knowledge:
+Membongkar Batasan, Membangun Pengetahuan:
 
-## Unleashing the Power of Blockchain Education with $EDUCATION
+## Melepaskan Kekuatan Pendidikan Blockchain dengan $EDUCATION
 
-Unit Education is a visionary initiative designed to inspire, educate, and connect pioneers exploring alternative economies. Our platform offers a range of courses aimed at building blockchain literacy, breaking down barriers to entry, and providing a compact, effective learning resource equipped with all the necessary tools to embark on your journey into the world of Web3.
+Unit Education adalah inisiatif visioner yang dirancang untuk menginspirasi, mendidik, dan menghubungkan para pionir yang menjelajahi ekonomi alternatif. Platform kami menawarkan berbagai kursus yang bertujuan untuk membangun literasi blockchain, meruntuhkan hambatan masuk, dan menyediakan sumber belajar yang kompak dan efektif dilengkapi dengan semua alat yang diperlukan untuk memulai perjalanan Anda ke dunia Web3.
 
-Leading the way is the **Unit Master’s program**, a curated global network featuring successful entrepreneurs, investors, and founders who have made significant positive impacts in cryptography and blockchain. This program offers a unique learning experience, allowing participants to apply their knowledge in real-time rather than merely studying theory.
+Memimpin jalannya adalah **Program Magister Unit**, sebuah jaringan global terkurasi yang menampilkan para pengusaha, investor, dan pendiri yang telah memberikan dampak positif yang signifikan dalam kriptografi dan blockchain. Program ini menawarkan pengalaman belajar yang unik, memungkinkan peserta untuk menerapkan pengetahuan mereka secara real-time daripada sekadar mempelajari teori.
 
-## Unit Masters Program
+## Program Magister Unit
 
-- **Unlock the Future of Wealth Creation & Economics**: Gain insights into managing wealth creation for personal and community growth.
-- **Explore the Power of Blockchain Possibilities**: Learn about blockchain technology, decentralized systems, governance, tokens, cryptocurrencies, and the future of economies.
-- **Engage in Bi-Weekly Mentorship Sessions with Industry Leaders**: Benefit from two live speaker sessions per week led by influential figures in disruptive tech and ethical community building.
-- **Connect with Like-Minded Individuals**: Network with fellow participants, set up your wallet, and build your brand or business on the Unit platform.
+- **Buka Masa Depan Penciptaan Kekayaan & Ekonomi**: Dapatkan wawasan tentang mengelola penciptaan kekayaan untuk pertumbuhan pribadi dan komunitas.
+- **Telusuri Kekuatan Kemungkinan Blockchain**: Pelajari tentang teknologi blockchain, sistem terdesentralisasi, tata kelola, token, cryptocurrency, dan masa depan ekonomi.
+- **Terlibat dalam Sesi Mentorship Dua Mingguan dengan Pemimpin Industri**: Manfaatkan dua sesi pembicara langsung per minggu yang dipimpin oleh tokoh-tokoh berpengaruh dalam teknologi gangguan dan pembangunan komunitas etis.
+- **Terhubung dengan Individu yang Memiliki Minat yang Sama**: Jaring dengan peserta lain, siapkan dompet Anda, dan bangun merek atau bisnis Anda di platform Unit.
 
-## Unit Masters Format
+## Format Program Magister Unit
 
-Every two months, our structured 6-week learning program welcomes participants to the new economy. Sign up at [courses.unitmasters.org](https://courses.unitmasters.org).
+Setiap dua bulan sekali, program pembelajaran struktural kami selama 6 minggu menyambut peserta baru ke ekonomi baru. Daftar di [courses.unitmasters.org](https://courses.unitmasters.org).
 
-**Program Structure:**
+**Struktur Program:**
 
-1. Self-Paced Online Learning (reflective learning)
-2. Live Mentoring Sessions with Pioneers of the New Economy (inspiration through entrepreneurs)
-3. Structured Crypto-Coaching (guidance from experienced facilitators)
-4. Self-Organized Study Groups (peer mentoring)
+1. Pembelajaran Online Mandiri (pembelajaran reflektif)
+2. Sesi Mentorship Langsung dengan Pionir Ekonomi Baru (inspirasi melalui pengusaha)
+3. Konseling Crypto Terstruktur (bimbingan dari fasilitator berpengalaman)
+4. Kelompok Belajar yang Diatur Sendiri (bimbingan rekan sebaya)
 
-**Session Format:**
+**Format Sesi:**
 
-- Kickoff (Sunday)
-- Tuesdays: 1-hour Live Mentoring
-- Wednesdays: 1-hour Crypto-Coaching
-- Thursdays: 1-hour Live Mentoring
-- Self-organized: Weekly 30-minute "Study Group"
+- Pembukaan (Minggu)
+- Selasa: 1 Jam Sesi Mentorship Langsung
+- Rabu: 1 Jam Konseling Crypto
+- Kamis: 1 Jam Sesi Mentorship Langsung
+- Diatur sendiri: Kelompok Belajar "Study Group" Mingguan selama 30 menit
 
-**6-Week Curriculum:**
-The self-paced learning includes articles, videos, and multiple-choice quizzes. Weekly reflection assignments on specific themes are discussed in self-organized study groups and Wednesday Crypto-Coaching Sessions.
+**Kurikulum 6 Minggu:**
+Pembelajaran mandiri mencakup artikel, video, dan kuis pilihan ganda. Tugas refleksi mingguan tentang tema tertentu dibahas dalam kelompok belajar yang diatur sendiri dan Sesi Konseling Crypto pada hari Rabu.
 
-- Week 1: Decentralization & Internet of Value
-- Week 2: Stakeholders of the New Economy
-- Week 3: Blockchains, Protocols, Incentives Alignment
-- Week 4: Exchanges, DeFi, and NFTs
-- Week 5: Stakeholder Capitalism & Sustainability
-- Week 6: A Token-Driven Economy
+- Minggu 1: Terdesentralisasi & Internet Nilai
+- Minggu 2: Pemangku Kepentingan Ekonomi Baru
+- Minggu 3: Blockchain, Protokol, Penyesuaian Insentif
+- Minggu 4: Bursa, DeFi, dan NFT
+- Minggu 5: Kapitalisme Pemangku Kepentingan & Keberlanjutan
+- Minggu 6: Ekonomi yang Didorong oleh Token
 
-Join Unit Education and embark on a transformative journey into the future of decentralized knowledge and economic paradigms.
+Bergabunglah dengan Unit Education dan mulailah perjalanan transformatif ke masa depan pengetahuan terdesentralisasi dan paradigma ekonomi.

@@ -4,32 +4,32 @@ sidebar_position: 4
 
 # Unit Code
 
-Powering the Future with Blockchain Innovation ($CODE)
+Menggerakkan Masa Depan dengan Inovasi Blockchain ($CODE)
 
-Hello World!
+Halo Dunia!
 
-Embark on a journey with Unit Code, dedicated to elevating the foundation of Unit Network through robust and scalable infrastructure.
+Mulailah perjalanan dengan Unit Code, yang didedikasikan untuk meningkatkan dasar Unit Network melalui infrastruktur yang tangguh dan scalable.
 
-Beyond this, Unit Code is a trailblazer in crafting innovative applications, offering expert blockchain development and decentralized application (dApp) building services.
+Selain itu, Unit Code adalah pelopor dalam merancang aplikasi-inovatif, menawarkan pengembangan blockchain yang ahli dan layanan pembangunan aplikasi terdesentralisasi (dApp).
 
-Our specialization lies in two key areas:
+Spesialisasi kami terletak pada dua area utama:
 
-1. Unit Core Infrastructure Development
-2. Unit Application Development
+1. Pengembangan Infrastruktur Inti Unit
+2. Pengembangan Aplikasi Unit
 
-Experience the future of technology with Unit Code—where innovation meets excellence.
+Rasakan masa depan teknologi dengan Unit Code—di mana inovasi bertemu dengan keunggulan.
 
-## Why Choose Unit Code?
+## Mengapa Memilih Unit Code?
 
-Elevate Your Development Experience with Unit Code.
+Tingkatkan Pengalaman Pengembangan Anda dengan Unit Code.
 
-Discover the unparalleled advantages of partnering with Unit Code for your blockchain and app development needs. Our accomplished teams specialize in:
+Temukan keunggulan tak tertandingi dalam bermitra dengan Unit Code untuk kebutuhan pengembangan blockchain dan aplikasi Anda. Tim kami yang berpengalaman mengkhususkan diri dalam:
 
-1. Smart contract development
-2. Cryptographic security
-3. Efficient blockchain architecture design
-4. User interface and experience design
-5. Full-stack development
+1. Pengembangan kontrak pintar
+2. Keamanan kriptografis
+3. Desain arsitektur blockchain yang efisien
+4. Desain antarmuka pengguna dan pengalaman
+5. Pengembangan full-stack
 
-With expertise in these critical areas, we assure the creation of highly functional, secure, and user-friendly blockchain applications.
-Choose Unit Code for a development journey marked by excellence, making a substantial impact on the evolution of decentralized financial services.
+Dengan keahlian di area-area penting ini, kami menjamin penciptaan aplikasi blockchain yang sangat fungsional, aman, dan ramah pengguna.
+Pilih Unit Code untuk perjalanan pengembangan yang ditandai oleh keunggulan, membuat dampak substansial pada evolusi layanan keuangan terdesentralisasi.
