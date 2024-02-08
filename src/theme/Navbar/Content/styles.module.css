@@ -17,3 +17,8 @@ Hide color mode toggle in small viewports
 .marginRightAuto {
   margin-right: auto;
 }
+.divider {
+  border-left: 2px solid #eaeaea;
+  height: 1.75rem;
+  margin: 0 1rem;
+}

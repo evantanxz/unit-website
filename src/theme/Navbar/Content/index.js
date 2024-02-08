@@ -20,25 +20,28 @@ function NavbarItems({ items }) {
   return (
     <>
       {items.map((item, i) => (
-        <ErrorCauseBoundary
-          key={i}
-          onError={(error) =>
-            new Error(
-              `A theme navbar item failed to render.
+        <>
+          {i !== 0 && <div className={styles.divider} />}
+          <ErrorCauseBoundary
+            key={i}
+            onError={(error) =>
+              new Error(
+                `A theme navbar item failed to render.
 Please double-check the following navbar item (themeConfig.navbar.items) of your Docusaurus config:
 ${JSON.stringify(item, null, 2)}`,
-              { cause: error }
-            )
-          }
-        >
-          <NavbarItem
-            {...item}
-            className={clsx(
-              i === 0 && styles.marginLeftAuto,
-              i + 1 === items.length && styles.marginRightAuto
-            )}
-          />
-        </ErrorCauseBoundary>
+                { cause: error }
+              )
+            }
+          >
+            <NavbarItem
+              {...item}
+              className={clsx(
+                i === 0 && styles.marginLeftAuto,
+                i + 1 === items.length && styles.marginRightAuto
+              )}
+            />
+          </ErrorCauseBoundary>
+        </>
       ))}
     </>
   );
