@@ -4,67 +4,63 @@ sidebar_position: 6
 
 # Unit Crypto
 
-Navigating the Future of Decentralized Financial Frontiers
+Navegando el Futuro de las Fronteras Financieras Descentralizadas
 
-## Unleash the Potential of Crypto with Unit Crypto!
+## ¡Desata el Potencial de las Criptomonedas con Unit Crypto!
 
-Unit Crypto, a dynamic DAO, is dedicated to forming strategic partnerships and seamlessly integrating various crypto communities, including Bitcoin, Ethereum, Polkadot, and more, into the Unit Network.
+Unit Crypto, un DAO dinámico, se dedica a formar alianzas estratégicas e integrar de manera fluida diversas comunidades criptográficas, incluidas Bitcoin, Ethereum, Polkadot y más, en la Red Unit.
 
-Our mission is to elevate connectivity and interoperability among diverse crypto ecosystems.
+Nuestra misión es elevar la conectividad y la interoperabilidad entre diversos ecosistemas criptográficos.
 
-Leveraging Unit Network's robust tokenization and decentralized financial features, Unit Crypto unlocks and amplifies the intrinsic value of diverse crypto assets.
+Aprovechando la robusta tokenización y las características financieras descentralizadas de la Red Unit, Unit Crypto desbloquea y amplifica el valor intrínseco de diversos activos criptográficos.
 
-Positioned as a bridge, Unit Crypto facilitates the seamless integration and mutual benefit of different blockchain networks within the Unit Network framework, creating a unified and thriving crypto ecosystem.
+Posicionado como un puente, Unit Crypto facilita la integración fluida y el beneficio mutuo de diferentes redes blockchain dentro del marco de la Red Unit, creando un ecosistema criptográfico unificado y próspero.
 
-## Engage and Contribute!
+## ¡Participa y Contribuye!
 
-For those eager to join Unit Crypto, the first step is to immerse yourself in the Unit Network ecosystem.
+Para aquellos ansiosos por unirse a Unit Crypto, el primer paso es sumergirse en el ecosistema de la Red Unit.
 
-Get involved by participating in community discussions, contributing to strategic partnerships, and exploring avenues to integrate your crypto assets or platforms with the Unit Network.
+Participa en discusiones comunitarias, contribuye a alianzas estratégicas y explora formas de integrar tus activos o plataformas criptográficas con la Red Unit.
 
-This engagement provides a distinctive opportunity to be at the forefront of blockchain interoperability and decentralized finance.
+Esta participación proporciona una oportunidad distintiva para estar a la vanguardia de la interoperabilidad blockchain y las finanzas descentralizadas.
 
-By collaborating, you'll play a crucial role in enhancing the collective value and functionality of diverse crypto communities.
+Al colaborar, desempeñarás un papel crucial en mejorar el valor colectivo y la funcionalidad de diversas comunidades criptográficas.
 
-Join us in shaping the future of decentralized collaboration and crypto integration!
+¡Únete a nosotros para dar forma al futuro de la colaboración descentralizada y la integración criptográfica!
 
-## Discover the Interconnected World of Unit Network!
+## ¡Descubre el Mundo Interconectado de la Red Unit!
 
 <br />
-<div class="card-demo" style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '16px'
-}}>
 
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Reserve Assets</h3>
+<div class="docs-grid-alt">
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Activos de Reserva:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Unlock Stability: Access a range of external stable tokens and assets supported by Unit Network.
+        Desbloquea Estabilidad: Accede a una variedad de tokens y activos estables externos admitidos por la Red Unit.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ marginRight: '16px', textAlign: 'center' }}>
-    <div class="card__header">
-      <h3>Native Tokens:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Tokens Nativos:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Explore the Diversity: Discover all the native tokens crafted within the Unit Network ecosystem.
+        Explora la Diversidad: Descubre todos los tokens nativos creados dentro del ecosistema de la Red Unit.
       </p>
     </div>
   </div>
-
-  <div class="card" style={{ textAlign: 'center'}}>
-    <div class="card__header">
-      <h3>Unit Network Protocol:</h3>
+  <div class="docs-card-alt">
+    <div class="docs-card-alt-header">
+      <span>Tokens Nativos:</span>
     </div>
-    <div class="card__body">
+    <div class="docs-card-alt-description">
       <p>
-        Delve Deeper: Explore the intricate details of the Unit Network protocol.
+        Adéntrate más: Explora los detalles intrincados del protocolo de la Red Unit.
       </p>
     </div>
   </div>
-
 </div>
