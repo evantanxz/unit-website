@@ -31,9 +31,7 @@ function Ecosystem() {
             </Heading>
             <p className="hero__subtitle hero-subtitle">
               <Translate>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s.
+              Discover the Unit Network Ecosystem, representing organizations crafted by the community.
               </Translate>
             </p>
           </div>
@@ -64,7 +62,7 @@ function EcosystemPage() {
             </div>
             <div>
               <Translate>
-                Lorem ipsum dolor sit amet consectetur. Et facilistis
+                A continual series of online events hosted by industry leaders and visionaires.
               </Translate>
             </div>
             <div className="ecosystem-card-link">
@@ -91,7 +89,7 @@ function EcosystemPage() {
             </div>
             <div>
               <Translate>
-                Lorem ipsum dolor sit amet consectetur. Et facilistis
+                Stay informed about our networking events for Crypto Enthusiasts
               </Translate>
             </div>
             <div className="ecosystem-card-link">
@@ -119,7 +117,7 @@ function EcosystemPage() {
             </div>
             <div>
               <Translate>
-                Lorem ipsum dolor sit amet consectetur. Et facilistis
+                Learn about the power and possibilities of blockchain from the best in the industry
               </Translate>
             </div>
             <div className="ecosystem-card-link">
@@ -146,7 +144,7 @@ function EcosystemPage() {
             </div>
             <div>
               <Translate>
-                Lorem ipsum dolor sit amet consectetur. Et facilistis
+                Learn about our accelerator program that helps business owners future-proof their projects.
               </Translate>
             </div>
             <div className="ecosystem-card-link">
@@ -165,9 +163,7 @@ function EcosystemPage() {
         </h1>
         <p className="ecosystem-subtitle">
           <Translate>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s.
+            Explore our decentralized autonomous organizations meticulously crafted by the community, embodying the essence of a decentralized future in blockchain exploration.
           </Translate>
         </p>
         <div
