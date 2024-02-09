@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "UnitChain, the decentralized backbone of Unit Network, is a purpose-built blockchain and web application crafted using the Substrate framework."
 ---
 
 # Unit Network Blockchain

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Unlocking the Potential: Navigating Unit Network City Tokens – From Usage and Governance to Tokenomics"
 ---
 
 # City Tokens

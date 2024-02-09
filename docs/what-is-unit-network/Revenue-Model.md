@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Unit Network Revenue Model: A Sustainable and Community-Centric Approach"
 ---
 
 # Revenue Model

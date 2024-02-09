@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Empowering Tomorrow: Navigating the Token Economy for a Fairer Future with Blockchain Innovation"
 ---
 
 # The Token Economy

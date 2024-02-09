@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Discover UNIT: Igniting the Future of Token Economy"
 ---
 
 # What is $UNIT

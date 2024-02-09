@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Stable Tokens Demystified: Navigating the Landscape, Understanding Uses, and Unveiling the Mechanics"
 ---
 
 # Stable Tokens

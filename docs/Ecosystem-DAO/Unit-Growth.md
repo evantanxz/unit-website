@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "Pioneering the Token Economy Movement"
 ---
 
 # Unit Growth

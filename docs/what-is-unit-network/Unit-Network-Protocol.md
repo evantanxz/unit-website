@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Pioneering Tomorrow's Finance, Uniting Global Communities, and Building a Decentralized Financial Future"
 ---
 
 # Unit Network Protocol

@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+description: "Unveiling the Unit Network Documentation Hub: Your Gateway to a Blockchain Revolution."
 ---
 
-# Documentation hub
+# Documentation Hub
 
 Unveiling the Unit Network Documentation Hub: Your Gateway to a Blockchain Revolution.
 

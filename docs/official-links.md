@@ -1,8 +1,7 @@
 ---
 title: Official Links
-description: How do I find you when I cannot solve this problem
-sidebar_label: "Official Links"
 sidebar_position: 2
+description: "Unit Network official links, platforms and channels"
 ---
 
 Unit Network official links, platforms and channels

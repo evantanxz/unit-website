@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Empowering Your Digital Presence with Content Strategy, Branding, and Social Media Excellence"
 ---
 
 # Unit Content

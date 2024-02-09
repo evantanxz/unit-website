@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "Efficient and Transparent Network Fees for Accessing Core App Features"
 ---
 
 # Network Fees

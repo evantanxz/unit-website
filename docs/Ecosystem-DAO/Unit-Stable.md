@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "Bridging the Gap to Modernize Finance"
 ---
 
 # Unit Stable

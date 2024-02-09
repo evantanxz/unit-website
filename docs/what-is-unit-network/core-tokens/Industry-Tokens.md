@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Exploring Use-Cases, Governance, and Tokenomics of Industry Tokens"
 ---
 
 # Industry Tokens

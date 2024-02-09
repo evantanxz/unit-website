@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: "Unit Media is your source for the latest insights, news, and network updates. Embark on a journey into the next frontier of crypto communication with Unit Media, your portal to a groundbreaking era."
 ---
 
 # Unit Media

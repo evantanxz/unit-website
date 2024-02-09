@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Unit Education is a visionary initiative designed to inspire, educate, and connect pioneers exploring alternative economies."
 ---
 
 # Unit Education
