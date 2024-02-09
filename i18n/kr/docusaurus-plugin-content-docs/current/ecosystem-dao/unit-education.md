@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Unit Education 문서 허브를 공개합니다: 블록체인 혁명으로 향하는 당신의 문을 열다."
 ---
 
 # 유닛 교육

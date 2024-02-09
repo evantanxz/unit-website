@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "산업 토큰의 사용 사례, 거버넌스 및 토큰노믹스 탐험"
 ---
 
 # 산업 토큰

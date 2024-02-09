@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Unit City DAO의 무한한 지평을 공개합니다."
 ---
 
 # 유닛 시티

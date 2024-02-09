@@ -1,8 +1,8 @@
 ---
 title: 공식 링크
-description: 이 문제를 해결할 수 없을 때 어떻게 당신을 찾을 수 있을까요
 sidebar_label: "공식 링크"
 sidebar_position: 2
+description: "Unit Network의 공식 링크, 플랫폼 및 채널"
 ---
 
 Unit Network의 공식 링크, 플랫폼 및 채널

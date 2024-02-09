@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: "유닛 미디어의 미래를 형성하는 데 동참하세요."
 ---
 
 # 유닛 미디어

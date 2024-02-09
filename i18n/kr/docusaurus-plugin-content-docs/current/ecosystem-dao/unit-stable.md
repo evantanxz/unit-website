@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "유닛 스테이블의 미래를 형성하는 데 동참하세요."
 ---
 
 # 유닛 스테이블

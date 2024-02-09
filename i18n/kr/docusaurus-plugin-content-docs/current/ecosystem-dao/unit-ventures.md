@@ -1,5 +1,6 @@
 ---
 sidebar_position: 13
+description: "유닛 벤처스의 토큰 경제 육성을 탐험하세요."
 ---
 
 # 유닛 벤처스

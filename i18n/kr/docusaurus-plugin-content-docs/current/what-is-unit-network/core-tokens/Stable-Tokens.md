@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "안정 토큰의 사용 사례, 용도 이해 및 메커니즘 공개"
 ---
 
 # 안정 토큰
