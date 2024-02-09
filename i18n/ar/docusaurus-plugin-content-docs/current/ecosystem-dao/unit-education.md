@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "تمكين العلم في وحدة"
 ---
 
 # التعليم في وحدة

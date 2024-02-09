@@ -1,51 +1,52 @@
 ---
 sidebar_position: 2
+description: "الرموز الثابتة: فك رموز الاستقرار: توجيه المناظر الطبيعية، وفهم الاستخدامات، وكشف الآليات"
 ---
 
-# Stable Tokens
+# الرموز الثابتة
 
-Stable Tokens Demystified: Navigating the Landscape, Understanding Uses, and Unveiling the Mechanics
+الرموز الثابتة: فك رموز الاستقرار: توجيه المناظر الطبيعية، وفهم الاستخدامات، وكشف الآليات
 
-Unlocking Stability: Acquiring stable tokens involves purchasing from the stable token's bank using reserve assets. These assets, sent to the stable token's bank, serve as the cornerstone, backing the stable token's intrinsic value.
+فتح الاستقرار: ينطوي الحصول على الرموز الثابتة على شراء من بنك الرموز الثابتة باستخدام أصول الاحتياط. هذه الأصول، التي يتم إرسالها إلى بنك الرموز الثابتة، تعتبر الزاوية الزاوية التي تدعم القيمة الجوهرية للرمز الثابت.
 
-With 22 stable tokens on Unit Network, this alternative offers respite from the short-term volatility of mainstream cryptocurrencies. Moreover, it provides a straightforward payment solution for both users and merchants.
+مع وجود 22 رمزًا ثابتًا على شبكة الوحدة، تقدم هذه البديلة وقتًا للتنفس من تقلبات القصيرة الأمد للعملات المشفرة الرئيسية. علاوة على ذلك، يوفر حلاً دفعيًا مباشرًا للمستخدمين والتجار على حد سواء.
 
 <br />
 
-## Clarity in Support
+## وضوح الدعم
 
-Every stable token on Unit Network employs a uniform collateral and pegging mechanism, devoid of algorithms. Backed by diverse reserve assets that appreciate over time, these stable tokens benefit from over-collateralization. Users have real-time transparency, accessing information on the total backing value, asset distribution, and more.
+يستخدم كل رمز ثابت على شبكة الوحدة آلية رهن وربط موحدة، خالية من الخوارزميات. معتمدة على أصول الاحتياط المتنوعة التي تتزايد قيمتها مع مرور الوقت، تستفيد هذه الرموز الثابتة من التداعيات الزائدة. يتمتع المستخدمون بشفافية فورية، حيث يمكنهم الوصول إلى معلومات حول القيمة الإجمالية للدعم، وتوزيع الأصول، والمزيد.
 
-## Functional Versatility
+## المرونة الوظيفية
 
-While USDU stands as the primary stable token on Unit Network, all stable tokens share identical functionality and can fulfill the same purposes. USDU is instrumental for:
+بينما يعتبر USDU الرمز الثابت الرئيسي على شبكة الوحدة، تشترك جميع الرموز الثابتة في نفس الوظائف ويمكن أن تلبي نفس الأغراض. يأتي USDU بأهمية في:
 
-1. Purchasing any token or reserve asset from the exchange.
-2. Liquidity Pool staking.
-3. Accruing in the UNIT Treasury, constituting a 0.5% fee from all platform exchanges.
-4. Offering stability in comparison to user-generated tokens as a reliable medium of exchange or payment.
+1. شراء أي رمز أو أصل احتياطي من البورصة.
+2. تجمعات سيولة.
+3. التراكم في خزينة الوحدة، حيث يشكل رسم 0.5% من جميع التبادلات على المنصة.
+4. توفير الاستقرار مقارنة بالرموز التي يتم إنشاؤها من قبل المستخدمين كوسيلة موثوقة للتبادل أو الدفع.
 
-In addition to USDU, there are 22 other stable tokens, each representing a major currency. Explore the comprehensive list below.
+بالإضافة إلى USDU، هناك 22 رمزًا ثابتًا آخر، يمثل كل منها عملة رئيسية. استكشف القائمة الشاملة أدناه.
 
-- USDU: United States Dollar
-- GBPU: British Pound
-- EURU: Euro
-- AUDU: Australian Dollar
-- CADU: Canadian Dollar
-- BRLU: Brazilian Real
-- ZARU: South African Rand
-- TRYU: Turkish Lira
-- RUBU: Russian Ruble
-- JPYU: Japanese Yen
-- SGDU: Singapore Dollar
-- NOKU: Norwegian Krone
-- MXNU: Mexican Peso
-- PLNU: Polish Zloty
-- INRU: Indian Rupee
-- SEKU: Swedish Krona
-- NZDU: New Zealand Dollar
-- HKDU: Hong Kong Dollar
-- CNYU: Chinese Yuan
-- CHFU: Swiss Franc
-- KRWU: South Korean Won
-- IDRU: Indonesian Rupiah
+- USDU: الدولار الأمريكي
+- GBPU: الجنيه البريطاني
+- EURU: اليورو
+- AUDU: الدولار الأسترالي
+- CADU: الدولار الكندي
+- BRLU: الريال البرازيلي
+- ZARU: الراند الجنوب أفريقي
+- TRYU: الليرة التركية
+- RUBU: الروبل الروسي
+- JPYU: الين الياباني
+- SGDU: الدولار السنغافوري
+- NOKU: الكرونة النرويجية
+- MXNU: البيزو المكسيكي
+- PLNU: الزلوتي البولندي
+- INRU: الروبية الهندية
+- SEKU: الكرونة السويدية
+- NZDU: الدولار النيوزيلندي
+- HKDU: الدولار الهونغ كونغي
+- CNYU: اليوان الصيني
+- CHFU: الفرنك السويسري
+- KRWU: الوون الكوري الجنوبي
+- IDRU: الروبية الإندونيسية

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "تمكين وجودك الرقمي"
 ---
 
 # وحدة المحتوى

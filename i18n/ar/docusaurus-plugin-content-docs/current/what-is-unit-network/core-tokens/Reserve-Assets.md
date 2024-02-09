@@ -1,104 +1,105 @@
 ---
 sidebar_position: 1
+description: "كشف أصول الاحتياط: توجيه طيف متنوع مدعوم بشبكة الوحدة"
 ---
 
-# Reserve Assets
+# أصول الاحتياط
 
-Reserve Assets Unveiled: Navigating the Diverse Spectrum Supported by Unit Network
-A Unit Network reserve asset signifies a stable and widely recognized cryptocurrency. With attributes such as high market capitalization, listings on major exchanges, and a track record of reliable growth and community engagement, these assets provide stability.
-It's crucial to emphasize that while we don't endorse specific coins or tokens as investments, we prioritize offering a diverse range of reserve assets.
-This strategy enhances adoption, provides users with more options, and solidly backs the UNIT Treasury for sustained growth.
+كشف أصول الاحتياط: توجيه طيف متنوع مدعوم بشبكة الوحدة
+تمثل أصول الاحتياط في شبكة الوحدة عملة مشفرة مستقرة ومعترف بها على نطاق واسع. مع سمات مثل رأس المال السوقي العالي والقوائم في البورصات الرئيسية وسجل نمو موثوق ومشاركة مجتمع، توفر هذه الأصول استقرارًا.
+من الأهمية بمكان التأكيد على أننا في حين لا نؤيد عملات معينة أو رموز كاستثمارات، إلا أننا نولي أهمية كبيرة لتقديم مجموعة متنوعة من أصول الاحتياط.
+يعزز هذا الاستراتيجية اعتماد الشبكة، ويوفر المزيد من الخيارات للمستخدمين، ويدعم بقوة خزينة الوحدة لضمان النمو المستدام.
 
-## Unlocking the Potential: Harnessing the Versatility of Reserve Assets in Unit Network
+## فتح الإمكانيات: استغلال مرونة أصول الاحتياط في شبكة الوحدة
 
-Reserve assets play a pivotal role within Unit Network, serving multiple functions:
+تلعب أصول الاحتياط دورًا حيويًا داخل شبكة الوحدة، حيث تؤدي وظائف متعددة:
 
-1. **Treasury:**
-   Locked as reserve assets in a token's treasury, providing tangible backing to substantiate the token's value. This concept mirrors a nation's vault of gold used to support its currency.
+1. **الخزينة:**
+   تُقفل كأصول احتياطية في خزينة الرمز، مما يوفر دعمًا ملموسًا لتبرير قيمة الرمز. يعكس هذا المفهوم خزينة الذهب في دولة ما تستخدمها لدعم عملتها.
 
-2. **Trading:**
-   Available for buy/sell transactions through various crypto exchanges on Unit Network, contributing to liquidity and facilitating trading activities.
+2. **التداول:**
+   متاحة لعمليات الشراء/البيع من خلال مختلف بورصات العملات المشفرة على شبكة الوحدة، مما يسهم في سيولة السوق ويسهل الأنشطة التجارية.
 
-3. **Sale:**
-   Utilized to purchase and/or back various tokens, spanning industry, city, agency, stable, project, personal, and other token categories. This versatility allows reserve assets to support a wide array of tokens.
+3. **البيع:**
+   يُستخدم لشراء و/أو دعم مختلف الرموز، من الصناعة والمدينة والوكالة والثابتة والمشروع والشخصية وفئات رموز أخرى. تتيح لهذه المرونة لأصول الاحتياط دعم مجموعة واسعة من الرموز.
 
-4. **Transfer:**
-   Enables free transfers between users or to token banks, fostering seamless movement of reserve assets within the Unit Network ecosystem.
+4. **التحويل:**
+   يتيح التحويلات المجانية بين المستخدمين أو إلى بنوك الرموز، مما يعزز حركة أصول الاحتياط بسلاسة داخل نظام شبكة الوحدة.
 
-5. **Deposit / Withdraw:**
-   Facilitates the sending or receiving of cryptocurrencies into or out of Unit Network, providing users with the flexibility to manage their reserve assets efficiently.
+5. **الإيداع / السحب:**
+   يُسهّل إرسال أو استقبال العملات المشفرة داخل أو خارج شبكة الوحدة، مما يوفر للمستخدمين مرونة في إدارة أصولهم الاحتياطية بكفاءة.
 
-In essence, reserve assets serve as a cornerstone, underpinning the value, liquidity, and functionality of tokens within Unit Network. Whether locked in treasuries, traded on exchanges, used in token sales, transferred between users, or deposited/withdrawn, these assets play a dynamic role in the vibrant and interconnected ecosystem of Unit Network.
+بالمعنى الحقيقي، تعتبر أصول الاحتياط ركيزة تحمل قيمة وسيولة ووظائف الرموز داخل شبكة الوحدة. سواء تمت إقفالها في الخزائن، أو تم التداول بها على البورصات، أو استخدامها في مبيعات الرموز، أو نقلها بين المستخدمين، أو إيداعها/سحبها، فإن هذه الأصول تلعب دورًا ديناميكيًا في النظام البيئي النابض بالحياة والمتصل لشبكة الوحدة.
 
 <br />
 
-## Exploring the Present: Unveiling Unit Network's Current Reserve Assets.
+## استكشاف الحاضر: الكشف عن أصول الاحتياط الحالية لشبكة الوحدة.
 
-Discover our Supported Coins/Tokens, Compatible Networks for Deposits, and Easily Verify Transactions with our Block Explorer
+اكتشف العملات/الرموز المدعومة، الشبكات المتوافقة للإيداع، وتحقق بسهولة من المعاملات مع مستكشف الكتل لدينا
 
-:::tip Important Notice:
+:::tip ملاحظة مهمة:
 
-Unit Network exclusively supports native networks for deposits. For instance, when depositing BTC, ensure it is done via Native SegWit, avoiding BEP20 or any other networks.
+تدعم شبكة الوحدة حصرًا الشبكات الأصلية للإيداع. على سبيل المثال، عند إيداع BTC، تأكد من أنه يتم ذلك عبر Native SegWit، متجنبًا BEP20 أو أي شبكات أخرى.
 :::
 
 <br />
 
-**Bitcoin (BTC)**
+**بتكوين (BTC)**
 
-- Supported deposit network: [BTC (Native SegWit) (Bitcoin)](https://bitcoin.org/)
-- Block Explorer: [Bitcoin Block Explorer](https://www.blockchain.com/explorer)
+- شبكة الإيداع المدعومة: [BTC (Native SegWit) (بتكوين)](https://bitcoin.org/)
+- مستكشف الكتل: [مستكشف كتل بتكوين](https://www.blockchain.com/explorer)
 
-**Ethereum (ETH)**
+**إيثيريوم (ETH)**
 
-- Supported deposit network: [ETH (ERC20) (Ethereum)](https://ethereum.org/)
-- Block Explorer: [Ethereum Block Explorer](https://etherscan.io/)
+- شبكة الإيداع المدعومة: [ETH (ERC20) (إيثيريوم)](https://ethereum.org/)
+- مستكشف الكتل: [مستكشف كتل إيثيريوم](https://etherscan.io/)
 
-**Polkadot (DOT)**
+**بولكادوت (DOT)**
 
-- Supported deposit network: [DOT (Polkadot)](https://polkadot.network/)
-- Block Explorer: [Polkadot Block Explorer](https://polkascan.io/)
+- شبكة الإيداع المدعومة: [DOT (بولكادوت)](https://polkadot.network/)
+- مستكشف الكتل: [مستكشف كتل بولكادوت](https://polkascan.io/)
 
-**Solana (SOL)**
+**سولانا (SOL)**
 
-- Supported deposit network: [SOL (Solana)](https://solana.com/)
-- Block Explorer: [Solana Block Explorer](https://explorer.solana.com/)
+- شبكة الإيداع المدعومة: [SOL (سولانا)](https://solana.com/)
+- مستكشف الكتل: [مستكشف كتل سولانا](https://explorer.solana.com/)
 
-**Polygon (MATIC)**
+**بوليغون (MATIC)**
 
-- Supported deposit network: [MATIC](https://polygon.technology/)
-- Block Explorer: [Polygon Block Explorer](https://polygonscan.com/)
+- شبكة الإيداع المدعومة: [MATIC](https://polygon.technology/)
+- مستكشف الكتل: [مستكشف كتل بوليغون](https://polygonscan.com/)
 
-**Binance Coin (BNB)**
+**عملة بينانس (BNB)**
 
-- Supported deposit network: [BNB (Binance)](https://www.binance.org/)
-- Block Explorer: [BNB Block Explorer](https://explorer.binance.org/)
+- شبكة الإيداع المدعومة: [BNB (بينانس)](https://www.binance.org/)
+- مستكشف الكتل: [مستكشف كتل بينانس](https://explorer.binance.org/)
 
-**Cardano (ADA)**
+**كاردانو (ADA)**
 
-- Supported deposit network: [ADA (Cardano)](https://cardano.org/)
-- Block Explorer: [Cardano Block Explorer](https://cardanoscan.io/)
+- شبكة الإيداع المدعومة: [ADA (كاردانو)](https://cardano.org/)
+- مستكشف الكتل: [مستكشف كتل كاردانو](https://cardanoscan.io/)
 
-**Algorand (ALGO)**
+**الغوراند (ALGO)**
 
-- Supported deposit network: [ALGO (Algorand)](https://www.algorand.com/)
-- Block Explorer: [Algorand Block Explorer](https://algoexplorer.io/)
+- شبكة الإيداع المدعومة: [ALGO (الغوراند)](https://www.algorand.com/)
+- مستكشف الكتل: [مستكشف كتل الغوراند](https://algoexplorer.io/)
 
-**Avalanche (AVAX)**
+**أفالانش (AVAX)**
 
-- Supported deposit network: [AVAX (Avalanche)](https://www.avalabs.org/)
-- Block Explorer: [Avalanche Block Explorer](https://cchain.explorer.avax.network/)
+- شبكة الإيداع المدعومة: [AVAX (أفالانش)](https://www.avalabs.org/)
+- مستكشف الكتل: [مستكشف كتل أفالانش](https://cchain.explorer.avax.network/)
 
-**Near Protocol (NEAR)**
+**بروتوكول نير (NEAR)**
 
-- Supported deposit network: [NEAR (Near Protocol)](https://near.org/)
-- Block Explorer: [NEAR Block Explorer](https://explorer.near.org/)
+- شبكة الإيداع المدعومة: [NEAR (بروتوكول نير)](https://near.org/)
+- مستكشف الكتل: [مستكشف كتل NEAR](https://explorer.near.org/)
 
-**Stellar (XLM)**
+**ستيلار (XLM)**
 
-- Supported deposit network: [XLM (Stellar)](https://www.stellar.org/)
-- Block Explorer: [Stellar Block Explorer](https://stellarscan.io/)
+- شبكة الإيداع المدعومة: [XLM (ستيلار)](https://www.stellar.org/)
+- مستكشف الكتل: [مستكشف كتل ستيلار](https://stellarscan.io/)
 
-**Cosmos (ATOM)**
+**كوسموس (ATOM)**
 
-- Supported deposit network: [ATOM (Cosmos)](https://cosmos.network/)
-- Block Explorer: [Cosmos Block Explorer](https://mintscan.io/)
+- شبكة الإيداع المدعومة: [ATOM (كوسموس)](https://cosmos.network/)
+- مستكشف الكتل: [مستكشف كتل كوسموس](https://mintscan.io/)
