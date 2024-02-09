@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: Unit Eğitim, alternatif ekonomileri keşfeden öncülerin ilham almasını, eğitilmesini ve bağlantı kurmasını sağlamak için tasarlanmış vizyoner bir girişimdir. Platformumuz, blockchain okuryazarlığı oluşturmayı, giriş engellerini kaldırmayı ve Web3 dünyasına yolculuğunuza başlamak için gerekli tüm araçlarla donatılmış kompakt ve etkili bir öğrenme kaynağı sağlamayı amaçlayan çeşitli kurslar sunar.
 ---
 
 # Unit Eğitim

@@ -1,8 +1,8 @@
 ---
 title: Resmi Bağlantılar
-description: Bu sorunu çözemediğimde sizi nasıl bulabilirim
 sidebar_label: "Resmi Bağlantılar"
 sidebar_position: 2
+description: "Unit Network resmi bağlantılar, platformlar ve kanallar"
 ---
 
 Unit Network resmi bağlantılar, platformlar ve kanallar

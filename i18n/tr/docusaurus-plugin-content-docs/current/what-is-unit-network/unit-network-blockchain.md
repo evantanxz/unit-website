@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: Unit Network'ün merkezi olmayan omurgası olan UnitChain, Substrate çerçevesi kullanılarak oluşturulan amaç odaklı bir blockchain ve web uygulamasıdır.
 ---
 
 # Unit Network Blok Zinciri

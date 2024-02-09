@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Unit Brands, özel ve merak dolu bir felsefe ve kültürde köklenmiş bir vizyonu temsil eder.
 ---
 
 # Unit Markaları

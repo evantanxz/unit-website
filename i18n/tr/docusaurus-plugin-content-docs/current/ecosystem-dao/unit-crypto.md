@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: Unit Kripto, dinamik bir DAO, stratejik ortaklıklar kurmaya adanmıştır ve Bitcoin, Ethereum, Polkadot ve daha fazlası gibi çeşitli kripto topluluklarını Unit Network'e sorunsuz bir şekilde entegre etmeyi hedefler.
 ---
 
 # Unit Kripto

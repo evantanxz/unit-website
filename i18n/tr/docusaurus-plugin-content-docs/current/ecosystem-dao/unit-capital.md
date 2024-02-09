@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Unit Capital: Geleneksel Finansı Kripto İnovasyonla Birleştirme"
 ---
 
 # Unit Capital

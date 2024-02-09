@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: Unit Şehir DAO, kentsel benimseme ve blockchain teknolojisinin gelişimine liderlik eden dinamik ve yenilikçi bir Merkezsiz Otonom Örgüt (DAO) olan Unit Şehir'e adanmıştır.
 ---
 
 # Unit Şehir

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: Unit Network Şehir Tokenleri, şehir içinde bireyleri, işletmeleri ve toplulukları bir araya getiren kapsayıcı bir DAO olarak işlev görür. Aynı zamanda Blue Chip'ler tarafından desteklenen bir para birimi olarak işlev görür ve ters ETF olarak hareket ederek bireylerin belirli bir bölgenin potansiyel büyümesine katılması için tek bir token satın almasını sağlar.
 ---
 
 # Şehir Tokenleri

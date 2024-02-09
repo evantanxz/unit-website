@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: Unit Code, blockchain inovasyonu ile geleceği güçlendirmeye adanmıştır ve uzman blockchain geliştirme ve merkezsiz uygulama (dApp) oluşturma hizmetleri sunar.
 ---
 
 # Unit Kodu

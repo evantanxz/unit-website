@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: Endüstri Tokenlerinin Kullanım Alanlarını, Yönetişimini ve Tokenomisini Keşfetme
 ---
 
 # Endüstri Tokenleri

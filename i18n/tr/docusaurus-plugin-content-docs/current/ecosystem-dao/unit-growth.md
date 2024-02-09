@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: Unit Growth, the vanguard of token economic movement, is dedicated to key aspects of business development, forging strategic partnerships, and promoting retail adoption.
 ---
 
 # Unit Büyüme

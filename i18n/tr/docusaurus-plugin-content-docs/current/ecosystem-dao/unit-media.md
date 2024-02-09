@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: Kripto Evrenini Açığa Çıkarıyor.
 ---
 
 # Unit Medya

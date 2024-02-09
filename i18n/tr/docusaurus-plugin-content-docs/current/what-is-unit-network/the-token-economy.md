@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Yarının Gücü: Blok Zinciri İnovasyonu ile Daha Adil Bir Geleceğe Yönelik Token Ekonomisinde Seyir"
 ---
 
 # Token Ekonomisi

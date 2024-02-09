@@ -1,5 +1,6 @@
 ---
 sidebar_position: 13
+description: Unit Ventures, tokenleştirme ajanslarının geleneksel sınırlarını aşar, liderleri, girişimcileri, işletmeleri, markaları ve ajansları Web3'ün evrilen alanında kendi kaderlerini şekillendirmeye güç verir.
 ---
 
 # Unit Ventures

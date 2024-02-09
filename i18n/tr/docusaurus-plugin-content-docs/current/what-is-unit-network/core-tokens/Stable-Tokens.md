@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: Unit Network'te 22 sabit token bulunmaktadır; bu alternatif, ana akım kripto paraların kısa vadeli volatilitesinden kaçınmayı sağlar. Ayrıca, hem kullanıcılar hem de satıcılar için basit bir ödeme çözümü sunar.
 ---
 
 # Sabit Tokenlar

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: Unit Network, bir sonraki finans çağının öncüsü olmayı, küresel bir topluluğu ve merkezi olmayan finansal altyapıyı teşvik etmeyi amaçlamaktadır.
 ---
 
 # Unit Network Protokolü

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: Birim Sabit, fiat para birimleri, sabit tokenler ve bankacılık toplulukları arasında ortaklıklar kurarak ve entegrasyon sağlayarak finansı modernleştirmek için boşlukları kapatmaya odaklanmıştır.
 ---
 
 # Birim Sabit

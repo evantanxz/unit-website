@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Unit Network, gerçek dünya varlıklarını blok zincirine sorunsuz bir şekilde bağlayan öncü bir kod gerektirmeyen tokenleştirme uygulaması olarak öne çıkıyor. Kısacası, somut varlıkları merkezi olmayan alanla birleştirmede öncü bir güç olarak hizmet veriyor.
 ---
 
 # Unit Network'un ABC'si

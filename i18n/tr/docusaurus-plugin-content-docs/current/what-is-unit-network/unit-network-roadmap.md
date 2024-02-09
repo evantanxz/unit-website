@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: Unit Network'ün 2024 Yol Haritası, platformun çeşitli yönlerinde önemli ilerlemeleri belirler. Aşağıda, yol haritasının özlü bir açıklaması sunulmaktadır
 ---
 
 # Unit Network Yol Haritası

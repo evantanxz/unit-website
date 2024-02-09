@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: Dijital Varlığınızı Güçlendirme. İçerik Stratejisi, Markalaşma ve Sosyal Medya Mükemmelliğini Denetleme ($CONTENT)
 ---
 
 # Unit İçerik

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: Unit Network, topluluk katılımını ve platformun sürekli gelişimini sağlayan benzersiz ve sürdürülebilir bir gelir modeli üzerinde işler. İşleyişi şu şekildedir
 ---
 
 # Gelir Modeli

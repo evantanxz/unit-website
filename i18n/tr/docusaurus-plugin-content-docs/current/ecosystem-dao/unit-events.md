@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: Unit Events - Your passport to exclusive and boutique events designed for forward-thinking individuals and businesses ready to learn, share, and capitalize on token-based ecosystems.
 ---
 
 # Unit Etkinlikler

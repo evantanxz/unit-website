@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: Unit Network üzerindeki temel uygulama özelliklerine erişim için etkin ve şeffaf ağ ücretleri.
 ---
 
 # Ağ Ücretleri

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: Dijital Çağda Küresel Endüstrileri Devrimleştirme
 ---
 
 # Unit Endüstri

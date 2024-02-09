@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "UNIT: Sabit Arzlı Fayda Tokeni, UnitChain – Substrate ile titizlikle oluşturulmuş güçlü bir katman 1 blok zincirinde kök salmıştır."
 ---
 
 # $UNIT Nedir

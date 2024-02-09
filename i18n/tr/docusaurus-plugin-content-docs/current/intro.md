@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Unit Network Belgeleme Merkezi'ni keşfedin: Blockchain Devrimine Açılan Kapınız."
 ---
 
 # Belgeleme Merkezi
