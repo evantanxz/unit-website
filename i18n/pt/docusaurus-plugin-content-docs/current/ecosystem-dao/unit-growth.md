@@ -1,5 +1,7 @@
 ---
 sidebar_position: 9
+//give a suitable description for optimized SEO
+description: "Crescimento da Unit: Pioneirismo no Movimento da Economia de Tokens."
 ---
 
 # Crescimento da Unit

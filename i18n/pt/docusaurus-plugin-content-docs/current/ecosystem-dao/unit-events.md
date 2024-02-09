@@ -1,5 +1,7 @@
 ---
 sidebar_position: 8
+//give a suitable description for optimized SEO
+description: "Eleve Sua Experiência, Desencadeie Mudanças"
 ---
 
 # Unit Events

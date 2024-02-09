@@ -1,8 +1,9 @@
 ---
 title: Links Oficiais
-description: Como posso encontrá-los quando não consigo resolver este problema
 sidebar_label: "Links Oficiais"
 sidebar_position: 2
+//give a suitable description for optimized SEO
+description: "Links oficiais da Unit Network, plataformas e canais."
 ---
 
 Links oficiais da Unit Network, plataformas e canais

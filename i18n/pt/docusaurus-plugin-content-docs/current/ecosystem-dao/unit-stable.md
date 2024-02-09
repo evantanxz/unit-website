@@ -1,5 +1,7 @@
 ---
 sidebar_position: 12
+//give a suitable description for optimized SEO
+description: "Conectando os Pontos: Unit Stable Forja Parcerias Entre Comunidades de Moedas Fiat, Tokens Estáveis e Bancárias."
 ---
 
 # Unit Stable

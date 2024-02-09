@@ -1,5 +1,7 @@
 ---
 sidebar_position: 4
+//give a suitable description for optimized SEO
+description: "Tokens de Cidade da Unit Network: Desbloqueando o Potencial das Cidades na Economia de Tokens."
 ---
 
 # Tokens de Cidade

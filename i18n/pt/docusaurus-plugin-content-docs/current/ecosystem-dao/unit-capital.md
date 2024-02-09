@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+//give a suitable description for optimized SEO
+description: "Capital da Unit: Convergindo Finanças Tradicionais com Inovação em Criptomoedas."
 ---
 
 # Capital da Unit

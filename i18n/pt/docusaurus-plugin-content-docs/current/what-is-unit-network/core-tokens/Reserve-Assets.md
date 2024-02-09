@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+//give a suitable description for optimized SEO
+description: "Ativos de Reserva da Unit Network: Navegando pelo Diversificado Espectro Suportado pela Unit Network."
 ---
 
 # Ativos de Reserva

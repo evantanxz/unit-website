@@ -1,5 +1,7 @@
 ---
 sidebar_position: 10
+//give a suitable description for optimized SEO
+description: "A Indústria da Unit, uma organização autônoma descentralizada (DAO) dentro da Rede da Unit, lidera a transição das indústrias globais para a era digital por meio da integração de tokenização e tecnologia blockchain."
 ---
 
 # Indústria da Unit

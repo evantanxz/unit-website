@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+//give a suitable description for optimized SEO
+description: "Os ABCs da Unit Network: Uma Introdução Abrangente para Compreender os Fundamentos e Dinâmicas da Plataforma."
 ---
 
 # Os ABCs da Unit Network

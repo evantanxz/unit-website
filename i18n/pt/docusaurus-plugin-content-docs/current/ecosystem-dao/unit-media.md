@@ -1,5 +1,7 @@
 ---
 sidebar_position: 11
+//give a suitable description for optimized SEO
+description: "A Unit Media é uma DAO independente florescendo dentro do ecossistema da Unit Network, epitomizando a amalgamação da expertise da agência e da inovação criativa, comprometida em servir à expansiva comunidade cripto."
 ---
 
 # Unit Media

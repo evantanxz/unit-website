@@ -1,5 +1,7 @@
 ---
 sidebar_position: 4
+//give a suitable description for optimized SEO
+description: "Roteiro da Unit Network: Abrindo o Caminho para Escalabilidade, Segurança e Inovação Sustentável."
 ---
 
 # Roteiro da Unit Network
