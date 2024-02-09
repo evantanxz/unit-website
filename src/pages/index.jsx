@@ -7,6 +7,7 @@ import Translate from "@docusaurus/Translate";
 import { useColorMode } from "@docusaurus/theme-common";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import Heading from "@theme/Heading";
+import SEO from "../components/Seo";
 import styles from "./index.module.css";
 
 function HomepageHeader() {
@@ -62,6 +63,11 @@ export default function Home() {
       description="Unit Network redefines a new financial system, powered by AI,
             blockchain, and the tokenisation of assets in the real world"
     >
+      <SEO
+        title="Index"
+        description="Unit Network redefines a new financial system, powered by AI,
+            blockchain, and the tokenisation of assets in the real world"
+      />
       <HomepageHeader />
     </Layout>
   );

@@ -8,6 +8,7 @@ import Layout from "@theme/Layout";
 import clsx from "clsx";
 import { ArrowUpRight } from "lucide-react";
 import * as React from "react";
+import SEO from "../components/Seo";
 import styles from "./index.module.css";
 
 function Ecosystem() {
@@ -17,6 +18,10 @@ function Ecosystem() {
       title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
+      <SEO
+        title="Ecosystem"
+        description="Discover the Unit Network Ecosystem, representing organizations crafted by the community."
+      />
       <main className="padding-bottom--2xl bg-color-infima">
         <header
           className={clsx(
@@ -31,7 +36,8 @@ function Ecosystem() {
             </Heading>
             <p className="hero__subtitle hero-subtitle">
               <Translate>
-              Discover the Unit Network Ecosystem, representing organizations crafted by the community.
+                Discover the Unit Network Ecosystem, representing organizations
+                crafted by the community.
               </Translate>
             </p>
           </div>
@@ -62,7 +68,8 @@ function EcosystemPage() {
             </div>
             <div>
               <Translate>
-                A continual series of online events hosted by industry leaders and visionaires.
+                A continual series of online events hosted by industry leaders
+                and visionaires.
               </Translate>
             </div>
             <div className="ecosystem-card-link">
@@ -117,7 +124,8 @@ function EcosystemPage() {
             </div>
             <div>
               <Translate>
-                Learn about the power and possibilities of blockchain from the best in the industry
+                Learn about the power and possibilities of blockchain from the
+                best in the industry
               </Translate>
             </div>
             <div className="ecosystem-card-link">
@@ -144,7 +152,8 @@ function EcosystemPage() {
             </div>
             <div>
               <Translate>
-                Learn about our accelerator program that helps business owners future-proof their projects.
+                Learn about our accelerator program that helps business owners
+                future-proof their projects.
               </Translate>
             </div>
             <div className="ecosystem-card-link">
@@ -163,7 +172,9 @@ function EcosystemPage() {
         </h1>
         <p className="ecosystem-subtitle">
           <Translate>
-            Explore our decentralized autonomous organizations meticulously crafted by the community, embodying the essence of a decentralized future in blockchain exploration.
+            Explore our decentralized autonomous organizations meticulously
+            crafted by the community, embodying the essence of a decentralized
+            future in blockchain exploration.
           </Translate>
         </p>
         <div

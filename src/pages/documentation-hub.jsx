@@ -7,6 +7,7 @@ import clsx from "clsx";
 import Translate from "@docusaurus/Translate";
 import Heading from "@theme/Heading";
 import { ArrowUpRight } from "lucide-react";
+import SEO from "../components/Seo";
 import styles from "./index.module.css";
 
 function DocumentationHubHeader() {
@@ -15,6 +16,10 @@ function DocumentationHubHeader() {
     <header
       className={clsx("hero", styles.heroBanner, "documentation-header-style")}
     >
+      <SEO
+        title="Documentation Hub"
+        description="Your comprehensive guide to navigating the Unit Network."
+      />
       <div className="container">
         <Heading as="h1" className="header-title">
           <Translate>Documentation Hub</Translate>
