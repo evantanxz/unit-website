@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Blockchain Unit Network, infrastruktur ekonomi untuk DAO, memberdayakan pengambilan keputusan terdesentralisasi."
 ---
 
 # Blockchain Unit Network

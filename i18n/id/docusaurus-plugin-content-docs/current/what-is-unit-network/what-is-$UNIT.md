@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "UNIT, token utilitas dengan pasokan tetap, berakar pada UnitChain – blockchain lapisan 1 yang kokoh dibangun dengan hati-hati dengan Substrate."
 ---
 
 # Apa itu $UNIT

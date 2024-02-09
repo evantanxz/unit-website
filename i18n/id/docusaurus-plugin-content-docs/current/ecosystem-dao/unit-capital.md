@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Unit Capital: Membentuk Masa Depan Perbankan Pedagang yang Didorong oleh Crypto"
 ---
 
 # Unit Capital

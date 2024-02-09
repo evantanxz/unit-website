@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Model Pendapatan Unit Network: Mendorong Keterlibatan Komunitas dan Pertumbuhan Berkelanjutan."
 ---
 
 # Model Pendapatan

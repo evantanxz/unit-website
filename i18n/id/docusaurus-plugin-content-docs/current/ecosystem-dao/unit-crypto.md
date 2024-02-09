@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: "Unit Crypto, sebuah DAO yang dinamis, bertujuan membentuk kemitraan strategis dan mengintegrasikan berbagai komunitas crypto, termasuk Bitcoin, Ethereum, Polkadot, dan lainnya, ke dalam Jaringan Unit."
 ---
 
 # Unit Crypto

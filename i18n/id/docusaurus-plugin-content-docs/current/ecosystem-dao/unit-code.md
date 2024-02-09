@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Unit Code adalah pelopor dalam merancang aplikasi-inovatif, menawarkan pengembangan blockchain yang ahli dan layanan pembangunan aplikasi terdesentralisasi (dApp)."
 ---
 
 # Unit Code

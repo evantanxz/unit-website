@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Pusat Dokumentasi Unit Network: Pintu Gerbang Anda ke Revolusi Blockchain."
 ---
 
 # Pusat Dokumentasi

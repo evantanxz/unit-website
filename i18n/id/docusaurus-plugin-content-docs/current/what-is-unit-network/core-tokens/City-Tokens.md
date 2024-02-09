@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Token Kota Unit Network: Membuka Potensi, Tata Kelola, dan Tokenomics"
 ---
 
 # Token Kota

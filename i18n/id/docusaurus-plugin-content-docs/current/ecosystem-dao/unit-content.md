@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Menguatkan Kehadiran Digital Anda: Menguasai Strategi Konten, Branding, dan Keunggulan Media Sosial dengan Unit Content"
 ---
 
 # Unit Content

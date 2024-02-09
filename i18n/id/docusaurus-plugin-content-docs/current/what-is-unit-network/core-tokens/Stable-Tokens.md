@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Stable Tokens di Unit Network: Menavigasi Lanskap, Memahami Penggunaan, dan Mengungkap Mekanisme"
 ---
 
 # Stable Tokens

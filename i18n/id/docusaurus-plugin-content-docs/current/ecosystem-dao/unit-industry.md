@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "Unit Industry, sebuah organisasi otonom terdesentralisasi (DAO) dalam Unit Network, memimpin perubahan dalam mengalihkan industri global ke era digital melalui integrasi tokenisasi dan teknologi blockchain."
 ---
 
 # Unit Industry

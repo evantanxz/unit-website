@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Memberdayakan Masa Depan: Menavigasi Ekonomi Token untuk Masa Depan yang Lebih Adil dengan Inovasi Blockchain"
 ---
 
 # Ekonomi Token

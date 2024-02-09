@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Token Industri adalah DAO terbuka, menyatukan individu, bisnis, dan komunitas dalam industri."
 ---
 
 # Token Industri

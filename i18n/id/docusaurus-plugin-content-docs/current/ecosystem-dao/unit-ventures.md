@@ -1,5 +1,6 @@
 ---
 sidebar_position: 13
+description: "Unit Ventures: Membina Ekonomi Token."
 ---
 
 # Unit Ventures

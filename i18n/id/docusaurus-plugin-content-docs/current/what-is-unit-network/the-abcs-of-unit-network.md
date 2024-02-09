@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Pengantar ke Hub Dokumentasi Unit Network: Pintu Masuk Anda ke Revolusi Blockchain."
 ---
 
 # Dasar-Dasar Unit Network

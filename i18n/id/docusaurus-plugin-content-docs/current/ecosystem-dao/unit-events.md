@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "Unit Events adalah paspor Anda ke acara eksklusif dan butik yang disesuaikan untuk individu dan bisnis yang berpikiran maju, siap untuk belajar, berbagi, dan mengkapitalisasi ekosistem berbasis token."
 ---
 
 # Unit Events

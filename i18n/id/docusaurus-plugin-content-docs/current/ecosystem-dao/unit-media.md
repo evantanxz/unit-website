@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: "Membongkar Semesta Kripto."
 ---
 
 # Unit Media

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "Unit Stable: Menyambung Kesenjangan untuk Memodernisasi Keuangan"
 ---
 
 # Unit Stable

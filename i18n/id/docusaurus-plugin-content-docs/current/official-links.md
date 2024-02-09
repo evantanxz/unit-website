@@ -1,8 +1,8 @@
 ---
 title: Tautan Resmi
-description: Bagaimana cara menemukan kami saat saya tidak bisa menyelesaikan masalah ini
 sidebar_label: "Tautan Resmi"
 sidebar_position: 2
+description: "Tautan resmi Unit Network, platform, dan saluran"
 ---
 
 Tautan resmi Unit Network, platform, dan saluran

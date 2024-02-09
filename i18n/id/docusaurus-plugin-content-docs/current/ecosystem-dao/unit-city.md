@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Unit City DAO: Mengungkapkan Horison Tanpa Batas dari Pengalaman DAO"
 ---
 
 # Unit City

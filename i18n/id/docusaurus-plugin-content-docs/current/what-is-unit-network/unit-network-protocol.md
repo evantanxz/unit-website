@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Protokol Unit Network, membuka jalan finansial di masa depan, menyatukan komunitas global, dan membangun masa depan keuangan terdesentralisasi."
 ---
 
 # Protokol Unit Network

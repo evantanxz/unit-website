@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Membongkar Batasan, Membangun Pengetahuan: Melepaskan Kekuatan Pendidikan Blockchain dengan $EDUCATION"
 ---
 
 # Unit Education
