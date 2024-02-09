@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "Eleva Tu Experiencia, Desata el Cambio"
 ---
 
 # Unit Events

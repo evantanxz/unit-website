@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Explorando Casos de Uso, Gobierno y Tokenómica de los Tokens de Industria"
 ---
 
 # Tokens de Industria

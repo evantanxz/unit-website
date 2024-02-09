@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Descubriendo el Centro de Documentación de Unit Network: Tu Puerta de Entrada a una Revolución Blockchain."
 ---
 
 # Centro de Documentación

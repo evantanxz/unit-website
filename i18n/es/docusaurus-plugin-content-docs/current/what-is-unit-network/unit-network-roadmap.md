@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Hoja de Ruta de Unit Network para el año 2024: Abriendo el Camino hacia la Escalabilidad, Seguridad e Innovación Sostenible."
 ---
 
 # Hoja de Ruta de Unit Network

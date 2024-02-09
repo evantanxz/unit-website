@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Tokens Estables en Unit Network: Navegando el Paisaje, Comprendiendo Usos y Revelando los Mecanismos"
 ---
 
 # Tokens Estables

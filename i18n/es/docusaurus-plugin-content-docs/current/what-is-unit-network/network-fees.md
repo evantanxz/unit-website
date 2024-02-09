@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "Tarifas de red eficientes y transparentes para acceder a las funciones principales de la aplicación"
 ---
 
 # Tarifas de la Red

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Modelo de ingresos de Unit Network: una estructura de tarifas transparente y equitativa que impulsa la sostenibilidad y el crecimiento continuo de la plataforma."
 ---
 
 # Modelo de Ingresos

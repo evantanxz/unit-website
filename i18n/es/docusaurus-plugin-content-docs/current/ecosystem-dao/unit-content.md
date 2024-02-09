@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Potenciando tu Presencia Digital"
 ---
 
 # Unit Content

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: "Uniendo el Futuro de las Fronteras Financieras Descentralizadas"
 ---
 
 # Unit Crypto

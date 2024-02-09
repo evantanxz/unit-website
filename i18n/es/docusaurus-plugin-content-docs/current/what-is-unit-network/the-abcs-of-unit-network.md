@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Una Introducción Integral para Comprender los Fundamentos y la Dinámica de la Plataforma"
 ---
 
 # ABCs de Unit Network

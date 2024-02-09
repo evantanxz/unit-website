@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Descubriendo los Horizontes Infinitos de las Experiencias DAO"
 ---
 
 # Unit City

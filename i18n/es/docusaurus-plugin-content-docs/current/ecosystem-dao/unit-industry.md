@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "Revolucionando Industrias Globales en la Era Digital"
 ---
 
 # Unit Industry

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Desbloqueando el Potencial: Navegando por los Tokens de Ciudad de Unit Network - Desde el Uso y la Gobernanza hasta la Tokenómica"
 ---
 
 # Tokens de Ciudad

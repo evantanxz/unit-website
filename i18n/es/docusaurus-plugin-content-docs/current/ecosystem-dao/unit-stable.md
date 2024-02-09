@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "Uniendo Fuerzas: Unit Stable Forja Alianzas entre las Comunidades de Moneda Fiat, Token Estable y Bancaria"
 ---
 
 # Unit Stable

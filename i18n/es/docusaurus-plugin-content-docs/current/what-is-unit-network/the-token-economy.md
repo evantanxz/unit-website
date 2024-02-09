@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Empoderando el Mañana: Navegando por la Economía de Tokens para un Futuro Más Justo con Innovación Blockchain"
 ---
 
 # La Economía de Tokens
