@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Libérer le potentiel : Navigation dans les Tokens de Ville de l'Unit Network - De l'utilisation et de la gouvernance à la tokenomie"
 ---
 
 # Tokens de Ville

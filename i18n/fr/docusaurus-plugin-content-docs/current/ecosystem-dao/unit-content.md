@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Unit Content est votre passerelle pour maîtriser la création de contenu et rester en tête dans le domaine en constante évolution des médias sociaux."
 ---
 
 # Unit Content

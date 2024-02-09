@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: "Dévoiler l'Univers Crypto : Votre Source pour les Dernières Idées, Actualités et Mises à Jour du Réseau"
 ---
 
 # Unit Media

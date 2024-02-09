@@ -1,8 +1,8 @@
 ---
 title: Liens Officiels
-description: Comment me trouver lorsque je ne peux pas résoudre ce problème
 sidebar_label: "Liens Officiels"
 sidebar_position: 2
+description: "Liens officiels de Unit Network, plateformes et canaux"
 ---
 
 Liens officiels de Unit Network, plateformes et canaux

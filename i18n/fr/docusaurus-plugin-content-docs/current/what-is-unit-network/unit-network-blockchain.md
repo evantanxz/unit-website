@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Blockchain de Unit Network, une infrastructure économique pour les DAO, favorisant la prise de décision décentralisée."
 ---
 
 # Blockchain de Unit Network

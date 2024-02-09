@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "Frais du réseau efficaces et transparents pour accéder aux fonctionnalités principales de l'application"
 ---
 
 # Frais du Réseau

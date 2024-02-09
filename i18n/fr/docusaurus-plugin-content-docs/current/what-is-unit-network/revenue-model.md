@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Modèle économique transparent et durable d'Unit Network, garantissant l'engagement communautaire et le développement continu de la plateforme."
 ---
 
 # Modèle Économique

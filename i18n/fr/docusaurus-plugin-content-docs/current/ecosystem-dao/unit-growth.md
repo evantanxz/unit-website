@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "Unit Growth, une division de l'écosystème Unit Network, est dédiée à la croissance et à l'expansion du réseau Unit."
 ---
 
 # Croissance Unit

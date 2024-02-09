@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Une Introduction Complète pour Comprendre les Fondamentaux et la Dynamique de la Plateforme"
 ---
 
 # ABCs d'Unit Network

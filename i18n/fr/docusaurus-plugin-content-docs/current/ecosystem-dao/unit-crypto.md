@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: "Naviguer vers l'Avenir des Frontières Financières Décentralisées"
 ---
 
 # Unit Crypto

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "Révolutionner les Industries Mondiales à l'Ère Numérique"
 ---
 
 # Industrie Unit

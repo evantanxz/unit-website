@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "Unit Stable Forge des Partenariats Entre les Communautés Fiat, Stable Token et Bancaires"
 ---
 
 # Unit Stable

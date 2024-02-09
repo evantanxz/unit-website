@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Les Tokens Stables Démystifiés : Naviguer dans le Paysage, Comprendre les Utilisations et Dévoiler les Mécanismes"
 ---
 
 # Tokens Stables

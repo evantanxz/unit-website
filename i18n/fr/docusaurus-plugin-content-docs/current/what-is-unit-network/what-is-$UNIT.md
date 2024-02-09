@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Découvrez UNIT : Lancement de l'avenir de l'économie des jetons"
 ---
 
 # Qu'est-ce que $UNIT

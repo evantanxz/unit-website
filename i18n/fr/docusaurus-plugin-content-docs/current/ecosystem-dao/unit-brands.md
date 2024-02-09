@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Unit Brands incarne une philosophie et une culture ancrées dans l'exclusivité et la curiosité."
 ---
 
 # Unit Brands

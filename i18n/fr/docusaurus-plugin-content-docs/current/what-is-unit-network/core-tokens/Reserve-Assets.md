@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Révélation du Hub de Documentation Unit Network : Votre Porte d'Entrée vers une Révolution Blockchain."
 ---
 
 # Actifs de Réserve

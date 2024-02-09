@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Unit City : Dévoiler les Horizons Illimités des Expériences DAO"
 ---
 
 # Unit City

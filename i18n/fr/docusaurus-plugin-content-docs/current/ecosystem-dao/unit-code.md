@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Unit Code, un pionnier dans la création d'applications innovantes, offrant des services experts en développement blockchain et en construction d'applications décentralisées (dApp)."
 ---
 
 # Unit Code

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Explorer les cas d'utilisation, la gouvernance et la tokenomie des Tokens de l'Industrie"
 ---
 
 # Tokens de l'Industrie

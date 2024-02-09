@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "Unit Événements est votre passeport pour des événements exclusifs et de boutique conçus pour les individus et les entreprises avant-gardistes prêts à apprendre, partager et tirer parti des écosystèmes basés sur les tokens."
 ---
 
 # Unit Événements

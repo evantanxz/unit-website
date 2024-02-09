@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Protocole de Unit Network, une infrastructure économique pour les DAO, favorisant la prise de décision décentralisée."
 ---
 
 # Protocole de Unit Network

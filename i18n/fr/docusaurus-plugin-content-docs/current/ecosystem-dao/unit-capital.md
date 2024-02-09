@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Unit Capital : Convergence de la Finance Traditionnelle avec l'Innovation Crypto"
 ---
 
 # Unit Capital

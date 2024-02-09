@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Autonomiser Demain : Naviguer dans l'Économie des Jetons pour un Avenir Plus Juste avec l'Innovation Blockchain"
 ---
 
 # L'Économie des Jetons
