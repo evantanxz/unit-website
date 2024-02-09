@@ -355,6 +355,26 @@ const config = {
           content: "img/unit-logo.png",
         },
       ],
+      headTags: [
+        {
+          tagName: "script",
+          innerHTML: JSON.stringify({
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            name: "Unit Network",
+            url: "https://tolstoy.unitcode.org/",
+            logo: "https://tolstoy.unitcode.org/img/unit-logo.png",
+            sameAs: [
+              "https://t.me/unitfoundation",
+              "https://twitter.com/theunitnetwork",
+              "https://www.linkedin.com/company/theunitnetwork",
+              "https://www.instagram.com/unit.network",
+              "https://discord.com/invite/unitnetwork",
+              "https://www.youtube.com/c/UnitGlobal",
+            ],
+          }),
+        },
+      ],
 
       //Search Function
       // algolia: {
