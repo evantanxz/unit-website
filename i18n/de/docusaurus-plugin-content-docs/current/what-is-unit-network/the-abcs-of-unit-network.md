@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Eine umfassende Einführung in die Grundlagen und Dynamiken der Plattform"
 ---
 
 # Die ABCs von Unit Network

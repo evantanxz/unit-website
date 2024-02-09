@@ -1,5 +1,6 @@
 ---
 sidebar_position: 12
+description: "Die Lücke schließen, um Finanzwesen zu modernisieren: Unit Stable schmiedet Partnerschaften zwischen Fiat-, Stable-Token- und Banken-Communities"
 ---
 
 # Unit Stable

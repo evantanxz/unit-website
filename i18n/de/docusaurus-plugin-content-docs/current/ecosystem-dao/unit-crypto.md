@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: "Die Zukunft der dezentralen finanziellen Grenzen navigieren"
 ---
 
 # Unit Crypto

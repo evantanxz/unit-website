@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "Unit Industry revolutioniert globale Industrien im digitalen Zeitalter durch die Integration von Tokenisierung und Blockchain-Technologie."
 ---
 
 # Unit Industry

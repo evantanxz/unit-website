@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Die Zukunft mit Blockchain-Innovationen vorantreiben"
 ---
 
 # Unit Code

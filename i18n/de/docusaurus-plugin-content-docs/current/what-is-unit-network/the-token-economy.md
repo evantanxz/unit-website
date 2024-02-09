@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Die Zukunft stärken: Die Token-Ökonomie für eine gerechtere Zukunft mit Blockchain-Innovationen gestalten"
 ---
 
 # Die Token-Ökonomie

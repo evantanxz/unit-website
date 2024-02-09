@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Das Unit Network Dokumentationszentrum dient als dein Kompass in diesem dynamischen Bereich und bietet einen umfassenden Leitfaden, um deine Reise zu beginnen.
 ---
 
 # Dokumentationszentrum

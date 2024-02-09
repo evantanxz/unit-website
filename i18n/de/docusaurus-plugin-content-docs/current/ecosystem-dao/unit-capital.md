@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Unit Capital: Zusammenführung von traditioneller Finanzierung mit Krypto-Innovation"
 ---
 
 # Unit Capital

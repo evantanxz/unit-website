@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Geschäftsmodell für Einnahmen: Ein nachhaltiges und transparentes Modell, das die Beteiligung der Community und die kontinuierliche Entwicklung der Plattform gewährleistet."
 ---
 
 # Geschäftsmodell für Einnahmen

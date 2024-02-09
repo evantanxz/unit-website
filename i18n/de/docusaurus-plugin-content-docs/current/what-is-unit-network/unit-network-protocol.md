@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Pionierarbeit für die Finanzen von morgen, Vereinigung globaler Gemeinschaften und Aufbau einer dezentralen finanziellen Zukunft."
 ---
 
 # Unit Network Protocol

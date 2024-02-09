@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "Unit Growth widmet sich entscheidenden Aspekten der Geschäftsentwicklung, schmiedet strategische Partnerschaften und fördert die Akzeptanz im Einzelhandel."
 ---
 
 # Unit Growth

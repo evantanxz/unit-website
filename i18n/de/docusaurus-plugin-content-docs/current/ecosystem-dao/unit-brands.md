@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Unit Brands verkörpert eine Philosophie und Kultur, die auf Exklusivität und Neugierde gründet. Als DAO (Dezentralisierte Autonome Organisation), die für globale Visionäre geschaffen wurde, inszeniert sie außergewöhnliche Räume, die mit Kunst, Kultur und immersiven Gemeinschaftserlebnissen angereichert sind."
 ---
 
 # Unit Brands

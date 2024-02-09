@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Potenzial entfesseln: Navigation durch Unit Network City Tokens – Von Nutzung und Governance bis zur Tokenomics"
 ---
 
 # City Tokens

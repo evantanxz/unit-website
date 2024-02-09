@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "Effiziente und transparente Netzwerkgebühren für den Zugriff auf die Funktionen der Kernanwendung"
 ---
 
 # Netzwerkgebühren

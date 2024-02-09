@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Die UnitChain, das dezentrale Rückgrat von Unit Network, ist eine maßgeschneiderte Blockchain und Webanwendung, die mit dem Substrate-Framework erstellt wurde."
 ---
 
 # Unit Network Blockchain

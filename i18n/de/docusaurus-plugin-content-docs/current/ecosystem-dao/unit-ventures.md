@@ -1,5 +1,6 @@
 ---
 sidebar_position: 13
+description: "Förderung von Token-Ökonomien"
 ---
 
 # Unit Ventures

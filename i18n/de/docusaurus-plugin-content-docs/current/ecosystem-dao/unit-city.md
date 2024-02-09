@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Enthüllung der grenzenlosen Horizonte von DAO-Erfahrungen"
 ---
 
 # Unit City

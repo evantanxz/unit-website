@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Erkundung von Anwendungsfällen, Governance und Tokenomics von Industrie-Token"
 ---
 
 # Industrie-Token

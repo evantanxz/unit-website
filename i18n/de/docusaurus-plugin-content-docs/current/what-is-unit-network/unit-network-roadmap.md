@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Die Roadmap von Unit Network für 2024 skizziert wegweisende Fortschritte in verschiedenen Bereichen der Plattform."
 ---
 
 # Unit Network Roadmap

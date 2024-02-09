@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: "Die Enthüllung des Krypto-Universums: Ihre Quelle für die neuesten Einblicke, Nachrichten und Netzwerk-Updates"
 ---
 
 # Unit Media

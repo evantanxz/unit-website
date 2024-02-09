@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Die Kraft der Blockchain-Bildung entfesseln mit $EDUCATION"
 ---
 
 # Unit Education

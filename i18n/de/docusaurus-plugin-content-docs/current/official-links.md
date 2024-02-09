@@ -1,8 +1,8 @@
 ---
 title: Offizielle Links
-description: Wie finde ich euch, wenn ich dieses Problem nicht lösen kann
 sidebar_label: "Offizielle Links"
 sidebar_position: 2
+description: Das Unit Network Dokumentationszentrum dient als dein Kompass in diesem dynamischen Bereich und bietet einen umfassenden Leitfaden, um deine Reise zu beginnen.
 ---
 
 Unit Network offizielle Links, Plattformen und Kanäle

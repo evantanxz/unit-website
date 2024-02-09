@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Stärkung Ihrer digitalen Präsenz: Beherrschen Sie Content-Strategie, Branding und Social-Media-Exzellenz mit Unit Content ($CONTENT)"
 ---
 
 # Unit Content

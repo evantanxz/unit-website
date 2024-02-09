@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Stabile Token entmystifiziert: Navigation durch die Landschaft, Verständnis der Anwendungen und Enthüllung der Mechanik"
 ---
 
 # Stable Tokens

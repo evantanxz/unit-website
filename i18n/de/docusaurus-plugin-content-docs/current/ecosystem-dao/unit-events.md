@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "Erleben Sie Höhepunkte, Entfesseln Sie Veränderungen"
 ---
 
 # Unit Events
