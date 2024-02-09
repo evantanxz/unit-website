@@ -1,5 +1,6 @@
 ---
 sidebar_position: 11
+description: ユニットメディアは、暗号通貨の宇宙を明らかにします。
 ---
 
 # ユニットメディア

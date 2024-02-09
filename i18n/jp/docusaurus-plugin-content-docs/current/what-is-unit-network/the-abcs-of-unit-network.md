@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: ユニットネットワークの基本とダイナミクスを理解するための包括的な紹介
 ---
 
 # Unit Network の ABC

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Unit Network ドキュメンテーションハブのお披露目: ブロックチェーン革命への入り口。"
 ---
 
 # ドキュメンテーションハブ

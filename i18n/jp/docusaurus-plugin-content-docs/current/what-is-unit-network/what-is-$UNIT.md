@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: $UNIT は、固定供給のユーティリティトークンであり、Substrate を使用して慎重に構築された強力な Layer 1 ブロックチェーンである UnitChain にそのルーツを持っています。
 ---
 
 # $UNIT とは

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: UnitChain は、Unit Network の分散型バックボーンであり、Substrate フレームワークを使用して作成された特定の目的のために構築されたブロックチェーンおよび Web アプリケーションです。
 ---
 
 # ユニットネットワーク ブロックチェーン
