@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "UnitChain 是 Unit Network 的分散式骨干，是使用 Substrate 框架精心打造的专用区块链和 Web 应用程序。"
 ---
 
 # Unit Network 区块链

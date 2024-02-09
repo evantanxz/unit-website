@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+description: "提升您的体验，释放变革"
 ---
 
 # 单位活动

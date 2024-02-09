@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "Unit Network 行业通证"
 ---
 
 # 行业通证

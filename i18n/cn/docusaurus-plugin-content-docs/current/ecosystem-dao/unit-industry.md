@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: "在数字时代革命全球产业"
 ---
 
 # 单位产业

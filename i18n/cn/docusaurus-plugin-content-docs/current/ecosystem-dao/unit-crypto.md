@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+description: "引领去中心化金融前沿的未来"
 ---
 
 # 单位加密

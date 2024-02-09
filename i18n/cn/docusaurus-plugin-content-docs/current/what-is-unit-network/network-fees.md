@@ -1,6 +1,6 @@
-```markdown
 ---
 sidebar_position: 8
+description: "访问核心应用功能的高效透明网络费用"
 ---
 
 # 网络费用
@@ -31,4 +31,3 @@ sidebar_position: 8
 - 0.5% 划归给 UNIT 财政
 - 0.5% 分配给处理提款的 Vault。
   这种平衡的分配确保了提款费用的比例分配，有助于 Unit Network 生态系统的可持续性和功能。
-```

@@ -1,8 +1,8 @@
 ---
 title: 官方链接
-description: 当我无法解决这个问题时，如何找到你们
 sidebar_label: "官方链接"
 sidebar_position: 2
+description: "Unit Network 官方链接、平台和渠道"
 ---
 
 Unit Network 官方链接、平台和渠道

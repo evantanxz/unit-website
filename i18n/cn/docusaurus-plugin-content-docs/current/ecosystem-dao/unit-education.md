@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "通过区块链教育引领未来"
 ---
 
 # 单位教育

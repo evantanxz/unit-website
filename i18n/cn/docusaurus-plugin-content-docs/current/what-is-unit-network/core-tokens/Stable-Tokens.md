@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Unit Network 稳定币揭秘：导航风景，理解用途，揭示机制"
 ---
 
 # 稳定币

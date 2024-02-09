@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Unit Capital: Shaping the Future of Cryptocurrency-Backed Commercial Banks"
 ---
 
 # 单位资本
