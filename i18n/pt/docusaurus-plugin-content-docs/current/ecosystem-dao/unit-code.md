@@ -1,6 +1,5 @@
 ---
 sidebar_position: 4
-//give a suitable description for optimized SEO
 description: "Unidade de Código: Impulsionando o Futuro com Inovação em Blockchain."
 ---
 

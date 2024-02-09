@@ -1,6 +1,5 @@
 ---
 sidebar_position: 5
-//give a suitable description for optimized SEO
 description: "O que é $UNIT"
 ---
 

@@ -1,6 +1,5 @@
 ---
 sidebar_position: 8
-//give a suitable description for optimized SEO
 description: "Taxas de Rede Eficientes e Transparentes para Acesso a Recursos Essenciais do Aplicativo Principal."
 ---
 

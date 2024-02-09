@@ -1,6 +1,5 @@
 ---
 sidebar_position: 6
-//give a suitable description for optimized SEO
 description: "Navegando pelo Futuro das Fronteiras Financeiras Descentralizadas"
 ---
 

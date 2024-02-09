@@ -1,6 +1,5 @@
 ---
 sidebar_position: 3
-//give a suitable description for optimized SEO
 description: "Protocolo da Unit Network: Pioneirando a Finança do Amanhã, Unindo Comunidades Globais e Construindo um Futuro Financeiro Descentralizado."
 ---
 

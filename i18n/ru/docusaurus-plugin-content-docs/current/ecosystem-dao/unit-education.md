@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+description: "Преодоление Барьеров, Построение Знаний: Раскройте Мощь Образования в Области Блокчейна с $EDUCATION"
 ---
 
 # Unit Education

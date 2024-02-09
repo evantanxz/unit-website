@@ -1,6 +1,5 @@
 ---
 sidebar_position: 3
-//give a suitable description for optimized SEO
 description: "Cidade da Unit: Revelando os Horizontes Ilimitados das Experiências em DAO."
 ---
 

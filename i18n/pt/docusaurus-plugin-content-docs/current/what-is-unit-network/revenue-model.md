@@ -1,6 +1,5 @@
 ---
 sidebar_position: 7
-//give a suitable description for optimized SEO
 description: "Modelo de Receitas da Unit Network: Distribuição Equitativa e Sustentável de Taxas de Troca."
 ---
 

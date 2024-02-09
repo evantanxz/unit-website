@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: Азбука Unit Network - комплексное введение в понимание основ и динамики платформы
 ---
 
 # Азбука Unit Network

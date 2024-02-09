@@ -1,6 +1,5 @@
 ---
 sidebar_position: 7
-//give a suitable description for optimized SEO
 description: "A Unit Education é uma iniciativa visionária projetada para inspirar, educar e conectar pioneiros explorando economias alternativas."
 ---
 

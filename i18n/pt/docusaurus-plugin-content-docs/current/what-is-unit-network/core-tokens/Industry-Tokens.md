@@ -1,6 +1,5 @@
 ---
 sidebar_position: 3
-//give a suitable description for optimized SEO
 description: "Tokens da Indústria da Unit Network: Desbloqueando o Potencial das Indústrias na Economia de Tokens."
 ---
 

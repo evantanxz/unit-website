@@ -2,7 +2,6 @@
 title: Links Oficiais
 sidebar_label: "Links Oficiais"
 sidebar_position: 2
-//give a suitable description for optimized SEO
 description: "Links oficiais da Unit Network, plataformas e canais."
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Официальные ссылки
-description: Как я могу вас найти, если не могу решить эту проблему
 sidebar_label: "Официальные ссылки"
 sidebar_position: 2
+description: Официальные ссылки, платформы и каналы Unit Network
 ---
 
 Официальные ссылки, платформы и каналы Unit Network

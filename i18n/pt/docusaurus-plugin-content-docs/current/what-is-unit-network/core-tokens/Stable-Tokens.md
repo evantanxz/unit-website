@@ -1,6 +1,5 @@
 ---
 sidebar_position: 2
-//give a suitable description for optimized SEO
 description: "Tokens Estáveis da Unit Network: Desbloqueando o Potencial das Criptomoedas Estáveis na Economia de Tokens."
 ---
 

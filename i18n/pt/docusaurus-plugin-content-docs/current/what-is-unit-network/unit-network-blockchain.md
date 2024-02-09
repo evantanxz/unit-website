@@ -1,6 +1,5 @@
 ---
 sidebar_position: 2
-//give a suitable description for optimized SEO
 description: "Blockchain da Unit Network: A Espinha Dorsal Descentralizada da Economia de Tokens."
 ---
 

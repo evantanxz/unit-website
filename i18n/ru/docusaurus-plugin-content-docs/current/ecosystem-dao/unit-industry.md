@@ -1,5 +1,6 @@
 ---
 sidebar_position: 10
+description: Революционизация Глобальных Промышленностей в Цифровую Эпоху
 ---
 
 # Unit Industry

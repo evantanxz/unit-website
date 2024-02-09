@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-//give a suitable description for optimized SEO
 description: "Marcas da Unit: Uma Jornada de Exclusividade e Curiosidade."
 ---
 

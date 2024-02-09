@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-//give a suitable description for optimized SEO
 description: "Hub de Documentação da Unit Network: Sua Porta de Entrada para uma Revolução Blockchain."
 ---
 

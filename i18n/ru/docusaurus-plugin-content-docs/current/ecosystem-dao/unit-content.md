@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: Укрепляя Ваше Цифровое Присутствие. Освоение Стратегии Контента, Брендинга и Превосходства в Социальных Медиа с Unit Content ($CONTENT)
 ---
 
 # Unit Content

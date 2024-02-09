@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "Узнайте, что такое $UNIT: Зажигая будущее токенов"
 ---
 
 # Что такое $UNIT
