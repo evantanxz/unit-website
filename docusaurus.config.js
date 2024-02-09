@@ -293,6 +293,69 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
 
+      //NOTE - SEO
+      metadata: [
+        {
+          name: "keywords",
+          content: "unit, network, crypto, cryptocurrency, blockchain, token",
+        },
+        {
+          name: "description",
+          content:
+            "Unit Network redefines a new financial system, powered by AI, blockchain, and the tokenisation of assets in the real world",
+        },
+        {
+          name: "og:title",
+          content: "Unit Network",
+        },
+        {
+          name: "og:description",
+          content:
+            "Unit Network redefines a new financial system, powered by AI, blockchain, and the tokenisation of assets in the real world",
+        },
+        {
+          name: "og:image",
+          content: "img/unit-logo.png",
+        },
+        {
+          name: "og:url",
+          content: "https://tolstoy.unitcode.org/",
+        },
+        {
+          name: "og:site_name",
+          content: "Unit Network",
+        },
+        {
+          name: "og:type",
+          content: "website",
+        },
+        {
+          name: "twitter:card",
+          content: "summary_large_image",
+        },
+        {
+          name: "twitter:site",
+          content: "@theunitnetwork",
+        },
+        {
+          name: "twitter:creator",
+          content: "@theunitnetwork",
+        },
+        {
+          name: "twitter:title",
+          content: "Unit Network",
+        },
+        {
+          name: "twitter:description",
+          content:
+            "Unit Network redefines a new financial system, powered by AI, blockchain, and the tokenisation of assets in the real world",
+        },
+        {
+          name: "twitter:image",
+          content: "img/unit-logo.png",
+        },
+      ],
+
       //Search Function
       // algolia: {
       //   // New Algolia configuration...
