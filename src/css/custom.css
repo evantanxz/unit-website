@@ -737,6 +737,9 @@ header {
 .w-24 {
   width: 12rem;
 }
+.h-auto {
+  height: auto;
+}
 
 .size-24 {
   width: 12rem;
@@ -758,10 +761,17 @@ header {
 /* Media Page */
 
 .color-box {
-  width: 12rem;
-  height: 8rem;
+  width: 6rem;
+  height: 4rem;
   border-radius: 1rem;
   border: 1px solid #ddd;
+}
+
+@media (min-width: 640px) {
+  .color-box {
+    width: 12rem;
+    height: 8rem;
+  }
 }
 
 .font-body-component {
