@@ -1,0 +1,37 @@
+---
+sidebar_position: 1
+---
+
+# Logo
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+
+import FlexComponent from "@site/src/components/FlexComponent";
+
+### Text Logo
+
+<img src={require("@site/static/img/media/text-logo-1.png").default} />
+[Download](/img/media/text-logo-1.png)
+
+### Shape Logo
+
+<FlexComponent className="gap-8">
+  <div className="flex-col">
+    <img
+      className="w-24 mb-4"
+      src={require("@site/static/img/media/logo-1.png").default}
+    />
+    <a href="/img/media/logo-1.png" download>
+      Download
+    </a>
+  </div>
+  <div className="flex-col">
+    <img
+      className="w-24 mb-4"
+      src={require("@site/static/img/media/logo-2.png").default}
+    />
+    <a href="/img/media/logo-2.png" download>
+      Download
+    </a>
+  </div>
+</FlexComponent>

@@ -1,8 +1,15 @@
 @import url("https://fonts.cdnfonts.com/css/helvetica-neue-5");
 @import url("https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 * {
   font-family: "Inter", sans-serif;
+}
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+}
+.font-lato {
+  font-family: "Lato", sans-serif;
 }
 
 /**
@@ -390,6 +397,14 @@ header {
   }
 }
 
+/* FlexComponent */
+
+.flex-component {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
 @media (max-width: 480px) {
   .grid-component {
     grid-template-columns: repeat(1, 1fr);
@@ -550,4 +565,210 @@ header {
   margin-left: auto;
   margin-right: auto;
   height: 240px;
+}
+
+/* Colors */
+
+.bg-unit-purple-40 {
+  background-color: #4b1fff;
+}
+.bg-unit-purple-30 {
+  background-color: #6a45ff;
+}
+.bg-unit-purple-20 {
+  background-color: #9d85ff;
+}
+.bg-unit-blue-40 {
+  background-color: #2fadeb;
+}
+.bg-unit-blue-30 {
+  background-color: #52b9eb;
+}
+.bg-unit-blue-20 {
+  background-color: #8dcceb;
+}
+.bg-unit-green-40 {
+  background-color: #29ccb4;
+}
+.bg-unit-green-30 {
+  background-color: #85e1cb;
+}
+.bg-unit-green-20 {
+  background-color: #bde1dd;
+}
+.bg-unit-black {
+  background-color: #212121;
+}
+.bg-unit-white {
+  background-color: #ffffff;
+}
+
+/* Utility */
+.flex-center {
+  display: flex;
+  align-items: center;
+}
+.flex-center-responsive {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+@media (min-width: 1024px) {
+  .flex-center-responsive {
+    flex-direction: row;
+  }
+}
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.grid-center {
+  display: grid;
+  align-items: center;
+}
+.grid-cols-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.items-center {
+  align-items: center;
+}
+.justify-evenly {
+  justify-content: space-evenly;
+}
+.justify-between {
+  justify-content: space-between;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}
+.gap-4 {
+  gap: 1rem;
+}
+.gap-6 {
+  gap: 1.5rem;
+}
+.gap-8 {
+  gap: 2rem;
+}
+
+.mb-0 {
+  margin-bottom: 0;
+}
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.mx-4 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.mx-8 {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.font-light {
+  font-weight: 300;
+}
+
+.font-normal {
+  font-weight: 400;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.font-extrabold {
+  font-weight: 800;
+}
+
+.font-black {
+  font-weight: 900;
+}
+
+.font-italic {
+  font-style: italic;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.w-24 {
+  width: 12rem;
+}
+
+.size-24 {
+  width: 12rem;
+  height: 12rem;
+}
+.size-32 {
+  width: 16rem;
+  height: 16rem;
+}
+.size-48 {
+  width: 24rem;
+  height: 24rem;
+}
+.size-64 {
+  width: 32rem;
+  height: 32rem;
+}
+
+/* Media Page */
+
+.color-box {
+  width: 12rem;
+  height: 8rem;
+  border-radius: 1rem;
+  border: 1px solid #ddd;
+}
+
+.font-body-component {
+  margin-top: 0.5rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.font-body-component p {
+  margin-bottom: 0px;
 }
