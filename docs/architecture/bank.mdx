@@ -1,0 +1,207 @@
+---
+title: "Bank"
+sidebar_position: 3
+---
+
+Empowering Assets: Your Dynamic Token Management Solution
+
+## Overview:
+
+The banking system within Unit Network stands as a cornerstone of its functionality, providing a robust and adaptable framework for managing assets and executing transactions seamlessly.
+
+Through a diverse array of functionalities, storage solutions, and specialized roles allocated to distinct banks, the network guarantees the efficient and secure handling of a wide range of asset types.
+
+This documentation serves to elucidate the essential technical components of Unit Network's banking system, catering to both users and developers by offering a thorough comprehension of its inner workings.
+
+## Technical Insights:
+
+Every asset type within the Unit Network is associated with a specific bank, identified by its token ID.
+
+The bank pallet exposes five primary extrinsic functions for asset transfer, facilitating smooth transactions:
+
+Users can transfer assets to a designated bank.
+
+Asset creators hold the privilege to transfer assets from the originating bank to users.
+
+Banks are empowered to transfer assets to other banks and treasuries.
+
+Each executed transfer triggers an event in the Unit blockchain, signaling either the successful completion of the transfer or an error indication in case of failure due to reasons like insufficient balance or lack of permission.
+
+## Key Highlights:
+
+Token creators possess the authority to transfer assets between users, banks, and treasuries.
+
+Banks are uniquely identified by their IDs, mirroring the IDs of the tokens they represent.
+
+Upon token creation, a default supply (which is fixed but adjustable) is minted to the respective token's bank.
+
+Outgoing transfers from a bank result in an increment in the total circulating supply of the transferred tokens.
+
+Token creators retain the capability to increase the total supply; however, all tokens must remain within the bank. There cannot be any transfer of tokens
+
+Modifications to the default supply of newly created tokens can be accomplished through the assets pallet.
+
+## Storage Management:
+
+The BankTokens storage type monitors the quantity of tokens within a specified bank, with token ID and bank ID serving as the access keys to retrieve the token balance.
+
+The NextTransactionId storage type maintains the identifier for the forthcoming transaction; the first transaction of a bank is denoted by ID 0, incrementing sequentially with each subsequent transaction, with the bank ID acting as the access key.
+
+BankTransactions storage type preserves transaction details, accessible through bank ID and transaction ID, encompassing token ID, amount, sender, and receiver information.
+
+## Diverse Bank Types:
+
+In the Unit Network ecosystem, various bank types fulfill specialized roles in managing an extensive array of assets, ranging from fiat stable tokens to user-generated and wrapped cryptocurrencies.
+
+These banks not only facilitate transactions and asset storage but also uphold the stability and integrity of the managed tokens.
+
+Each bank type boasts distinctive characteristics and operational mechanisms meticulously crafted to cater to the specific requisites of the supported asset types.
+
+## Note:
+
+:::note[Wrapped Assets do not have a Bank]
+
+User created tokens (crypto assets). City and Industry tokens have a Bank
+
+Stable tokens have a bank but the logic differes from that of user created tokens, city and industry tokens.
+:::
+
+:::note[Banks for Stable Tokens:]
+
+In contrast to user-created token banks, stable token banks establish stringent control over token transfers, ensuring stability and reliability in transactions. Here's a breakdown of their key functionalities and operational principles:
+
+1. **Redemption Efficiency**:
+
+- Users are unable to transfer stable tokens from their banks; however, redemption at the bank seamlessly transfers the redeemed value to the user.
+
+2. **Asset Holding**:
+
+- Stable token banks can only hold "Wrapped" Assets. and the token itself.
+
+3. **Minting and Sales Module Integration**:
+
+- Stables are minted upon purchase via the Sales module, fostering a seamless acquisition process for users.
+
+4. **Collateralization Mechanism**:
+
+- Banks serve as collateralization hubs for stable tokens, with an expectation of over-collateralization over time, ensuring robustness and stability.
+
+5. **Price Stability Assurance**:
+
+- Stable tokens maintain price stability through collateral reserve assets held within their respective banks, reinforcing trade stability on the platform.
+
+6. **Exclusive Collateral Utilization**:
+
+- Unlike other token types, stable tokens exclusively rely on their bank reserves for collateral, enhancing reliability and consistency.
+
+7. **Market Pegging Mechanism**:
+
+- Each stable token is pegged to its corresponding fiat currency, facilitated by off-chain oracles that provide real-time market value updates.
+
+8. **Diversified Risk Management**:
+
+- Stable token banks maintain a diversified asset portfolio, hedging against potential losses by balancing assets to ensure resilience and stability.
+
+9. **Redemption Requirements**:
+
+- Users can redeem stable tokens by transferring them to the token's bank, subject to a 10x over-collateralization threshold for bank stability.
+
+10. **Dynamic Supply Management**:
+
+- The total supply of stable tokens remains variable, with minting upon purchase and burning upon redemption, ensuring alignment with market demands and stability goals.
+  :::
+
+:::note[Elevated Reserve Asset Banks:]
+
+Distinguished by their autonomy and versatility, reserve asset banks for wrapped cryptocurrencies stand as pivotal entities within Unit Network.
+
+Here's a closer look at their pivotal role and operational dynamics:
+
+1. **Independent Control:**
+
+- Wrapped cryptocurrencies boast banks under their exclusive control, ensuring autonomy and integrity in asset management.
+
+2. **Versatile Asset Hosting:**
+
+- With the capacity to harbor any asset, reserve asset banks offer unparalleled flexibility in accommodating diverse asset types.
+
+3. **Gateway for Blue Chip Cryptos:**
+
+- Wrapped crypto serves as the conduit for prestigious blue-chip cryptocurrencies like Bitcoin, Ethereum, and Dot to seamlessly integrate and operate within the Unit Network ecosystem.
+
+These banks serve as the backbone for the integration and seamless operation of blue-chip cryptocurrencies within Unit Network, offering a secure and versatile environment for asset management.
+:::
+
+:::note[User-Created Token Banks Unveiled:]
+
+In the vibrant landscape of user-created tokens, banks emerge as pivotal hubs under the creator's domain, facilitating seamless token management and distribution.
+
+Here's an insightful glimpse into their operational intricacies:
+
+1. **Creator's Control Hub**:
+
+- Token creators wield authoritative control over the bank housing the initial total token supply upon minting.
+
+2. **Comprehensive Transfer Authority**:
+
+- Empowered by the creator, token banks facilitate transfers to users, other banks, or treasuries, ensuring fluid token circulation.
+
+3. **Versatile Asset Holding**:
+
+- Token banks exhibit remarkable versatility by accommodating an array of other tokens, amplifying their utility and interconnectivity.
+
+4. **Automated Sale Transactions**:
+
+- During token sales, banks seamlessly facilitate the transfer of purchased tokens to buyers, alongside the distribution of any associated bonuses.
+
+5. **Dynamic Circulating Supply**:
+
+- Outgoing transfers from the bank dynamically augment the total circulating supply, reflecting the evolving token ecosystem's dynamics.
+
+6. **Pre-Transfer Supply Modification**:
+
+- Prior to any token transfers, the total supply remains adjustable, providing flexibility for modifications as per evolving requirements.
+
+7. **Supply Adjustment Protocols**:
+
+- To modify the total supply, the presence of all tokens within the bank is a prerequisite, ensuring integrity and accuracy in supply adjustments.
+
+8. **Fixed Supply Dynamics**:
+
+- Following the initial token transfer, the total supply becomes immutable unless all tokens are returned to the bank, ensuring stability and predictability in token economics.
+
+These banks serve as the cornerstone of user-created token ecosystems, embodying flexibility, control, and integrity in managing token supplies and facilitating seamless transactions across Unit Network platform.
+:::
+
+:::note[Unit Token Bank Unveiled:]
+
+At the heart of the Unit ecosystem lies the Unit token bank, serving as the custodian for all un-transferred Unit tokens.
+
+Here's an insightful overview of its pivotal role and operational dynamics:
+
+1. **Reservoir of Unit Tokens**:
+
+- The Unit token bank serves as the repository for all un-transferred Unit tokens, safeguarding their integrity and availability.
+
+2. **Versatile Asset Custodianship**:
+
+- While capable of holding any asset, the backing collateral for Unit tokens is securely stored in the Unit treasury, ensuring stability and reliability.
+
+3. **Comprehensive Transfer Authority**:
+
+- Empowered by its inherent functionality, the Unit token bank facilitates seamless transfers of Unit tokens, as well as other assets, to users, banks, and treasuries.
+
+4. **Automated Purchase Facilitation**:
+
+- During Unit token purchases, the bank orchestrates the automatic transfer of acquired Unit tokens to buyers, alongside the equitable distribution of bonuses allotted from sales to the designated recipients.
+
+5. **Dynamic Supply Dynamics**:
+
+- Outgoing transfers from Unit token bank contribute to an increase in the total supply of Unit tokens, aligning with evolving transactional needs. However, the total supply remains fixed, ensuring a finite quantity of Unit tokens in circulation.
+
+6. **Immutable Total Supply**:
+
+- With a fixed total supply, the Unit token ecosystem guarantees that the quantity of Unit tokens in existence will never surpass the predetermined limit, fostering stability and predictability within the network.
+
+The Unit token bank stands as a cornerstone of the Unit ecosystem, embodying reliability, functionality, and integrity in managing Unit tokens and facilitating seamless transactions across Unit Network platform.
+:::
