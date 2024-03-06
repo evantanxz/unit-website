@@ -411,6 +411,23 @@ header {
   }
 }
 
+/* LinkComponent */
+.link-component {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #eaeaea;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  color: black;
+  transition: all 0.3s ease;
+}
+.link-component:hover {
+  border: 1px solid #007373;
+  color: #007373;
+  text-decoration: none;
+}
+
 /* Docs */
 .docs-grid-alt {
   display: grid;
