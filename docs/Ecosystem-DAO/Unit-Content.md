@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 description: "Empowering Your Digital Presence with Content Strategy, Branding, and Social Media Excellence"
 ---
 

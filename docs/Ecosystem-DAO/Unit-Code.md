@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 description: "Unit Code is a trailblazer in crafting innovative applications, offering expert blockchain development and decentralized application (dApp) building services."
 ---
 
@@ -33,4 +33,5 @@ Discover the unparalleled advantages of partnering with Unit Code for your block
 5. Full-stack development
 
 With expertise in these critical areas, we assure the creation of highly functional, secure, and user-friendly blockchain applications.
+
 Choose Unit Code for a development journey marked by excellence, making a substantial impact on the evolution of decentralized financial services.

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 description: "Elevate Your Experience, Unleash Change"
 ---
 

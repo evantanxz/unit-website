@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 9
 description: "Revolutionizing Global Industries in the Digital Age"
 ---
 
