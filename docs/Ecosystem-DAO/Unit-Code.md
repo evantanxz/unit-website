@@ -3,7 +3,7 @@ sidebar_position: 3
 description: "Unit Code is a trailblazer in crafting innovative applications, offering expert blockchain development and decentralized application (dApp) building services."
 ---
 
-# Unit Code
+# Unit Code ($CODE)
 
 Powering the Future with Blockchain Innovation ($CODE)
 

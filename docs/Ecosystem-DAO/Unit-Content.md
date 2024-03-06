@@ -3,7 +3,7 @@ sidebar_position: 4
 description: "Empowering Your Digital Presence with Content Strategy, Branding, and Social Media Excellence"
 ---
 
-# Unit Content
+# Unit Content ($CONTENT)
 
 Empowering Your Digital Presence
 
