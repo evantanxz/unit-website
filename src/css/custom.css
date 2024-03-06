@@ -382,13 +382,13 @@ header {
 .grid-component {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 32px;
+  row-gap: 24px;
+  column-gap: 12px;
 }
 .grid-box {
   border: 1px solid #ddd;
   border-radius: 8px;
-  padding: 48px 16px;
-  margin: 16px 0;
+  padding: 16px;
 }
 
 @media (max-width: 1180px) {
