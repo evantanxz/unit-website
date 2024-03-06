@@ -1,6 +1,6 @@
 ---
 title: Official Links
-sidebar_position: 2
+sidebar_position: 13
 description: "Unit Network official links, platforms and channels"
 ---
 
