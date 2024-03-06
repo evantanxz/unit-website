@@ -45,23 +45,23 @@ In summary, Unit Network's revenue model is not only transparent but also aligns
 
 Unit Network distinguishes itself as a purpose-built and sovereign blockchain, setting it apart from major players like Bitcoin (BTC) and Ethereum (ETH). Here are key features that highlight its uniqueness:
 
-1. Application-Specific Blockchain:
+1. **Application-Specific Blockchain**:
 
 - Unit Network is tailored for specific applications, providing a focused and efficient environment for various use cases. Unlike general-purpose blockchains, it is designed with specific functionalities in mind.
 
-2. Proof-of-Stake Model:
+2. **Proof-of-Stake Model**:
 
 - The platform utilizes a proof-of-stake consensus model, enhancing energy efficiency compared to the energy-intensive proof-of-work model employed by Bitcoin. This contributes to a more sustainable and eco-friendly blockchain ecosystem.
 
-3. Transaction Speeds:
+3. **Transaction Speeds**:
 
 - With its proof-of-stake model, Unit Network potentially offers faster transaction speeds. This is a significant advantage, particularly in scenarios where quick and efficient transactions are essential.
 
-4. Minimal Fee Structure:
+4. **Minimal Fee Structure**:
 
 - Unit Network features a minimal fee structure, providing a cost-effective solution for users. This stands in contrast to higher transaction fees often associated with Bitcoin and Ethereum, especially during periods of high network congestion.
 
-5. Cost-Effective and Scalable:
+5. **Cost-Effective and Scalable**:
 
 - The minimal fee structure, combined with the platform's design, makes Unit Network a cost-effective and scalable choice for specific blockchain applications. This can lead to more efficient and economical transactions for users.
 
