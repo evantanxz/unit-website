@@ -21,7 +21,6 @@ function NavbarItems({ items }) {
     <>
       {items.map((item, i) => (
         <>
-          {i !== 0 && <div className={styles.divider} />}
           <ErrorCauseBoundary
             key={i}
             onError={(error) =>
@@ -33,13 +32,7 @@ ${JSON.stringify(item, null, 2)}`,
               )
             }
           >
-            <NavbarItem
-              {...item}
-              className={clsx(
-                i === 0 && styles.marginLeftAuto,
-                i + 1 === items.length && styles.marginRightAuto
-              )}
-            />
+            <NavbarItem {...item} />
           </ErrorCauseBoundary>
         </>
       ))}

@@ -16,21 +16,10 @@ function HomepageHeader() {
   return (
     <header className={clsx("hero", styles.heroBanner, "header-style")}>
       <div className="container">
-        <div>
-          <img
-            className="unit-hero-logo"
-            src={
-              colorMode === "dark"
-                ? useBaseUrl("/img/unit-logo-dark.png")
-                : useBaseUrl("/img/unit-logo-color.png")
-            }
-            width="150px"
-          ></img>
-        </div>
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle hero-subtitle">
+        <p className="hero__subtitle">
           <Translate>
             Unit Network redefines a new financial system, powered by AI,
             blockchain, and the tokenisation of assets in the real world
@@ -39,16 +28,35 @@ function HomepageHeader() {
         <div className={clsx(styles.buttons, "button-container-style")}>
           <Link
             className="button button--secondary button--lg button-style"
-            to="https://app.unit.network/login"
-          >
-            <Translate>Log In</Translate>
-          </Link>
-          <Link
-            className="button button--secondary button--lg button--outline button-style"
             to="/documentation-hub"
           >
             <Translate>Documentation Hub</Translate>
           </Link>
+          <Link
+            className="button button--primary button--black button--lg button-style"
+            to="https://app.unit.network/login"
+          >
+            <Translate>Log In</Translate>
+          </Link>
+        </div>
+        <div className="flex-center flex-col mt-2">
+          <div className="flex-center gap-1">
+            <span className="font-poppins">Have an invite?</span>
+            <a
+              className="font-poppins"
+              href="https://app.unit.network/register"
+            >
+              Sign Up
+            </a>
+          </div>
+        </div>
+
+        <div className="hero-logo-container">
+          <img
+            className="unit-hero-logo"
+            src={useBaseUrl("/img/logo-3d.png")}
+            width="750px"
+          ></img>
         </div>
       </div>
     </header>

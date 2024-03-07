@@ -105,24 +105,52 @@ figure figcaption {
   margin-right: 10px;
 }
 
-.navbar__item {
-  font-size: 1rem;
+.navbar__item,
+.navbar__link {
+  font-family: "Poppins", sans-serif;
 }
 
 .navbar {
   height: 100px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 10px;
+  box-shadow: none;
 }
 
-/*index.js */
-.hero__subtitle {
-  font-size: 1.4rem;
-  width: 80%;
-  margin: auto;
-  margin-bottom: 50px;
+/* Home Page */
+.hero {
+  padding: 4rem 2rem 0 2rem;
 }
 
 .hero__title {
-  font-size: 2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .hero__title {
+    font-size: 3.75rem;
+    font-weight: 600;
+  }
+}
+
+.hero__subtitle {
+  font-size: 1rem;
+  font-family: "Lato", sans-serif;
+  width: 100%;
+  margin: auto;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .hero__subtitle {
+    font-size: 1.25rem;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 2rem;
+  }
 }
 
 header {
@@ -133,6 +161,12 @@ header {
 .button {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
+}
+.button--black {
+  background-color: #2c2c2e;
+}
+.button--black:hover {
+  background-color: #3c3c3e;
 }
 
 [data-theme="dark"] .button--secondary {
@@ -165,10 +199,16 @@ header {
 .header-style {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
-  padding-bottom: 12rem;
-  height: 90vh;
+  min-height: 90vh;
+  overflow: visible;
+}
+
+@media (min-width: 768px) {
+  .header-style {
+    justify-content: center;
+  }
 }
 
 .header-title {
@@ -182,8 +222,15 @@ header {
   margin-bottom: 50px;
 }
 
+.hero-logo-container {
+  margin-top: 4rem;
+}
 .unit-hero-logo {
-  margin-bottom: 30px;
+  position: absolute;
+  margin-top: 4rem;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
 }
 
 .hero-subtitle {
@@ -194,6 +241,7 @@ header {
 .button-container-style {
   display: flex;
   flex-direction: column;
+  row-gap: 0.5rem;
 }
 
 .button-style-radius {
@@ -208,7 +256,9 @@ header {
 .button-style {
   margin: 5px 0;
   width: 350px;
-  font-family: "Inter", sans-serif;
+  padding: 0.75rem 0;
+  border-radius: 10px;
+  font-family: "Poppins", sans-serif;
 }
 
 .container {
@@ -257,7 +307,12 @@ header {
 
 /* footer */
 .footer {
-  padding: 80px 0;
+  padding-bottom: 80px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .footer__title {
@@ -275,11 +330,10 @@ header {
   }
 
   .header-style {
-    height: 85vh;
+    min-height: 85vh;
   }
 
   .unit-hero-logo {
-    width: 120px;
     margin-bottom: 10px;
   }
 
@@ -639,7 +693,9 @@ header {
 .justify-between {
   justify-content: space-between;
 }
-
+.gap-1 {
+  gap: 0.25rem;
+}
 .gap-2 {
   gap: 0.5rem;
 }
@@ -653,6 +709,15 @@ header {
   gap: 2rem;
 }
 
+.mt-0 {
+  margin-top: 0;
+}
+.mt-2 {
+  margin-top: 0.5rem;
+}
+.mt-4 {
+  margin-top: 1rem;
+}
 .mb-0 {
   margin-bottom: 0;
 }
