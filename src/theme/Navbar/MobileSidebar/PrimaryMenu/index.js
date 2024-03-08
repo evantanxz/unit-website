@@ -1,10 +1,10 @@
 import { useThemeConfig } from "@docusaurus/theme-common";
 import { useNavbarMobileSidebar } from "@docusaurus/theme-common/internal";
 import NavbarItem from "@theme/NavbarItem";
+import { useMobileNavbarStore } from "../../../../store/useMobileNavbarStore";
 import React from "react";
 
 import clsx from "clsx";
-import styles from "./styles.module.css";
 
 function useNavbarItems() {
   // TODO temporary casting until ThemeConfig type is improved
@@ -21,15 +21,24 @@ export default function NavbarMobilePrimaryMenu() {
   return (
     <ul className="menu__list">
       {dropdownItem && <NavbarItem mobile {...dropdownItem} />}
+      <li class="menu__list-item">
+        <a
+          href="https://app.unit.network/login"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="menu__link mt-8"
+        >
+          Log In
+        </a>
+      </li>
       {items
         .filter((item) => item.type !== "localeDropdown")
         .map((item, i) => (
           <NavbarItem
             mobile
             {...item}
-            // onClick={() => mobileSidebar.toggle()}
             key={i}
-            className={clsx(i === 0 && styles.margin_top_md)}
+            className={clsx(i === 0 && "mt-8")}
           />
         ))}
     </ul>

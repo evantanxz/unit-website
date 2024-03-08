@@ -160,7 +160,7 @@ const config = {
           src: "img/u-light.png",
           srcDark: "img/u-dark.png",
           href: "https://tolstoy.unitcode.org/",
-          width: 35,
+          width: 30,
         },
 
         links: [

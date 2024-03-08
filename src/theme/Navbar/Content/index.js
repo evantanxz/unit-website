@@ -12,7 +12,9 @@ import SearchBar from "@theme/SearchBar";
 import clsx from "clsx";
 import React from "react";
 import styles from "./styles.module.css";
-import { useMobileNavbarStore } from "../../../store/useMobileNavbarStore";
+import Link from "@docusaurus/Link";
+import Translate from "@docusaurus/Translate";
+
 function useNavbarItems() {
   // TODO temporary casting until ThemeConfig type is improved
   return useThemeConfig().navbar.items;
@@ -80,6 +82,12 @@ export default function NavbarContent() {
               <SearchBar />
             </NavbarSearch>
           )}
+          <Link
+            className="button button--primary button--black button--lg navbar-login-button"
+            to="https://app.unit.network/login"
+          >
+            <Translate>Log In</Translate>
+          </Link>
           {!mobileSidebar.disabled && <NavbarMobileSidebarToggle />}
         </>
       }

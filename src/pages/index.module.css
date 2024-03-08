@@ -7,13 +7,6 @@
   text-align: center;
   position: relative;
   overflow: visible;
-  margin-bottom: 6rem;
-}
-
-@media screen and (min-width: 768px) {
-  .heroBanner {
-    margin-bottom: 22rem;
-  }
 }
 
 .buttons {
