@@ -12,6 +12,7 @@ import SearchBar from "@theme/SearchBar";
 import clsx from "clsx";
 import React from "react";
 import styles from "./styles.module.css";
+import { useMobileNavbarStore } from "../../../store/useMobileNavbarStore";
 function useNavbarItems() {
   // TODO temporary casting until ThemeConfig type is improved
   return useThemeConfig().navbar.items;

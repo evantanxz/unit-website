@@ -20,20 +20,14 @@ export default function NavbarMobilePrimaryMenu() {
 
   return (
     <ul className="menu__list">
-      {dropdownItem && (
-        <NavbarItem
-          mobile
-          {...dropdownItem}
-          onClick={() => mobileSidebar.toggle()}
-        />
-      )}
+      {dropdownItem && <NavbarItem mobile {...dropdownItem} />}
       {items
         .filter((item) => item.type !== "localeDropdown")
         .map((item, i) => (
           <NavbarItem
             mobile
             {...item}
-            onClick={() => mobileSidebar.toggle()}
+            // onClick={() => mobileSidebar.toggle()}
             key={i}
             className={clsx(i === 0 && styles.margin_top_md)}
           />

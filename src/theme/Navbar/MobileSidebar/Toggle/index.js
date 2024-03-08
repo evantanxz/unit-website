@@ -1,12 +1,14 @@
 import { translate } from "@docusaurus/Translate";
 import { useNavbarMobileSidebar } from "@docusaurus/theme-common/internal";
-import IconMenu from "@theme/Icon/Menu";
 import React from "react";
+import { useMobileNavbarStore } from "../../../../store/useMobileNavbarStore";
+import clsx from "clsx";
 export default function MobileSidebarToggle() {
   const { toggle, shown } = useNavbarMobileSidebar();
+  const { isOpened, setIsOpened } = useMobileNavbarStore();
+
   return (
-    <button
-      onClick={toggle}
+    <div
       aria-label={translate({
         id: "theme.docs.sidebar.toggleSidebarButtonAriaLabel",
         message: "Toggle navigation bar",
@@ -14,11 +16,24 @@ export default function MobileSidebarToggle() {
           "The ARIA label for hamburger menu button of mobile navigation",
       })}
       aria-expanded={shown}
-      className="navbar__toggle clean-btn"
-      type="button"
-      style={{ marginRight: 0 }}
+      className="mobile-navbar-hamburger-container"
+      onClick={() => {
+        toggle();
+        setIsOpened(!isOpened);
+      }}
     >
-      <IconMenu />
-    </button>
+      <div
+        className={clsx(
+          "mobile-navbar-hamburger-lines",
+          isOpened && "mobile-navbar-hamburger-lines--active-top"
+        )}
+      ></div>
+      <div
+        className={clsx(
+          "mobile-navbar-hamburger-lines",
+          isOpened && "mobile-navbar-hamburger-lines--active-bottom"
+        )}
+      ></div>
+    </div>
   );
 }

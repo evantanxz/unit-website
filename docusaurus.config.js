@@ -41,17 +41,17 @@ const config = {
     defaultLocale: "en",
     locales: [
       "en",
-      "cn",
-      "es",
-      "ar",
-      "pt",
-      "id",
-      "fr",
-      "jp",
-      "ru",
-      "de",
-      "kr",
-      "tr",
+      // "cn",
+      // "es",
+      // "ar",
+      // "pt",
+      // "id",
+      // "fr",
+      // "jp",
+      // "ru",
+      // "de",
+      // "kr",
+      // "tr",
     ],
     localeConfigs: {
       en: {
@@ -128,14 +128,15 @@ const config = {
         title: "Unit Network",
         logo: {
           alt: "My Site Logo",
-          src: "img/unit-logo.png",
+          src: "img/u-light.png",
+          srcDark: "img/u-dark.png",
         },
         items: [
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Documentation",
+            label: "Documentation Hub",
             href: "/documentation-hub",
           },
           {
@@ -156,10 +157,10 @@ const config = {
         style: "light",
         logo: {
           alt: "Unit Network Logo",
-          src: "img/unit-logo.png",
+          src: "img/u-light.png",
+          srcDark: "img/u-dark.png",
           href: "https://tolstoy.unitcode.org/",
-          width: 50,
-          height: 50,
+          width: 35,
         },
 
         links: [
