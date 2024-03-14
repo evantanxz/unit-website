@@ -1,11 +1,18 @@
 import { translate } from "@docusaurus/Translate";
 import { useNavbarMobileSidebar } from "@docusaurus/theme-common/internal";
-import React from "react";
+import React, { useEffect } from "react";
 import { useMobileNavbarStore } from "../../../../store/useMobileNavbarStore";
 import clsx from "clsx";
+import { useLocation } from "@docusaurus/router";
 export default function MobileSidebarToggle() {
   const { toggle, shown } = useNavbarMobileSidebar();
   const { isOpened, setIsOpened } = useMobileNavbarStore();
+
+  const location = useLocation();
+
+  useEffect(() => {
+    if (shown) toggle();
+  }, [location]);
 
   return (
     <div

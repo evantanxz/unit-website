@@ -21,12 +21,12 @@ export default function NavbarMobilePrimaryMenu() {
   return (
     <ul className="menu__list">
       {dropdownItem && <NavbarItem mobile {...dropdownItem} />}
-      <li class="menu__list-item">
+      <li className="menu__list-item">
         <a
           href="https://app.unit.network/login"
           target="_blank"
           rel="noopener noreferrer"
-          class="menu__link mt-8"
+          className="menu__link mt-8"
         >
           Log In
         </a>
