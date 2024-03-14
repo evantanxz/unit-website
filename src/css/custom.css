@@ -185,7 +185,7 @@ figure figcaption {
 .menu__list a {
   font-size: 1.25rem;
   font-weight: 600;
-  margin: 0.5rem 0rem;
+  margin: 0.25rem 0rem;
   padding-left: 2rem;
 }
 
@@ -206,10 +206,6 @@ figure figcaption {
 [data-theme="dark"] .menu__list a:not([href]) {
   background-color: #3a3a3c;
   color: #f2f2f7;
-}
-
-.menu__list-item:not(:first-child) {
-  margin-top: 0.75rem;
 }
 
 .theme-doc-sidebar-item-link-level-2 a,
