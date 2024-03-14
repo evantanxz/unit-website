@@ -51,6 +51,10 @@ html[data-theme="dark"] {
   --ifm-background-color: #2c2c2e;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   font-family: "Inter", sans-serif;
 }
